@@ -201,5 +201,3 @@ programmimg language.
 .. _Sage: http://www.sagemath.org/
 .. _NetworkX: http://networkx.lanl.gov/
 .. _Python(X,Y): http://code.google.com/p/pythonxy/wiki/Welcome
-
-.. image:: /static/images/scikits.png
