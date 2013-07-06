@@ -1,14 +1,13 @@
 Circuitscape Protects Endangered Species Using PyAMG
-----------------------------------------------------
-:date: 2012-02-25 15:47
+####################################################
+:date: 2012-02-25
 :author: Leah
-:slug: user-stories
+:slug: python-pyamg
 
-`|image0|`_
------------
+.. image:: /static/images/zimmer_gene_circuit_500px.jpg
 
-Scientists map the "current" of mountain lions moving between mountain ranges. Blue shows areas of low current density, which are expected to have low densities of dispersing mountain lions; yellow designates movement bottlenecks, which are most vulnerable to habitat destruction. Destroying high-flow habitat can isolate populations and endanger their survival. \ *
- Image: Brad McRae and Brett Dickson* 
+Scientists map the "current" of mountain lions moving between mountain ranges. Blue shows areas of low current density, which are expected to have low densities of dispersing mountain lions; yellow designates movement bottlenecks, which are most vulnerable to habitat destruction. Destroying high-flow habitat can isolate populations and endanger their survival. \ 
+**Image: Brad McRae and Brett Dickson**
 
 \ `PyAMG`_\  is an open-source numerical package of multigrid and Krylov
 solvers for sparse matrices in Python.  One of the biggest users of
@@ -42,7 +41,6 @@ Wildlife Corridor Design by Eric Wagner`_\
 *Earthtimes.org*: `Where Mountain Lions Roam: Star-P Helps Decipher
 Threatened Wildlife Migration`_
 
-.. |image0| image:: http://numfocus.org/wp-content/uploads/2012/02/zimmer_gene_circuit_500px.jpg
 .. _PyAMG: http://code.google.com/p/pyamg/
 .. _Circuitscape: http://www.circuitscape.org/Circuitscape/Welcome.html
 .. _Brad McRae: http://www.nceas.ucsb.edu/~mcrae/Welcome.html

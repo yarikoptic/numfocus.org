@@ -1,11 +1,11 @@
 Python in Astronomy
 -------------------
-:date: 2012-02-25 15:47
+:date: 2012-02-25
 :author: Leah
-:slug: user-stories
+:slug: python-in-astronomy
 
 
-`|image1|`_
+.. image:: /static/images/sn-blackholes.jpg
 
 On 28 March, NASA’s Swift satellite \ `observed a flash of gamma rays
 brighter than anything astronomers had seen before`_. It soon became
@@ -29,12 +29,9 @@ two papers. Bloom expects the flare to fade out over the next year.
 
 by Yudhijit Bhattacharjee on 16 June 2011, 2:00 PM
 
-**For related story and photo, \ `http://discovermagazine.com/2012/jan-feb/14`_.**
+For related story and photo, `http://discovermagazine.com/2012/jan-feb/14`_.
 
  
-.. _|image1|: image:: http://numfocus.org/wp-content/uploads/2012/02/sn-blackholes.jpg
-.. _|image3|: http://www.wired.com/science/planetearth/news/2007/12/dissection_1210#
-.. _|image4|: http://numfocus.org/wp-content/uploads/2012/02/sn-blackholes.jpg
 .. _observed a flash of gamma rays brighter than anything astronomers had seen before: http://news.sciencemag.org/sciencenow/2011/04/star-eating-black-hole-may-be-pr.html?ref=hp
 .. _a high-energy jet of radiation: http://www.sciencemag.org/cgi/content/abstract/science.1207143
 .. _the black hole is consuming the star gradually: http://www.sciencemag.org/cgi/content/abstract/science.1207150

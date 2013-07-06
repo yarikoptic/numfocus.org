@@ -1,10 +1,10 @@
-\ **Tokyo SciPy**\ 
--------------------
+Tokyo SciPy
+-----------
 :date: 2012-02-25 15:47
 :author: Leah
-:slug: user-stories
+:slug: tokyo-scipy2012
 
-`|image2|`_
+.. image:: /static/images/Tokyo-SciPy.jpg
 
 Chairman of NumFOCUS' Board of Director's,Travis Oliphant, spoke at the
 March meeting of Tokyo SciPy via live webcast.  Topics he covered
@@ -20,9 +20,7 @@ Despite a late night, due to the fourteen hour time difference between
 Austin and Tokyo, Travis spoke for over an hour.  He later stated, “…it
 was nice to see that SciPy and NumPy have a user community in Japan.”
 
-.. |image2| image:: http://numfocus.org/wp-content/uploads/2012/02/Tokyo-SciPy.jpg
 
 .. _SciPy: http://scipy.org/
 .. _NumPy : http://numpy.org/
 .. _`http://code.google.com/p/smoke3d/`: http://code.google.com/p/smoke3d/
-.. |image5| image:: http://numfocus.org/wp-content/uploads/2012/02/Tokyo-SciPy.jpg
