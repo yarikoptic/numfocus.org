@@ -160,7 +160,7 @@ table th[class*="span"],
 #banner strong {display:block;}
 #banner h1 {
 	font-size:3.25rem;
-	background: url(http://localhost:8000/static/images/nf-web-with-tag.jpg);
+	background: url(../static/images/nf-web-with-tag.jpg);
 	background-size: 300px;
 	background-repeat: no-repeat;
 	height: 170px;
