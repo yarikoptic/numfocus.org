@@ -4,7 +4,8 @@ Donate
 :author: Leah
 :slug: donatejoin
 
-`|image0|`_
+.. image:: /static/images/nf-web-with-tag.jpg
+    :height: 200px
 
 NumFOCUS supports and promotes world-class, innovative, open source
 scientific software. Most individual projects, even the wildly
@@ -46,157 +47,75 @@ providers.
 
 .. raw:: html
 
-   </p>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+      <input type="hidden" name="cmd" value="_s-xclick"/><br />
+      <input type="hidden" name="hosted_button_id" value="HK2N4RM5NMDZC"/><br />
+      <input type="image"
+             src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" 
+             border="0"
+             name="submit"
+             alt="PayPal - The safer, easier way to pay online!"/><br />
+      <img alt=""
+            border="0"
+            src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+            width="1"
+            height="1"/><br />
+    </form>
 
-.. raw:: html
-
-   <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-
- |image1|
-
-.. raw:: html
-
-   </form>
-
-.. raw:: html
-
-   </div>
-
- 
-
-.. raw:: html
-
-   <div>
 
 **Google Checkout** - (2.90% + $0.30 / transaction)
 
 .. raw:: html
 
-   </p>
+    <table width="1%" cellspacing="0" cellpadding="5">
+    <tbody>
+    <tr>
+      <td align="right" nowrap="nowrap" width="1%">$ 
+        <input id="item_price_1" type="text" name="item_price_1" value="64.00" size="6" />
+      </td>
+      <td align="left" width="1%">
+        <input type="image" src="https://checkout.google.com/buttons/donateNow.gif?merchant_id=112611646391039&amp;w=115&amp;h=50&amp;style=white&amp;variant=text&amp;loc=en_US" alt="Donate" />
+      </td>
+    </tr>
+    </tbody>
+    </table>
 
-+------+----+
-| $    |    |
-+------+----+
-
-.. raw:: html
-
-   </div>
-
- 
-
-.. raw:: html
-
-   <div>
 
 **WePay** - (2.90% + $0.30 / transaction)
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
 `Donate`_ (custom amount)
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
 
 `Donate $512.00`_
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
 `Donate $256.00`_
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
 
 `Donate $128.00`_
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
 `Donate $64.00`_
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
 
 `Donate $32.00`_
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
 `Donate $16.00`_
 
-.. raw:: html
-
-   </div>
-
- 
-
-.. raw:: html
-
-   <div>
 
 **Dwolla** - ($0.25 / transaction) -- No credit cards and U.S. banks
 only
 
 .. raw:: html
 
-   </div>
+    <input onclick="location.href='https://www.dwolla.com/hub/numfocus?memo=General%20Fund';"
+           type="image"
+           src="https://www.dwolla.com/content/images/btn-donate-with-dwolla.png" />
 
-.. raw:: html
 
-   <div>
+**Checks** -  Make payable to NumFOCUS and mail to::
 
-   
-
-.. raw:: html
-
-   </div>
-
-**Checks - ** Make payable to NumFOCUS and mail to:
- NumFOCUS
- P.O. Box 90596
- Austin, TX 78709
+     NumFOCUS
+     P.O. Box 90596
+     Austin, TX 78709
 
 **Your personal contribution is greatly appreciated!**
 
- 
-
-.. _|image2|: http://numfocus.org/wp-content/uploads/2012/02/nf-logo2.jpg
 .. _Donate: https://www.wepay.com/donations/78917
 .. _Donate $512.00: https://www.wepay.com/donations/78917
 .. _Donate $256.00: https://www.wepay.com/donations/78917
@@ -206,5 +125,4 @@ only
 .. _Donate $16.00: https://www.wepay.com/donations/78917
 
 .. |image0| image:: http://numfocus.org/wp-content/uploads/2012/02/nf-logo2.jpg
-.. |image1| image:: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
 .. |image2| image:: http://numfocus.org/wp-content/uploads/2012/02/nf-logo2.jpg
