@@ -11,9 +11,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-#THEME = u'gumish'
-#CSS_FILE = 'gumby.css'
-THEME = u'/Users/terry10/code/pelican-themes/gum'
+THEME = u'gumish'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
