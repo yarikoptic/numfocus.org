@@ -151,6 +151,9 @@ table th[class*="span"],
   margin-left: 0;
 }
 
+/*numfocus purple: #7681DD*/
+/*numfocus pastel purple: #B5B8D3*/
+/*numfocus orange: #FF9C36*/
 
 /* Navigation
 --------------------------------------------------------- */
@@ -176,10 +179,10 @@ address { font-size:14px; margin-bottom:10px;}
 --------------------------------------------------------- */
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    color: #3498DB;
+    color: #7681DD;
 }
 
-a, a:hover { color: #3498DB; }
+a, a:hover { color: #7681DD; }
 a:focus { color: #34495E; }
 
 .btn a:hover, 
@@ -190,7 +193,7 @@ a:focus { color: #34495E; }
 
 /* Footer
 --------------------------------------------------------- */
-.bg { background:#eee; margin-top:35px; padding-top:25px; border-top:5px solid #3498DB; }
+.bg { background:#eee; margin-top:35px; padding-top:25px; border-top:5px solid #7681DD; }
 
 
 

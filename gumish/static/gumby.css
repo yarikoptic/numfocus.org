@@ -1610,11 +1610,11 @@ img {
   border-radius: 0 500px 500px 0;
 }
 .btn.primary, .skiplink.primary {
-  background: #3085d6;
-  border: 1px solid #3085d6;
+  background: #7681dd;
+  border: 1px solid #7681dd;
 }
 .btn.primary:hover, .skiplink.primary:hover {
-  background: #5b9ede;
+  background: #B5B8D3;
 }
 .btn.primary:active, .skiplink.primary:active {
   background: #236bb0;
@@ -5365,7 +5365,7 @@ form fieldset legend {
   color: #fff;
 }
 .badge.primary, .label.primary {
-  background: #3085d6;
+  background: #7681dd;
 }
 .badge.light, .label.light {
   background: #fff;
@@ -5542,7 +5542,7 @@ form fieldset legend {
 }
 .alert.primary {
   background: #85b7e7;
-  border: 1px solid #3085d6;
+  border: 1px solid #7681dd;
   color: #1a5186;
 }
 .alert.secondary {
@@ -6484,7 +6484,7 @@ div.buttons .primary {
 }
 
 #inner-nav .btn.active, #inner-nav #submit-link .btn {
-  background: #3085d6;
+  background: #7681dd;
 }
 #inner-nav .btn.active a, #inner-nav #submit-link .btn a {
   color: #fff;
@@ -6834,10 +6834,10 @@ div.buttons .primary {
 
 #inner-doc #sidebar-nav li.active a {
   color: #fff;
-  background: #3085d6;
+  background: #7681dd;
 }
 #inner-doc #sidebar-nav li.active a:hover {
-  background: #3085d6;
+  background: #7681dd;
 }
 
 #inner-doc #sidebar-nav a {
