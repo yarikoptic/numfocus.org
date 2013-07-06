@@ -5,13 +5,8 @@ Fiscal Sponsorship
 :slug: fiscal-sponsorship
 
 In our efforts to promote and support high-level languages, reproducible scientific research
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 and open-source development, we are proud to announce that our Fiscal Sponsorship
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 program is now underway.
-~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Fiscal Sponsorship is a an arrangement between a 501(c)(3) public
 charity and a project (that does not have that tax status) in which,
