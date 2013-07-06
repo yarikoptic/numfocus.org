@@ -1,10 +1,9 @@
 Women in Science and Engineering Boot Camp
 ##########################################
-
-:date: 07-04-2013
+:date: 2012-02-25 16:31
 
 Due in part to a generous donation made by J.P. Morgan to NumFOCUS, we are
-pleased to announce that NumFOCUS will be collaborating with Software Carpentry
+pleased to announce that `NumFOCUS`_ will be collaborating with `Software Carpentry`_
 to host a series of  boot camps to offer training for women in technology. The
 first, a boot camp for 120 women in science and engineering, will be held at
 the Microsoft Research Center in Cambridge, Massachusetts on June 24-25.
@@ -34,3 +33,6 @@ Sponsors
 - King Abdullah University of Science and Technology
 
 - Python Software Foundation
+
+.. _NumFOCUS: http://numfocus.org/
+.. _`Software Carpentry`: software-carpentry.org
