@@ -1,0 +1,94 @@
+Feb 4, 2013
+###########
+
+:date: 2013-02-04
+:participants: Leah Silen, Travis Oliphant, Anthony Scopatz, Ralf Gommers, Fernando Perez, Andy R. Terrel, Perry Greenfield, Jarrod Millman
+:absent: Prabhu Ramachandran, Emmanuelle Gouillart
+
+Approval of prior minutes
+-------------------------
+
+Prior minutes have been approved.
+
+Old Business
+------------
+  a Boot Camp for Women in Science and EngineeringThis is a Software Carpentry
+  workshop, requesting $6,000.  This is a worthy endeavor but beyond our
+  ability to fund at that level.  We’d be happy to contribute partially towards
+  this goal (up to $1500) and help them with the rest of the fundraising.  We
+  will advertise this on the website
+  
+  b Update on Christoph Deil’s Mac: Mac will be hosted in the US, will be
+  bought by Anthony from Apple and Leah will ship it to the hosting company.
+  Once it’s up and running it will be announced on the list.
+  
+  c Update on increasing board size: Nothing to report, Jarrod will follow-up
+  this week?  No new activity on this, Jarrod will report back on that.
+  
+  d PyGotham: Community site run by Gloria W., essentially a NYC PyCon.  Upon
+  further communication with her, it became clear that she had in mind a fair
+  amount of engagement which might go beyond the resources that Numfocus
+  currently has.  Athony and Fernando express that it’s important to have a
+  memo of understanding, stating that the conference is nonprofit and that
+  NumFOCUS supports it with the idea of promoting STEM in Python. Should be
+  checked that there are no tax-related issues with handling this money.
+  
+  e Result of numpy.com / numpy.org appraisal:
+  John Turner donated these two domains, he’s getting this appraisal notice so he can claim a tax deduction.
+  numpy.com: reported as worth $5850, the .org is still pending.
+  
+  f Follow up by Andy with Sloan Foundation program directors… Andy wanted to
+  know exactly what he should discuss with Sloan F. to avoid bombarding them
+  with too many things in parallel.  Andy asked about clarifying how the budget
+  would work for the technical fellowships.  After a fair amount of back and
+  forth on clarifying the intent of the TF idea, Jarrod, Andy and Ralf planned
+  to work further on making this more precise.  Andy mentioned the NSF
+  Computing Innovation Fellows program (http://cifellow.org/) (no longer
+  active) as well as Google Summer of Code
+  (https://developers.google.com/open-source/soc/) as two ideas that we can use
+  to frame the discussion.
+  
+  g The Sloan is also interested in citation/impact reporting, at SciPy’12
+  there was discussion about citation infrastructure for software.  The
+  alt-metrics community has done a lot of work on this, it might be useful to
+  interface with them.  Andy mentions that the NSF just put out a Dear
+  Colleague letter asking about how to measure the impact of software, perhaps
+  Numfocus could provide a reply to that.  Tam Reports
+  
+  Membership: Nothing to report, but Perry plans to start meetings to discuss
+  soon.
+  
+  Fundraising: Conversations with industry starting.   Financial Industry
+  interested in Technical Fellowships.
+  
+  Publicity/Promotion Grants/Fellowships: Nothing to report
+  
+  Finance
+
+New Business
+------------
+
+  a  Approved minutes are now on the website under “Board”
+  
+  b  NumFOCUS and SciPy 2013 conference: Andy  and Anthony are heavily involved
+  with the organization of this year’s SciPy conference, they will try to
+  involve others from the board on this effort.
+  
+  c  NumPy release management (Ondrej Certik, …): Odrej is moving on to a
+  postdoc position at Los Alamos.  He may be able to do a bit more release
+  management in the future, but it would be ideal if the money came via
+  NumFocus, since up until now it has been done directly as Continuum.  Once
+  that transition is done, Ondrej would report directly to Numfocus.  Ralf
+  points out that a discussion about the future of release management for
+  numpy, and whether the numpy community would be happy with Ondrej continuing
+  to work in this capacity via Numfocus.  
+  
+  d  PyData SV: Leah mentioned that Fernando will be a keynote speaker there
+  and that Anthony will run a tutorial on PyTables.  Tere’s also going to be a
+  PyCon Booth, Jarrod can’t make it but Andy will let us know soon if he can.
+  Fernando will go to the NumFocus booth a little.
+  
+  e The check for Miriam Sierig cleared and now all donations go directly to
+  her on the website.  The final amount collected by NumFocus, between the
+  creation of the Fund on August 29 2012 and Dec 31 2012 was $91,500.
+
