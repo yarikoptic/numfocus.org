@@ -32,6 +32,14 @@ SOCIAL = (('numfocus+subscribe@googlegroups.com', 'Join out mailing list'),
           ('https://twitter.com/numfocus', 'Twitter'),
           )
 
+MENUITEMS = [('Projects', 'projects.html'),
+             ('Board', 'board.html'),
+             ('Membership', 'membership.html'),
+             ('Donations', 'donations.html'),
+             ('Jobs', 'jobs.html'),
+             ('Sponsors', 'sponsors.html'),
+             ('Contact', 'contact.html'),
+             ]
 
 DIRECT_TEMPLATES = ('index', 'categories', 'archives')
 EXTRA_TEMPLATE_PATHS = ('templates',)
