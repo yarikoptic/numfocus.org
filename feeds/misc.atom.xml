@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/misc.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2013-07-05T00:00:00+02:00</updated><entry><title>Purpose</title><link href="http://numfocus.github.io/numfocus.org/purpose.html" rel="alternate"></link><updated>2013-07-05T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-05:purpose.html</id><summary type="html">&lt;p&gt;The purpose of NumFOCUS is to promote the use of accessible and reproducible
+computing in science and&amp;nbsp;technology.&lt;/p&gt;
+&lt;p&gt;This is accomplished&amp;nbsp;through:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Educational&amp;nbsp;Programs&lt;/li&gt;
+&lt;li&gt;The promotion of high-level languages, reproducible scientific research, and
+open-code&amp;nbsp;development&lt;/li&gt;
+&lt;li&gt;An increase in collaborative research tools and&amp;nbsp;documentation&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Python’s Use in Science</title><link href="http://numfocus.github.io/numfocus.org/pythons-use-in-science.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:pythons-use-in-science.html</id><summary type="html">&lt;p&gt;Please send links to papers, blogs, articles, or announcements that show
+Python&amp;#8217;s use in science to &lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Software Distributions</title><link href="http://numfocus.github.io/numfocus.org/software-distributions.html" rel="alternate"></link><updated>2012-12-21T17:37:00+01:00</updated><author><name>Scopatz</name></author><id>tag:numfocus.github.io/numfocus.org,2012-12-21:software-distributions.html</id><summary type="html">&lt;p&gt;The following are software distributions which may aid in performing
+computational science&amp;nbsp;tasks:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.enthought.com/products/epd.php"&gt;&lt;span class="caps"&gt;EPD&lt;/span&gt;&lt;/a&gt; from&amp;nbsp;Enthought&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://store.continuum.io/cshop/anaconda"&gt;Anaconda&lt;/a&gt; from Continuum&amp;nbsp;Analytics&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://sagemath.org"&gt;Sage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.pyzo.org/"&gt;Pyzo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.pythonxy.com/"&gt;Python(x,y)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://code.google.com/p/winpython/"&gt;WinPython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.activestate.com/activepython"&gt;ActivePython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unofficial &lt;a class="reference external" href="http://www.lfd.uci.edu/~gohlke/pythonlibs/"&gt;Windows Binaries&lt;/a&gt; for Python Extension&amp;nbsp;Packages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note that this list is purely informational and &amp;nbsp;NumFOCUS does
+not officially support or prefer any distribution. &amp;nbsp;If you would like to
+see a distribution added to this list, please &lt;a class="reference external" href="http://numfocus.org/contact-4/"&gt;contact us&lt;/a&gt;!&lt;/p&gt;
+</summary></entry><entry><title>Helpful Links</title><link href="http://numfocus.github.io/numfocus.org/helpful-links.html" rel="alternate"></link><updated>2012-03-13T17:29:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-03-13:helpful-links.html</id><summary type="html">&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://scipy-central.org/"&gt;http://scipy-central.org/&lt;/a&gt;&amp;nbsp;-&amp;nbsp;A collection of&amp;nbsp;code snippets, modules and
+links for&amp;nbsp;&lt;em&gt;solving scientific problems&lt;/em&gt;&amp;nbsp;with&amp;nbsp;&lt;a class="reference external" href="http://scipy.org/"&gt;SciPy&lt;/a&gt;&amp;nbsp;and related Python&amp;nbsp;tools.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://scicomp.stackexchange.com/"&gt;http://scicomp.stackexchange.com/&lt;/a&gt;&amp;nbsp;-&amp;nbsp;This is a great place to ask questions
+about scientific computing with NumPy, SciPy, and other related&amp;nbsp;tools.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.scipy.org"&gt;http://scipy.org&lt;/a&gt; - Home page of SciPy&amp;nbsp;project&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.enthought.com/repo/free/"&gt;http://www.enthought.com/&lt;/a&gt;&amp;nbsp;- Free Enthought Python&amp;nbsp;Distribution&amp;nbsp;Download&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://store.continuum.io/cshop/anaconda"&gt;https://store.continuum.io/cshop/anaconda&lt;/a&gt;&amp;nbsp;- Anaconda &lt;span class="caps"&gt;CE&lt;/span&gt;&amp;nbsp;Download&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://code.google.com/p/pythonxy/wiki/Downloads?tm=2"&gt;http://code.google.com/&lt;/a&gt;&amp;nbsp;- Python &lt;span class="caps"&gt;XY&lt;/span&gt;&amp;nbsp;Download&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://stackoverflow.com/questions/tagged/python"&gt;http://stackoverflow.com/&lt;/a&gt;&amp;nbsp;- Stack Overflow Python&amp;nbsp;Questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Project&amp;nbsp;repositories:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/numpy/numpy"&gt;NumPy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/scipy/scipy"&gt;Scipy&amp;nbsp;repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/matplotlib/matplotlib"&gt;matplotlib&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/ipython/ipython"&gt;IPython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/sympy/sympy"&gt;SymPy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/cython/cython"&gt;Cython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/pydata/pandas"&gt;pandas&amp;nbsp;repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pytables.github.com/"&gt;PyTables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/stefanv/scikits.image"&gt;scikits-image&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/scikit-learn/scikit-learn"&gt;scikits-learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/statsmodels/statsmodels"&gt;scikits-statsmodels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://code.google.com/p/spyderlib/source/checkout"&gt;spyder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/Theano/Theano"&gt;theano&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Project mailing lists and&amp;nbsp;discussion&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mail.scipy.org/mailman/listinfo/numpy-discussion"&gt;NumPy&amp;nbsp;discussion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://dir.gmane.org/gmane.comp.python.scientific.user"&gt;Scipy&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://dir.gmane.org/gmane.comp.python.scientific.devel"&gt;Scipy&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://sourceforge.net/mail/?group_id=80706"&gt;matplotlib&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mail.scipy.org/mailman/listinfo/ipython-user"&gt;Ipython&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mail.scipy.org/mailman/listinfo/ipython-dev"&gt;Ipython&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/sympy"&gt;SymPy&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/cython-users"&gt;Cython&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mail.python.org/mailman/listinfo/cython-devel"&gt;Cython&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://groups.google.com/forum/#!forum/pydata"&gt;pandas&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://lists.sourceforge.net/lists/listinfo/pytables-users"&gt;PyTables&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/scikits-image"&gt;scikits-image&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://lists.sourceforge.net/lists/listinfo/scikit-learn-general"&gt;scikits-learn&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels"&gt;scikits-statsmodels&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/spyderlib"&gt;spyder&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/theano-users"&gt;theano&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/theano-dev"&gt;theano&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Projects</title><link href="http://numfocus.github.io/numfocus.org/projects-2.html" rel="alternate"></link><updated>2012-03-01T17:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-03-01:projects-2.html</id><summary type="html">&lt;div class="section" id="currently-promoting"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/projects/"&gt;Currently&amp;nbsp;Promoting&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="software-distributions"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/software-distributions/"&gt;Software&amp;nbsp;Distributions&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="educational-projects"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/educational-projects/"&gt;Educational&amp;nbsp;Projects&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="representatives"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/other-projects/"&gt;Representatives&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Donate</title><link href="http://numfocus.github.io/numfocus.org/donatejoin.html" rel="alternate"></link><updated>2012-02-25T15:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:donatejoin.html</id><summary type="html">&lt;img alt="static/images/nf-web-with-tag.jpg" src="static/images/nf-web-with-tag.jpg" style="height: 200px;" /&gt;
+&lt;p&gt;NumFOCUS supports and promotes world-class, innovative, open source
+scientific software. Most individual projects, even the wildly
+successful ones, find the overhead of a non-profit to be too large for
+their community to bear. NumFOCUS provides a critical service as an
+umbrella organization which removes the burden from the projects
+themselves to raise&amp;nbsp;money.&lt;/p&gt;
+&lt;p&gt;Money donated through NumFOCUS goes to sponsor things&amp;nbsp;like:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Coding sprints (food and&amp;nbsp;travel)&lt;/li&gt;
+&lt;li&gt;Technical fellowships (sponsored students and mentors to work on&amp;nbsp;code)&lt;/li&gt;
+&lt;li&gt;Equipment grants (to developers and&amp;nbsp;projects)&lt;/li&gt;
+&lt;li&gt;Conference attendance for students (to PyData, SciPy, and other&amp;nbsp;conferences)&lt;/li&gt;
+&lt;li&gt;Fees for continuous integration and other software engineering&amp;nbsp;tools&lt;/li&gt;
+&lt;li&gt;Documentation&amp;nbsp;development&lt;/li&gt;
+&lt;li&gt;Web-page hosting and bandwidth fees for&amp;nbsp;projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;NumFOCUS aims to ensure that money is available to keep projects in the
+scientific Python stack funded and available. So if you find value in
+these tools and have always wanted to give back, donating to NumFOCUS
+gives you a way of supporting either a specific project of your choice
+or all of these great codes at&amp;nbsp;once!&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;NumFOCUS has received 501(c)3 status as a public charity in the
+United&amp;nbsp;States.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are many ways to give. We have tried to make it as simple as
+possible to donate to NumFOCUS. You can use any of the following payment&amp;nbsp;providers.&lt;/p&gt;
+&lt;div&gt;&lt;p&gt;&lt;strong&gt;PayPal&lt;/strong&gt; -&amp;nbsp;(2.90% + $0.30 /&amp;nbsp;transaction)&lt;/p&gt;
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+  &lt;input type="hidden" name="cmd" value="_s-xclick"/&gt;&lt;br /&gt;
+  &lt;input type="hidden" name="hosted_button_id" value="HK2N4RM5NMDZC"/&gt;&lt;br /&gt;
+  &lt;input type="image"
+         src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+         border="0"
+         name="submit"
+         alt="PayPal - The safer, easier way to pay online!"/&gt;&lt;br /&gt;
+  &lt;img alt=""
+        border="0"
+        src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+        width="1"
+        height="1"/&gt;&lt;br /&gt;
+&lt;/form&gt;&lt;p&gt;&lt;strong&gt;Google Checkout&lt;/strong&gt; -&amp;nbsp;(2.90% + $0.30 /&amp;nbsp;transaction)&lt;/p&gt;
+&lt;table width="1%" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+  &lt;td align="right" nowrap="nowrap" width="1%"&gt;$
+    &lt;input id="item_price_1" type="text" name="item_price_1" value="64.00" size="6" /&gt;
+  &lt;/td&gt;
+  &lt;td align="left" width="1%"&gt;
+    &lt;input type="image" src="https://checkout.google.com/buttons/donateNow.gif?merchant_id=112611646391039&amp;amp;w=115&amp;amp;h=50&amp;amp;style=white&amp;amp;variant=text&amp;amp;loc=en_US" alt="Donate" /&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;WePay&lt;/strong&gt; - (2.90% + $0.30 /&amp;nbsp;transaction)&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&lt;/a&gt;&amp;nbsp;(custom&amp;nbsp;amount)&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$512.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$256.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$128.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$64.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$32.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$16.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dwolla&lt;/strong&gt; - ($0.25 / transaction) &amp;#8212; No credit cards and &lt;span class="caps"&gt;U.S.&lt;/span&gt; banks&amp;nbsp;only&lt;/p&gt;
+&lt;input onclick="location.href='https://www.dwolla.com/hub/numfocus?memo=General%20Fund';"
+       type="image"
+       src="https://www.dwolla.com/content/images/btn-donate-with-dwolla.png" /&gt;&lt;p&gt;&lt;strong&gt;Checks&lt;/strong&gt; -&amp;nbsp;&amp;nbsp;Make payable to&amp;nbsp;NumFOCUS and mail&amp;nbsp;to:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+NumFOCUS
+P.O. Box 90596
+Austin, TX 78709
+&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Your personal contribution is greatly&amp;nbsp;appreciated!&lt;/strong&gt;&lt;/p&gt;
+</summary></entry></feed>

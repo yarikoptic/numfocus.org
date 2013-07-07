@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/user-stories.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2012-02-25T15:47:00+01:00</updated><entry><title>Tokyo SciPy</title><link href="http://numfocus.github.io/numfocus.org/tokyo-scipy2012.html" rel="alternate"></link><updated>2012-02-25T15:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:tokyo-scipy2012.html</id><summary type="html">&lt;img alt="static/images/Tokyo-SciPy.jpg" src="static/images/Tokyo-SciPy.jpg" /&gt;
+&lt;p&gt;Chairman of NumFOCUS&amp;#8217; Board of Director&amp;#8217;s,Travis Oliphant, spoke at the
+March meeting of Tokyo SciPy via live webcast.&amp;nbsp; Topics he covered
+included the history of&amp;nbsp;&lt;a class="reference external" href="http://scipy.org/"&gt;SciPy&lt;/a&gt;, where&amp;nbsp;&lt;a class="reference external" href="http://numpy.org/"&gt;NumPy&amp;nbsp;&lt;/a&gt;should go next,
+and Numba. &amp;nbsp;Questions were asked regarding sparse matrix integration
+with NumPy, and&amp;nbsp;packaging.&lt;/p&gt;
+&lt;p&gt;Tokyo SciPy member, Syoyo, gave Travis the link to his code for
+simulating smoke, &amp;nbsp;&lt;a class="reference external" href="http://code.google.com/p/smoke3d/"&gt;http://code.google.com/p/smoke3d/&lt;/a&gt;.&amp;nbsp; Perhaps at
+some point, Syoyo will be able to make that code fast using&amp;nbsp;Python.&lt;/p&gt;
+&lt;p&gt;Despite a late night, due to the fourteen hour time difference between
+Austin and Tokyo, Travis spoke for over an hour.&amp;nbsp; He later stated, “…it
+was nice to see that SciPy and NumPy have a user community in&amp;nbsp;Japan.”&lt;/p&gt;
+</summary></entry><entry><title>Python in Astronomy</title><link href="http://numfocus.github.io/numfocus.org/python-in-astronomy.html" rel="alternate"></link><updated>2012-02-25T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:python-in-astronomy.html</id><summary type="html">&lt;img alt="static/images/sn-blackholes.jpg" src="static/images/sn-blackholes.jpg" /&gt;
+&lt;p&gt;On 28 March, &lt;span class="caps"&gt;NASA&lt;/span&gt;’s Swift satellite&amp;nbsp;&lt;a class="reference external" href="http://news.sciencemag.org/sciencenow/2011/04/star-eating-black-hole-may-be-pr.html?ref=hp"&gt;observed a flash of gamma rays
+brighter than anything astronomers had seen before&lt;/a&gt;. It soon became
+evident that the event wasn’t a typical gamma ray burst, an emission of
+high-energy radiation that often accompanies a supernova explosion. The
+flash didn’t die out but was sustained for weeks, and although it has
+faded in intensity, it is still going strong 2½ months later. Two papers
+published online today in&amp;nbsp;&lt;em&gt;Science&lt;/em&gt;&amp;nbsp;provide an explanation for this
+luminous surprise. The flare is in fact&amp;nbsp;&lt;a class="reference external" href="http://www.sciencemag.org/cgi/content/abstract/science.1207143"&gt;a high-energy jet of
+radiation&lt;/a&gt;&amp;nbsp;produced by a star falling into a black hole at the center
+of a galaxy 4 billion light-years away. The reason the flare is so
+bright is that the jet is pointed straight in the direction of Earth.
+And it’s sustained because &lt;a class="reference external" href="http://www.sciencemag.org/cgi/content/abstract/science.1207150"&gt;the black hole is consuming the star
+gradually&lt;/a&gt;. “That’s because as the black hole rips the star apart, the
+mass swirls around like water going down a drain, and this swirling
+process releases a lot of energy,” says Joshua Bloom, an astronomer at
+the University of California, Berkeley, and lead author of one of the
+two papers. Bloom expects the flare to fade out over the next&amp;nbsp;year.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://news.sciencemag.org/sciencenow/2011/06/scienceshot-powerful-jet-being.html?ref=hp"&gt;http://news.sciencemag.org/sciencenow/2011/06/scienceshot-powerful-jet-being.html?ref=hp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by&amp;nbsp;Yudhijit Bhattacharjee&amp;nbsp;on&amp;nbsp;16 June 2011, 2:00&amp;nbsp;&lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For related story and photo,&amp;nbsp;&lt;a class="reference external" href="http://discovermagazine.com/2012/jan-feb/14"&gt;http://discovermagazine.com/2012/jan-feb/14&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Circuitscape Protects Endangered Species Using PyAMG</title><link href="http://numfocus.github.io/numfocus.org/python-pyamg.html" rel="alternate"></link><updated>2012-02-25T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:python-pyamg.html</id><summary type="html">&lt;img alt="static/images/zimmer_gene_circuit_500px.jpg" src="static/images/zimmer_gene_circuit_500px.jpg" /&gt;
+&lt;p&gt;Scientists map the &amp;#8220;current&amp;#8221; of mountain lions moving between mountain ranges. Blue shows areas of low current density, which are expected to have low densities of dispersing mountain lions; yellow designates movement bottlenecks, which are most vulnerable to habitat destruction. Destroying high-flow habitat can isolate populations and endanger their survival.&amp;nbsp;&lt;strong&gt;Image:&amp;nbsp;Brad McRae and Brett&amp;nbsp;Dickson&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://code.google.com/p/pyamg/"&gt;PyAMG&lt;/a&gt; is an open-source numerical package of multigrid and Krylov
+solvers for sparse matrices in Python.&amp;nbsp; One of the biggest users of
+PyAMG is &lt;a class="reference external" href="http://www.circuitscape.org/Circuitscape/Welcome.html"&gt;Circuitscape&lt;/a&gt;. This open-source software program borrows
+algorithms from electronic circuit theory to predict patterns of
+movement, gene flow, and genetic differentiation among plant and animal
+populations in heterogeneous landscapes.&amp;nbsp; Circuit theory complements
+least-cost path approaches because it considers effects of all possible
+pathways across a landscape&amp;nbsp;simultaneously.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.circuitscape.org/Circuitscape/Welcome.html"&gt;Circuitscape&lt;/a&gt; was written by&amp;nbsp;&lt;a class="reference external" href="http://www.nceas.ucsb.edu/~mcrae/Welcome.html"&gt;Brad McRae&lt;/a&gt; and &lt;a class="reference external" href="http://www.allthingshpc.org/"&gt;Viral Shah&lt;/a&gt;.
+Brad&amp;nbsp;is an Ecologist with the &lt;a class="reference external" href="http://waconservation.org/"&gt;The Nature Conservancy&lt;/a&gt; in Seattle.&amp;nbsp; He
+works on habitat connectivity conservation, climate change, and
+landscape genetics. &amp;nbsp;Viral&amp;nbsp;is a Senior Scientist with &lt;a class="reference external" href="http://www.interactivesupercomputing.com/"&gt;Interactive
+Supercomputing&lt;/a&gt; and a Visiting Scientist at the &lt;a class="reference external" href="http://www.ucsb.edu/"&gt;University of
+California, Santa Barbara.&amp;nbsp;&lt;/a&gt;He develops systems for scientific
+computing for work and for&amp;nbsp;fun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For additional information on&amp;nbsp;`Circuitscape`_:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The authors presentation at SciPy 2008:
+&lt;a class="reference external" href="http://www.circuitscape.org/Circuitscape/Pubs_files/Shah_McRae_Circuitscape_Python_Scipy08.pdf"&gt;http://www.circuitscape.org/Circuitscape/Pubs_files/Shah_McRae_Circuitscape_Python_Scipy08.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conservation Magazine:&lt;/em&gt; &lt;a class="reference external" href="http://www.conservationmagazine.org/articles/v9n1/circuitous-routes/"&gt;Circuitous Routes: Circuit Theory Guides
+Wildlife Corridor Design by Eric&amp;nbsp;Wagner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Wired Magazine:&lt;/em&gt;  &lt;a class="reference external" href="http://www.wired.com/science/planetearth/news/2007/12/dissection_1210"&gt;Scientist Employs &amp;#8216;Circuit Theory&amp;#8217; to Protect Endangered Species by Carl&amp;nbsp;Zimmer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Convergence Magazine:&lt;/em&gt; &lt;a class="reference external" href="http://convergence.ucsb.edu/article/where-wild-things-are"&gt;Where the Wild Things Are by Anna&amp;nbsp;Davison&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Earthtimes.org&lt;/em&gt;: &lt;a class="reference external" href="http://www.earthtimes.org/articles/show/news_press_release,90605.shtml"&gt;Where Mountain Lions Roam: Star-P Helps Decipher
+Threatened Wildlife&amp;nbsp;Migration&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>

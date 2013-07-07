@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/all.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2013-07-12T00:00:00+02:00</updated><entry><title>Share your stories of how you use NumFOCUS supported tools</title><link href="http://numfocus.github.io/numfocus.org/share-your-stories-of-how-you-use-numfocus-supported-tools.html" rel="alternate"></link><updated>2013-07-12T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-12:share-your-stories-of-how-you-use-numfocus-supported-tools.html</id><summary type="html">&lt;p&gt;Read how others are you the tools NumFOCUS supports in  &lt;a class="reference external" href="http://numfocus.org/user-stories/"&gt;User Stories&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Let the community know how you&amp;#8217;re using the tools NumFOCUS supports. &amp;nbsp;Send your stories to: &lt;a class="reference external" href="http://numfocus.org/user-stories/"&gt;http://numfocus.org/user-stories/&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Purpose</title><link href="http://numfocus.github.io/numfocus.org/purpose.html" rel="alternate"></link><updated>2013-07-05T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-05:purpose.html</id><summary type="html">&lt;p&gt;The purpose of NumFOCUS is to promote the use of accessible and reproducible
+computing in science and&amp;nbsp;technology.&lt;/p&gt;
+&lt;p&gt;This is accomplished&amp;nbsp;through:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Educational&amp;nbsp;Programs&lt;/li&gt;
+&lt;li&gt;The promotion of high-level languages, reproducible scientific research, and
+open-code&amp;nbsp;development&lt;/li&gt;
+&lt;li&gt;An increase in collaborative research tools and&amp;nbsp;documentation&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Fiscal Sponsorship</title><link href="http://numfocus.github.io/numfocus.org/fiscal-sponsorship.html" rel="alternate"></link><updated>2013-05-30T20:21:00+02:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-30:fiscal-sponsorship.html</id><summary type="html">&lt;p&gt;In our efforts to promote and support high-level languages, reproducible scientific research
+and open-source development, we are proud to announce that our Fiscal Sponsorship
+program is now&amp;nbsp;underway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fiscal Sponsorship is a an arrangement between a 501(c)(3) public
+charity and a project (that does not have that tax status) in which,
+typically, the charity receives and expends funds to advance the
+charitable work of the project while retaining discretion and control
+over the funds.&lt;/em&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;-Eric Gorovitz, associate, Adler &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;Colvin&lt;/p&gt;
+&lt;p&gt;In our Fiscal Sponsorship program, the nonexempt project must act so as
+to further the exempt purposes of&amp;nbsp;NumFOCUS.&lt;/p&gt;
+&lt;p&gt;Please look over our Fiscal Sponsorship Agreement and let us know if you
+have questions or would like additional information by contacting us at:
+&lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="fiscal-sponsorship-agreement"&gt;
+&lt;h2&gt;Fiscal Sponsorship&amp;nbsp;Agreement&lt;/h2&gt;
+&lt;p&gt;You can find the source for our fiscal sponsorship document &lt;a class="reference external" href="https://github.com/numfocus/fiscal-sponsorship"&gt;here&lt;/a&gt;.
+Feel free to leave comments, feedback, or issue pull&amp;nbsp;requests.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>inSCIght</title><link href="http://numfocus.github.io/numfocus.org/inscight.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:inscight.html</id><summary type="html">&lt;img alt="static/images/InSciGHT.jpg" src="static/images/InSciGHT.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://inscight.org/"&gt;inSCIght&lt;/a&gt; is a podcast that focuses on scientific computing in all of its
+various forms. We have four panelists engage head-to-head on poignant and
+interesting topics. The panelists are drawn from all across the scientific
+computing community.  From embedded systems experts to very high level language
+gurus, from biologists to nuclear engineers, the hosts of inSCIght use
+computers to solve science and engineering problems everyday. This podcast
+throws people, ideas, and opinions into an audio-blender hoping to educate and
+entice each other and the world.  &lt;a class="reference external" href="http://inscight.org/"&gt;http://inscight.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Python’s Use in Science</title><link href="http://numfocus.github.io/numfocus.org/pythons-use-in-science.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:pythons-use-in-science.html</id><summary type="html">&lt;p&gt;Please send links to papers, blogs, articles, or announcements that show
+Python&amp;#8217;s use in science to &lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>SciPy 2013</title><link href="http://numfocus.github.io/numfocus.org/scipy-2013.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:scipy-2013.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://conference.scipy.org/scipy2013/index.php"&gt;SciPy 2013&lt;/a&gt;, the twelfth annual Scientific Computing with Python conference,
+will be held June 24th - 29th in Austin, Texas.  The main conference themes are
+Machine Learning &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Reproducible&amp;nbsp;Science.&lt;/p&gt;
+</summary></entry><entry><title>Software Carpentry</title><link href="http://numfocus.github.io/numfocus.org/software-carpentry.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:software-carpentry.html</id><summary type="html">&lt;img alt="static/images/software-carpentry-logo-285x58.png" src="static/images/software-carpentry-logo-285x58.png" /&gt;
+&lt;p&gt;Our mission is to help scientists be more productive by teaching them basic computing skills. Our approach combines short, intensive workshops with self-paced online instruction. The benefits are more reliable results and higher productivity: a day a week is common, and a ten-fold improvement isn’t rare.  For more information check out our blog at  &lt;a class="reference external" href="http://software-carpentry.org/blog/"&gt;http://software-carpentry.org/blog/&lt;/a&gt;, follow us on twitter as  &lt;a class="reference external" href="https://twitter.com/swcarpentry"&gt;&amp;#64;swcarpentry&lt;/a&gt;, or contact us by email at  &lt;a class="reference external" href="mailto:info&amp;#64;software-carpentry.org"&gt;info&amp;#64;software-carpentry.org&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>April 15, 2013</title><link href="http://numfocus.github.io/numfocus.org/board-meeting-minute2013-04-15s.html" rel="alternate"></link><updated>2013-04-15T00:00:00+02:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-04-15:board-meeting-minute2013-04-15s.html</id><summary type="html">&lt;div class="section" id="participating"&gt;
+&lt;h2&gt;Participating&lt;/h2&gt;
+&lt;p&gt;Ralf Gommers, Didrik Pinte, Anthony Scopatz, Leah Silen, Perry
+Greenfield, Fernando Perez, Andy Terrel, Travis&amp;nbsp;Oliphant&lt;/p&gt;
+&lt;p&gt;Not&amp;nbsp;attending&lt;/p&gt;
+&lt;p&gt;Emmanuelle Gouillart, Jarrod&amp;nbsp;Millman&lt;/p&gt;
+&lt;div class="section" id="treasurers-report"&gt;
+&lt;h3&gt;Treasurer’s&amp;nbsp;Report&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Checking:&amp;nbsp;$3,065.04&lt;/li&gt;
+&lt;li&gt;Savings:&amp;nbsp;$4,449.09&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We have until May 15th to file our 990 forms for the &lt;span class="caps"&gt;IRS&lt;/span&gt;. &amp;nbsp;Didrik is
+working on the European bank account, it’s moving&amp;nbsp;along.&lt;/p&gt;
+&lt;div class="section" id="old-business"&gt;
+&lt;h4&gt;Old&amp;nbsp;Business&lt;/h4&gt;
+&lt;ol class="loweralpha simple"&gt;
+&lt;li&gt;&amp;nbsp;Proceeds from&amp;nbsp;PyData&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Exact figure isn’t available yet, waiting for final checks from Santa
+Clara Convention&amp;nbsp;Center.&lt;/p&gt;
+&lt;ol class="loweralpha simple" start="2"&gt;
+&lt;li&gt;&amp;nbsp;Boot Camp for Women in Science and&amp;nbsp;Engineering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="team-reports"&gt;
+&lt;h4&gt;Team&amp;nbsp;Reports&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Fundraising:&lt;/strong&gt; Ralf edited the fellowship&amp;nbsp;document&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Finance:&amp;nbsp;&lt;/strong&gt;Have until May 15th to file 990 form with the &lt;span class="caps"&gt;IRS&lt;/span&gt;.
+&amp;nbsp;Didrik will report next call with more concrete details on opening a &lt;span class="caps"&gt;UK&lt;/span&gt;
+bank&amp;nbsp;account.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="new-business"&gt;
+&lt;h4&gt;New&amp;nbsp;Business&lt;/h4&gt;
+&lt;p&gt;For next week, take some time to think about what the corporate
+sponsorship levels are and what they mean. &amp;nbsp;We need a more solid
+business model here. &amp;nbsp;Look at the Van Lindberg email from the&amp;nbsp;&lt;span class="caps"&gt;PSF&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="fiscal-sponsorship"&gt;
+&lt;h2&gt;Fiscal&amp;nbsp;Sponsorship&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Establishment of rules for projects to have formal relationship with&amp;nbsp;NumFOCUS&lt;/li&gt;
+&lt;li&gt;Sponsorship is in the public&amp;nbsp;good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ping Tony about fiscal&amp;nbsp;council.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Call for Speakers</title><link href="http://numfocus.github.io/numfocus.org/call-for-speakers.html" rel="alternate"></link><updated>2013-04-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-04-07:call-for-speakers.html</id><summary type="html">&lt;p&gt;The call for speakers for PyData Boston (July 27-28th) is now open. If you are
+interested in presenting a talk on how you use Python for data management,
+analytics, or visualization or leading a tutorial session, please email a short
+description of your idea, including whether it is a beginner or advanced
+presentation, to &lt;a class="reference external" href="boston_proposals&amp;#64;pydata.org"&gt;boston_proposals&amp;#64;pydata.org&lt;/a&gt;. The initial call-for-speakers for
+PyData Boston will be open through May&amp;nbsp;31st.&lt;/p&gt;
+</summary></entry><entry><title>April 1, 2013</title><link href="http://numfocus.github.io/numfocus.org/board-meeting-minutes2013-04-01.html" rel="alternate"></link><updated>2013-04-01T00:00:00+02:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-04-01:board-meeting-minutes2013-04-01.html</id><summary type="html">&lt;div class="section" id="participating"&gt;
+&lt;h2&gt;Participating&lt;/h2&gt;
+&lt;p&gt;Andy R. Terrel, Ralf Gommers, Fernando Perez, Didrik Pinte, Anthony
+Scopatz, Leah Silen, Travis&amp;nbsp;Oliphant&lt;/p&gt;
+&lt;p&gt;Not&amp;nbsp;attending&lt;/p&gt;
+&lt;p&gt;Jarrod Millman, Emmanuelle Gouillart, &amp;nbsp;Perry&amp;nbsp;Greenfield&lt;/p&gt;
+&lt;div class="section" id="treasurers-report"&gt;
+&lt;h3&gt;Treasurer’s&amp;nbsp;Report&lt;/h3&gt;
+&lt;p&gt;SciPy’13 has been officially sponsored, funds for this were disbursed
+($2500). &amp;nbsp;This gives Numfocus a silver sponsor level (2 passes, booth,
+name on website). &amp;nbsp;Once the corresponding details for EuroScipy are
+clear, the same will be&amp;nbsp;done.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Checking:&amp;nbsp;$2,243.04&lt;/li&gt;
+&lt;li&gt;Savings:&amp;nbsp;$4,449.09&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Old&amp;nbsp;Business&lt;/p&gt;
+&lt;ol class="loweralpha simple"&gt;
+&lt;li&gt;&amp;nbsp;Mac Mini - Is this ready to be publicized on the&amp;nbsp;site?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ralf reports that Christoph hasn’t replied much to his queries. &amp;nbsp;The
+site is up and a NumPy &lt;span class="caps"&gt;CI&lt;/span&gt; engine is set up, but he’s waiting for
+responses from Christoph. &amp;nbsp;Anthony suggests asking the list for help so
+that someone can support&amp;nbsp;Christoph.&lt;/p&gt;
+&lt;ol class="loweralpha simple" start="2"&gt;
+&lt;li&gt;&amp;nbsp;Fundraising for Boot Camp for Women in Science and&amp;nbsp;Engineering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Work is ongoing with a funder to secure the majority of the cost. &amp;nbsp;More
+follow-up is&amp;nbsp;needed.&lt;/p&gt;
+&lt;ol class="loweralpha simple" start="3"&gt;
+&lt;li&gt;Sponsorship of SciPy and&amp;nbsp;passes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Our donations are earmarked for student support, we get two
+session/tutorial passes at the silver sponsor level (see Treasurer’s
+report for&amp;nbsp;details).&lt;/p&gt;
+&lt;ol class="loweralpha simple" start="4"&gt;
+&lt;li&gt;&amp;nbsp;SciPy domains ready to&amp;nbsp;transfer&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Travis checked that all domains have been transferred. &amp;nbsp;We will wait for
+the person working on SciPy central before pointing the domains over to
+a new&amp;nbsp;site.&lt;/p&gt;
+&lt;div class="section" id="team-reports"&gt;
+&lt;h4&gt;Team&amp;nbsp;Reports&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Membership:&lt;/strong&gt; we are considering opening up the membership model to
+one where the basic level is free for anyone to join, and the
+paying/participating membership levels have some benefits as well. &amp;nbsp;We
+will draft some language on this topic in the coming&amp;nbsp;weeks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fundraising:&lt;/strong&gt;&amp;nbsp;Ralf and Andy proposed updating the language on the
+Technical Fellowship to: “Purpose (new formulation): The purpose of the
+NumFOCUS Technology Fellowship Program is to enable high-potential
+graduate students and early career professionals to work full-time on
+cutting-edge scientific open source&amp;nbsp;software.”&lt;/p&gt;
+&lt;p&gt;“Target areas: infrastructure for SciPy eco-system, accessible and
+reproducible computing (&amp;amp; core&amp;nbsp;projects?&lt;/p&gt;
+&lt;p&gt;Travis likes the intent. Keeping the educational component in mind is&amp;nbsp;important.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Publicity/Promotion:&lt;/strong&gt; Andy manned the booth at PyCon along with Leah
+and Anthony. &amp;nbsp;Lots of contacts were made, there was good interest and a
+number of people came by with the idea of doing “bounties” on specific
+topics. &amp;nbsp;Some people didn’t like the nomination model for membership.
+&amp;nbsp;Talked to the Center for Open Science, a new venture at the University
+of Virginia (&lt;a class="reference external" href="http://centerforopenscience.org/"&gt;http://centerforopenscience.org&lt;/a&gt;) whose goals are very
+well aligned with NumFOCUS. &amp;nbsp;Anthony also talked to the “Data science
+for social good” group in Chicago, which has an explicit education and
+open government/open science mission; they have a 10-week summer
+fellowship program we can learn&amp;nbsp;from.&lt;/p&gt;
+&lt;p&gt;“Target areas: infrastructure for SciPy eco-system, accessible and reproducible computing (&amp;amp; core&amp;nbsp;projects?&lt;/p&gt;
+&lt;p&gt;Travis likes the intent. Keeping the educational component in mind is&amp;nbsp;important.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Publicity/Promotion&lt;/strong&gt; Andy manned the booth at PyCon along with Leah and Anthony.  Lots of contacts were made, there was good interest and a number of people came by with the idea of doing “bounties” on specific topics.  Some people didn’t like the nomination model for membership.  Talked to the Center for Open Science, a new venture at the University of Virginia (&lt;a class="reference external" href="http://centerforopenscience.org"&gt;http://centerforopenscience.org&lt;/a&gt;) whose goals are very well aligned with NumFOCUS.  Anthony also talked to the “Data science for social good” group in Chicago, which has an explicit education and open government/open science mission; they have a 10-week summer fellowship program we can learn&amp;nbsp;from.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grants/Fellowships&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Finance&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="new-business"&gt;
+&lt;h2&gt;New&amp;nbsp;Business&lt;/h2&gt;
+&lt;ol class="loweralpha simple"&gt;
+&lt;li&gt;&amp;nbsp;&lt;span class="caps"&gt;UQ&lt;/span&gt; Foundation update from&amp;nbsp;PyCon&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Euro SciPy sponsorship - Participant&amp;nbsp;Sponsor&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;c. &amp;nbsp;Disco domain and trademark transfer to NumFOCUS from Nokia, Ville&amp;nbsp;Tuulos&lt;/p&gt;
+&lt;p&gt;The Disco authors have left Nokia and would like to have numfocus to
+hold that domain as well as their trademark and all other &lt;span class="caps"&gt;IP&lt;/span&gt; associated
+with the project. &amp;nbsp;They are waiting to see our domain transfer form.
+&amp;nbsp;Anthony asked about what legal responsibilities we’d be exposed to in
+terms of defending the&amp;nbsp;&lt;span class="caps"&gt;IP&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;d. &amp;nbsp;Industry funding for IPython - contract issues. Conversation with
+Brad Kuhn from the Software Conservancy. &amp;nbsp;Fernando will set up a
+conversation with Brad Kuhn and any board members who are interested in
+participating, to clarify some of the legal issues involved. The &lt;span class="caps"&gt;SWC&lt;/span&gt; has
+experience with this and Brad offered to provide some information to&amp;nbsp;us.&lt;/p&gt;
+&lt;p&gt;e. &amp;nbsp;PyData Vimeo Channel - $150 to $200. The motion for these funds was&amp;nbsp;approved.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Membership</title><link href="http://numfocus.github.io/numfocus.org/membership.html" rel="alternate"></link><updated>2013-03-13T15:13:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-03-13:membership.html</id><summary type="html">&lt;div class="section" id="becoming-a-member-of-numfocus"&gt;
+&lt;h2&gt;Becoming a Member of&amp;nbsp;NumFOCUS&lt;/h2&gt;
+&lt;p&gt;Last year the NumFOCUS Foundation was formed to &amp;#8220;promote the use of
+accessible and reproducible computing in science and technology.&amp;#8221; Much
+of this effort centers around the use of Python and it’s&amp;nbsp;tools.&lt;/p&gt;
+&lt;p&gt;NumFOCUS is excited to announce membership is now open. The involvement of the
+community is vital in helping to help raise the visibility of Python and its
+advantages within the scientific and engineering community, as well as to
+support and promote its&amp;nbsp;projects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples of the numerous ways members can become involved&amp;nbsp;include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Joining committees and teams formed to help further the goals of&amp;nbsp;NumFOCUS&lt;/li&gt;
+&lt;li&gt;Helping to build a system to keep track of scientific and engineering
+publications making significant use of Python, while helping to document its
+importance in these&amp;nbsp;fields&lt;/li&gt;
+&lt;li&gt;Advocating the use of Python by recording and publicizing success stories of
+researchers and companies who use&amp;nbsp;it.&lt;/li&gt;
+&lt;li&gt;Facilitating events at conferences, workshops, and sprints that educate
+attendees regarding the advantages of using Python in technical&amp;nbsp;areas.&lt;/li&gt;
+&lt;li&gt;Helping with the selection of individuals and organizations to receive
+financial support for conferences, workshops, and&amp;nbsp;fellowships.&lt;/li&gt;
+&lt;li&gt;Suggesting and assisting in the formation of&amp;nbsp;committees&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Other advantages of membership&amp;nbsp;include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;20% Discount on PyData&amp;nbsp;conferences&lt;/li&gt;
+&lt;li&gt;Discounts on products - 20% off&amp;nbsp;IOPro&lt;/li&gt;
+&lt;li&gt;Networking with others in the scientific and engineering Python&amp;nbsp;community&lt;/li&gt;
+&lt;li&gt;A chance to have greater insight into NumFOCUS and to influence its&amp;nbsp;work&lt;/li&gt;
+&lt;li&gt;Opportunity to highlight one’s personal or corporate involvement with
+the&amp;nbsp;foundation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Membership&amp;nbsp;Fees:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Professional:&amp;nbsp;&amp;nbsp;$128&lt;/li&gt;
+&lt;li&gt;Early Professional (&amp;lt;5 years work experience):&amp;nbsp;&amp;nbsp;$64&lt;/li&gt;
+&lt;li&gt;Student or Retired:&amp;nbsp;&amp;nbsp;&amp;nbsp;$32&lt;/li&gt;
+&lt;li&gt;Corporations: Fees are dependent on number of employees, see website for&amp;nbsp;details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="to-apply"&gt;
+&lt;h3&gt;To&amp;nbsp;Apply&lt;/h3&gt;
+&lt;p&gt;Please submit the following information to:&lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;. &amp;nbsp;You
+will be notified by email regarding status and membership&amp;nbsp;fees.&lt;/p&gt;
+&lt;ol class="loweralpha simple"&gt;
+&lt;li&gt;&amp;nbsp;Bio or&amp;nbsp;&lt;span class="caps"&gt;CV&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Statement of support of&amp;nbsp;NumFOCUS&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Name of member who invited you (Invitations are not required at this&amp;nbsp;time)*&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Women in Technology Initiatives</title><link href="http://numfocus.github.io/numfocus.org/boot-camp-for-women-in-science-engineering.html" rel="alternate"></link><updated>2013-02-26T17:58:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-02-26:boot-camp-for-women-in-science-engineering.html</id><summary type="html">&lt;div class="section" id="women-in-science-engineering-boot-camps"&gt;
+&lt;h2&gt;Women in Science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Engineering Boot&amp;nbsp;Camps&lt;/h2&gt;
+&lt;p&gt;On June 24-25 &lt;a class="reference external" href="http://numfocus.org/"&gt;NumFOCUS&lt;/a&gt;&amp;nbsp;and &lt;a class="reference external" href="http://software-carpentry.org/"&gt;Software Carpentry&lt;/a&gt;,&amp;nbsp;are hosting a
+software skills boot camp for 120 women in science and engineering at
+Microsoft Research in Boston. We are seeking sponsorship from companies
+and others who would like to support our efforts to hold similar boot
+camps in other&amp;nbsp;locations.&lt;/p&gt;
+&lt;div class="section" id="what-is-a-boot-camp"&gt;
+&lt;h3&gt;What is a Boot&amp;nbsp;Camp?&lt;/h3&gt;
+&lt;p&gt;These two-day workshops teach scientists how to write, test and manage
+research software. Topics covered include the Unix shell, version
+control, basic Python programming, testing, and debugging Boot camps are
+example-driven and alternate short tutorials with hands-on practical
+exercises. Since learners work on their own laptops, they leave with a
+set of working tools they can use immediately to increase their
+productivity and improve confidence in their&amp;nbsp;results.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-is-the-funding-for"&gt;
+&lt;h3&gt;What is the Funding&amp;nbsp;For?&lt;/h3&gt;
+&lt;p&gt;NumFOCUS and Software Carpentry are non-profit organizations, and all of
+our instructors are volunteers. Donations to the Boot Camp for Women
+will cover the cost of travel and lodging for instructors, as well as
+incidental expenses such as&amp;nbsp;refreshments.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="how-can-i-contribute"&gt;
+&lt;h3&gt;How Can I&amp;nbsp;Contribute?&lt;/h3&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;PayPal&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;Google&amp;nbsp;Checkout&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: middle;"&gt;&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;&lt;/form&gt;&lt;/td&gt;&lt;td style="vertical-align: middle;"&gt;&lt;script type="text/javascript"&gt;// &lt; ![CDATA[&lt;/p&gt;
+&lt;p&gt;function validateAmount(amount){&lt;br&gt;&lt;/br&gt;
+    if(amount.value.match( /^[0-9]+(\.([0-9]+))?$/)){&lt;br&gt;&lt;/br&gt;
+        return true;&lt;br&gt;&lt;/br&gt;
+    }else{&lt;br&gt;&lt;/br&gt;
+        alert('You must enter a valid donation.');&lt;br&gt;&lt;/br&gt;
+        amount.focus();&lt;br&gt;&lt;/br&gt;
+        return false;&lt;br&gt;&lt;/br&gt;
+    }&lt;br&gt;&lt;/br&gt;
+}&lt;br&gt;&lt;/br&gt;
+// ]]&gt;&lt;/script&gt;&lt;form id="BB_BuyButtonForm" action="https://checkout.google.com/cws/v2/Donations/112611646391039/checkoutForm" method="post" name="BB_BuyButtonForm" target="_top" onsubmit="return validateAmount(this.item_price_1)"&gt;&lt;/p&gt;&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="60%" /&gt;
+&lt;col width="40%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;$&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/form&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Suggested minimum donation:&amp;nbsp;$10&lt;/p&gt;
+&lt;div class="section" id="women-in-technology-workshops"&gt;
+&lt;h4&gt;Women in Technology&amp;nbsp;Workshops&lt;/h4&gt;
+&lt;p&gt;These half-day events will be presented by NumFOCUS and held in
+conjunction with certain PyData conferences. &amp;nbsp;The first workshop will be
+held in the fall at PyData &lt;span class="caps"&gt;NYC&lt;/span&gt;. More information coming&amp;nbsp;soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Current Fundraising Efforts:</title><link href="http://numfocus.github.io/numfocus.org/numfocus-is-currently-raising-funds-for-the-following.html" rel="alternate"></link><updated>2013-02-26T16:36:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-02-26:numfocus-is-currently-raising-funds-for-the-following.html</id><summary type="html">&lt;div class="section" id="boot-camp-for-women-in-science-engineering"&gt;
+&lt;h2&gt;Boot Camp for Women in Science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;Engineering&lt;/h2&gt;
+&lt;div class="section" id="hosted-by-software-carpentry-and-numfocus"&gt;
+&lt;h3&gt;Hosted by Software Carpentry and&amp;nbsp;NumFOCUS&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="section" id="on-june-24-25-numfocus-and-software-carpentry-are-hosting-a-software-skills-boot-camp-in-boston-for-120-women-in-science-and-engineering-we-are-seeking-sponsorship-from-companies-and-others-who-would-like-to-help-support-our-efforts-to-hold-similar-events-in-other-locations"&gt;
+&lt;h3&gt;On June 24-25&amp;nbsp;&lt;a class="reference external" href="http://numfocus.org/"&gt;NumFOCUS&lt;/a&gt; and &lt;a class="reference external" href="http://www.software-carpentry.org"&gt;Software Carpentry&lt;/a&gt; are hosting a software skills boot camp in Boston for 120 women in science and engineering. We are seeking sponsorship from companies and others who would like to help support our efforts to hold similar events in other&amp;nbsp;locations.&lt;/h3&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://numfocus.org/numfocus-is-currently-raising-funds-for-the-following/boot-camp-for-women-in-science-engineering/"&gt;**For More&amp;nbsp;Information**&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Make a&amp;nbsp;Donation&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;PayPal&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;Google&amp;nbsp;Checkout&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: middle;"&gt;&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;&lt;/form&gt;&lt;/td&gt;&lt;td style="vertical-align: middle;"&gt;&lt;script type="text/javascript"&gt;// &lt; ![CDATA[&lt;br&gt;&lt;/br&gt;
+function validateAmount(amount){    if(amount.value.match( /^[0-9]+(\.([0-9]+))?$/)){       return true;    }else{      alert('You must enter a valid donation.');      amount.focus();         return false;   } }&lt;br&gt;&lt;/br&gt;
+// ]]&gt;&lt;/script&gt;&lt;/p&gt;&lt;form id="BB_BuyButtonForm" action="https://checkout.google.com/cws/v2/Donations/112611646391039/checkoutForm" method="post" name="BB_BuyButtonForm" target="_top" onsubmit="return validateAmount(this.item_price_1)"&gt;&lt;/p&gt;&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="60%" /&gt;
+&lt;col width="40%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;$&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/form&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Suggested minimum donation:&amp;nbsp;$10&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="john-hunter-technical-fellowship"&gt;
+&lt;h2&gt;John Hunter Technical&amp;nbsp;Fellowship&lt;/h2&gt;
+&lt;div class="section" id="we-are-now-accepting-donations-to-fund-the-john-hunter-technical-fellowship"&gt;
+&lt;h3&gt;&lt;strong&gt;We are now accepting donations to fund the John Hunter Technical&amp;nbsp;Fellowship.&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class="section" id="this-educational-program-furthers-our-mission-as-a-public-charity-to-promote-the-use-of-accessible-and-reproducible-computing-in-science-and-open-source-technology"&gt;
+&lt;h4&gt;&lt;strong&gt;This educational program furthers our mission, as a public charity, to promote the use of accessible and reproducible computing in science and open-source&amp;nbsp;technology.&lt;/strong&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-purpose-of-the-numfocus-technology-fellowship-is-to-bridge-the-gap-between-academia-and-real-world-open-source-coding-projects-by-providing-a-capstone-experience-for-individuals-coming-from-a-scientific-educational-background"&gt;
+&lt;h4&gt;The purpose of the NumFOCUS Technology Fellowship is to bridge the gap between academia and real-world, open-source coding projects by providing a capstone experience for individuals coming from a scientific educational&amp;nbsp;background.&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-program-consists-of-a-3-18-month-project-based-training-program-for-graduate-students-postdoctoral-scientists-and-early-career-faculty-fellows-work-on-actual-open-source-software-projects-under-the-guidance-of-mentors-who-are-leading-scientists-and-software-engineers-collaboration-with-these-top-industry-developers-enables-scientists-to-develop-specific-skills-needed-to-contribute-to-cutting-edge-open-source-software"&gt;
+&lt;h4&gt;The program consists of a 3-18 month project-based training program for graduate students, postdoctoral scientists and early-career faculty. Fellows work on actual open source software projects under the guidance of mentors who are leading scientists and software engineers. &amp;nbsp;Collaboration with these top industry developers enables scientists to develop specific skills needed to contribute to cutting-edge open-source&amp;nbsp;software.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>February 4, 2013</title><link href="http://numfocus.github.io/numfocus.org/board-meeting-minutes2013-02-04.html" rel="alternate"></link><updated>2013-02-04T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-02-04:board-meeting-minutes2013-02-04.html</id><summary type="html">&lt;div class="section" id="participating"&gt;
+&lt;h2&gt;Participating&lt;/h2&gt;
+&lt;p&gt;Leah Silen, Travis Oliphant, Anthony Scopatz, Ralf Gommers, Fernando
+Perez, Andy R. Terrel, Perry Greenfield, Jarrod&amp;nbsp;Millman&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Not&amp;nbsp;attending&lt;/dt&gt;
+&lt;dd&gt;Prabhu Ramachandran, Emmanuelle&amp;nbsp;Gouillart&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+&lt;div class="section" id="approval-of-prior-minutes"&gt;
+&lt;h2&gt;Approval of prior&amp;nbsp;minutes&lt;/h2&gt;
+&lt;p&gt;Prior minutes have been&amp;nbsp;approved.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="old-business"&gt;
+&lt;h2&gt;Old&amp;nbsp;Business&lt;/h2&gt;
+&lt;div class="section" id="boot-camp-for-women-in-science-and-engineering"&gt;
+&lt;h3&gt;Boot Camp for Women in Science and&amp;nbsp;Engineering&lt;/h3&gt;
+&lt;p&gt;This is a Software Carpentry workshop, requesting $6,000. &amp;nbsp;This is a worthy
+endeavor but beyond our ability to fund at that level. &amp;nbsp;We’d be happy to
+contribute partially towards this goal (up to $1500) and help them with the
+rest of the fundraising. &amp;nbsp;We will advertise this on the&amp;nbsp;website&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="update-on-christoph-deils-mac"&gt;
+&lt;h3&gt;Update on Christoph Deil’s&amp;nbsp;Mac&lt;/h3&gt;
+&lt;p&gt;Mac will be hosted in the &lt;span class="caps"&gt;US&lt;/span&gt;, will be bought by Anthony from Apple and Leah
+will ship it to the hosting company. &amp;nbsp;Once it’s up and running it will be
+announced on the&amp;nbsp;list.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="update-on-increasing-board-size"&gt;
+&lt;h3&gt;Update on increasing board&amp;nbsp;size&lt;/h3&gt;
+&lt;p&gt;Nothing to report, Jarrod will follow-up this week? &amp;nbsp;No new activity on this,
+Jarrod will report back on&amp;nbsp;that.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pygotham"&gt;
+&lt;h3&gt;PyGotham&lt;/h3&gt;
+&lt;p&gt;Community site run by Gloria W., essentially a &lt;span class="caps"&gt;NYC&lt;/span&gt; PyCon. &amp;nbsp;Upon further
+communication with her, it became clear that she had in mind a fair amount of
+engagement which might go beyond the resources that Numfocus currently&amp;nbsp;has.&lt;/p&gt;
+&lt;p&gt;Anthony and Fernando express that it’s important to have a memo of
+understanding, stating that the conference is nonprofit and that NumFOCUS
+supports it with the idea of promoting &lt;span class="caps"&gt;STEM&lt;/span&gt; in Python. Should be checked that
+there are no tax-related issues with handling this&amp;nbsp;money.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="result-of-numpy-com-numpy-org-appraisal"&gt;
+&lt;h3&gt;Result of numpy.com / numpy.org&amp;nbsp;appraisal&lt;/h3&gt;
+&lt;p&gt;John Turner donated these two domains, he’s getting this appraisal notice so
+he can claim a tax deduction.  numpy.com: reported as worth $5850, the .org is
+still&amp;nbsp;pending.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="follow-up-by-andy-with-sloan-foundation-program-directors"&gt;
+&lt;h3&gt;Follow up by Andy with Sloan Foundation program&amp;nbsp;directors&lt;/h3&gt;
+&lt;p&gt;Andy wanted to know exactly what he should discuss with Sloan F. to avoid
+bombarding them with too many things in parallel.  Andy asked about clarifying
+how the budget would work for the technical fellowships. &amp;nbsp;After a fair amount
+of back and forth on clarifying the intent of the &lt;span class="caps"&gt;TF&lt;/span&gt; idea, Jarrod, Andy and
+Ralf planned to work further on making this more precise. &amp;nbsp;Andy mentioned the
+&lt;span class="caps"&gt;NSF&lt;/span&gt; Computing Innovation Fellows program (&lt;a class="reference external" href="http://cifellow.org/"&gt;http://cifellow.org/&lt;/a&gt;) (no longer
+active) as well as Google Summer of Code
+(&lt;a class="reference external" href="https://developers.google.com/open-source/soc/"&gt;https://developers.google.com/open-source/soc/&lt;/a&gt;) as two ideas that we can
+use to frame the&amp;nbsp;discussion.&lt;/p&gt;
+&lt;p&gt;The Sloan is also interested in citation/impact reporting, at SciPy’12 there
+was discussion about citation infrastructure for software. &amp;nbsp;The alt-metrics
+community has done a lot of work on this, it might be useful to interface with
+them. &amp;nbsp;Andy mentions that the &lt;span class="caps"&gt;NSF&lt;/span&gt; just put out a Dear Colleague letter asking
+about how to measure the impact of software, perhaps Numfocus could provide a
+reply to&amp;nbsp;that.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="team-reports"&gt;
+&lt;h2&gt;Team&amp;nbsp;Reports&lt;/h2&gt;
+&lt;div class="section" id="membership"&gt;
+&lt;h3&gt;Membership&lt;/h3&gt;
+&lt;p&gt;Nothing to report, but Perry plans to start meetings to discuss&amp;nbsp;soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="fundraising"&gt;
+&lt;h3&gt;Fundraising&lt;/h3&gt;
+&lt;p&gt;Conversations with industry starting. &amp;nbsp;&amp;nbsp;Financial Industry interested in
+Technical&amp;nbsp;Fellowships.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="publicity-promotion"&gt;
+&lt;h3&gt;Publicity/Promotion&lt;/h3&gt;
+&lt;p&gt;Nothing to&amp;nbsp;report&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="grants-fellowships"&gt;
+&lt;h3&gt;Grants/Fellowships&lt;/h3&gt;
+&lt;p&gt;Nothing to&amp;nbsp;report&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="finance"&gt;
+&lt;h3&gt;Finance&lt;/h3&gt;
+&lt;p&gt;Nothing to&amp;nbsp;report&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="new-business"&gt;
+&lt;h2&gt;New&amp;nbsp;Business&lt;/h2&gt;
+&lt;div class="section" id="approved-minutes-are-now-on-the-website-under-board"&gt;
+&lt;h3&gt;Approved minutes are now on the website under&amp;nbsp;&amp;#8220;Board&amp;#8221;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class="section" id="numfocus-and-scipy-2013-conference"&gt;
+&lt;h3&gt;NumFOCUS and SciPy 2013&amp;nbsp;conference&lt;/h3&gt;
+&lt;p&gt;Andy &amp;nbsp;and Anthony are heavily involved with the organization of this year’s
+SciPy conference, they will try to involve others from the board on this&amp;nbsp;effort.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="numpy-release-management-ondrej-certik"&gt;
+&lt;h3&gt;NumPy release management (Ondrej Certik,&amp;nbsp;&amp;#8230;)&lt;/h3&gt;
+&lt;p&gt;Andy &amp;nbsp;and Anthony are heavily involved with the organization of this year’s
+Ondrej is moving on to a postdoc position at Los Alamos. &amp;nbsp;He may be
+able to do a bit more release management in the future, but it would be
+ideal if the money came via NumFocus, since up until now it has been
+done directly as Continuum. &amp;nbsp;Once that transition is done, Ondrej would
+report directly to Numfocus. &amp;nbsp;Ralf points out that a discussion about
+the future of release management for numpy, and whether the numpy
+community would be happy with Ondrej continuing to work in this capacity
+via&amp;nbsp;Numfocus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pydata-sv"&gt;
+&lt;h3&gt;PyData&amp;nbsp;&lt;span class="caps"&gt;SV&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Leah mentioned that Fernando will be a keynote speaker Andy &amp;nbsp;and Anthony are
+heavily involved with the organization of this year’s there and that Anthony
+will run a tutorial on PyTables.  There’s also going to be a PyCon Booth,
+Jarrod can’t make it but Andy will let us know soon if he can. &amp;nbsp;Fernando will
+go to the NumFocus booth a&amp;nbsp;little.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="miriam-sierig"&gt;
+&lt;h3&gt;Miriam&amp;nbsp;Sierig&lt;/h3&gt;
+&lt;p&gt;The check for Miriam Sierig cleared and now all donations go directly to her on
+the website. &amp;nbsp;The final amount collected by NumFocus, between the creation of
+the Fund on August 29 2012 and Dec 31 2012 was&amp;nbsp;$91,500.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>January 7, 2013</title><link href="http://numfocus.github.io/numfocus.org/board-meeting-minutes2013-01-30.html" rel="alternate"></link><updated>2013-01-30T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-01-30:board-meeting-minutes2013-01-30.html</id><summary type="html">&lt;p&gt;Participating&lt;/p&gt;
+&lt;p&gt;Leah Silen, Fernando Perez, Emmanuelle Gouillart, Andy R. Terrel,
+Anthony Scopatz, Jarrod Millman, Ralf Gommers, Prabhu&amp;nbsp;Ramachandran.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Not&amp;nbsp;attending&lt;/dt&gt;
+&lt;dd&gt;Travis&amp;nbsp;Oliphant,&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;div class="section" id="treasurers-report"&gt;
+&lt;h2&gt;Treasurer’s&amp;nbsp;Report&lt;/h2&gt;
+&lt;p&gt;Tax filing situation: for 2012 we’ll need to do some paperwork related to
+to taxes. &amp;nbsp;Anthony proposes contacting someone who can help with this;
+he will inquire about the cost. &amp;nbsp;Leah mentions that NumFOCUS has joined
+a non-profit support organization that could also provide information on
+this matter. &amp;nbsp;Both Anthony and Leah will follow up with their contacts
+to find out how to best&amp;nbsp;proceed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="approval-of-prior-minutes"&gt;
+&lt;h2&gt;Approval of Prior&amp;nbsp;Minutes&lt;/h2&gt;
+&lt;p&gt;The minutes from the previous meeting have been&amp;nbsp;accepted.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="old-business"&gt;
+&lt;h2&gt;Old&amp;nbsp;Business&lt;/h2&gt;
+&lt;p&gt;Approval of the appraisal of the domain was recorded, Leah will now take
+care of having the appraisal&amp;nbsp;done.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teams:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fernando will finish up the team organization document, some teams were
+merged from the previous&amp;nbsp;organization.&lt;/p&gt;
+&lt;p&gt;Brochure: Emmanuelle asks for the sources for the brochure document so
+she can translate it to French. &amp;nbsp;Leah will put the source file on the
+shared folder so others can edit it as well and for Emanuelle to&amp;nbsp;translate.&lt;/p&gt;
+&lt;p&gt;Emanuelle just created a Twitter account for NumFOCUS; Andy asks about
+password management, to which Jarrod proposes setting up a KeePassX
+shared password file, which Jarrod will set up for&amp;nbsp;everyone.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="new-business"&gt;
+&lt;h2&gt;New&amp;nbsp;Business&lt;/h2&gt;
+&lt;p&gt;a.&amp;nbsp;Discussion of adding Didrik Pinte to the Board as an official representative
+from Enthought.  Fernando proposed to table the discussion until next meeting
+to give Travis a chance to express his opinion, as he had mentioned by email
+some thoughts on this but is not present today. &amp;nbsp;Ralf noted that the bylaws may
+need amending for even/odd and more than 9 board members.  &amp;nbsp;Leah indicated this
+can be done by simple vote during a board&amp;nbsp;meeting.&lt;/p&gt;
+&lt;p&gt;b.&amp;nbsp;Christoph Deil’s suggestion on a Mac for continuous integration.  The team
+led by Jarrod and Ralf will work with Christoph to get the details of his
+proposal and will work with him&amp;nbsp;further.&lt;/p&gt;
+&lt;p&gt;c.&amp;nbsp;Sloan Foundation: how it could help NumFOCUS. &amp;nbsp;Leah has had some brief email
+exchanges already with Josh Greenberg, and will follow up further the
+discussion with Jarrod and Andy who will take point on this&amp;nbsp;item.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="action-items"&gt;
+&lt;h2&gt;Action&amp;nbsp;Items:&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;KeePassX/dropbox -&amp;nbsp;jarrod&lt;/li&gt;
+&lt;li&gt;Leah: set up emails going to &lt;a class="reference external" href="mailto:info&amp;#64;numfocus"&gt;info&amp;#64;numfocus&lt;/a&gt; so they go to&amp;nbsp;everyone.&lt;/li&gt;
+&lt;li&gt;Christoph Deil &amp;gt;&amp;gt; pointed to Jarrod and&amp;nbsp;Ralf&lt;/li&gt;
+&lt;li&gt;Sloan follow-up - Jarrod/Andy &amp;gt;&amp;gt; Fernando can&amp;nbsp;help&lt;/li&gt;
+&lt;li&gt;Leah will follow-up w/ Sloan and introduce Jarrod and&amp;nbsp;Andy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>January 21, 2013</title><link href="http://numfocus.github.io/numfocus.org/board-meeting-minutes2013-01-21.html" rel="alternate"></link><updated>2013-01-21T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-01-21:board-meeting-minutes2013-01-21.html</id><summary type="html">&lt;div class="section" id="participating"&gt;
+&lt;h2&gt;Participating&lt;/h2&gt;
+&lt;p&gt;Leah Silen, Travis Oliphant, Anthony Scopatz, Ralf Gommers, Jarrod
+Millman, Prabhu&amp;nbsp;Ramachandran.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="not-attending"&gt;
+&lt;h2&gt;Not&amp;nbsp;Attending&lt;/h2&gt;
+&lt;p&gt;Fernando Perez, Emmanuelle Gouillart, Andy R. Terrel, Perry&amp;nbsp;Greenfield&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="approval-of-prior-minutes"&gt;
+&lt;h2&gt;Approval of Prior&amp;nbsp;Minutes&lt;/h2&gt;
+&lt;p&gt;Minutes look fine, and are&amp;nbsp;approved.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="old-business"&gt;
+&lt;h2&gt;Old&amp;nbsp;Business&lt;/h2&gt;
+&lt;ol class="loweralpha simple"&gt;
+&lt;li&gt;Sloan&amp;nbsp;Foundation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Travis mentioned that Sloan may be interested in providing seed funding
+for the technical fellowships. &amp;nbsp;The idea being that once it is started,
+it will be easier to get additional funding to continue it from
+industry. &amp;nbsp;Ralf and Jarrod will contact Sloan to make a small initial
+proposal with maybe funding for around 1 mentor and 1-2&amp;nbsp;fellowships.&lt;/p&gt;
+&lt;ol class="loweralpha simple" start="2"&gt;
+&lt;li&gt;Purchase of a Mac for Christoph&amp;nbsp;Deil&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Decided to host in a co-location facility. Ralf will follow-up with
+Anthony to make this&amp;nbsp;happen.&lt;/p&gt;
+&lt;ol class="loweralpha simple" start="3"&gt;
+&lt;li&gt;Didrik&amp;nbsp;Pinte&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Jarrod will take an off-line inventory about whether we should increase
+the size of the board, change members, or wait a bit longer before
+revisiting the&amp;nbsp;issue.&lt;/p&gt;
+&lt;ol class="loweralpha simple" start="4"&gt;
+&lt;li&gt;PyCon&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We have an &lt;span class="caps"&gt;OSS&lt;/span&gt; sponsor booth and two passes. &amp;nbsp;Jarrod will try to help
+man the booth on March 15-17. &amp;nbsp;We will organize a BoF and possibly an
+in-person board&amp;nbsp;meeting.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="team-reports"&gt;
+&lt;h2&gt;Team&amp;nbsp;Reports&lt;/h2&gt;
+&lt;p&gt;Membership&lt;/p&gt;
+&lt;p&gt;Fundraising&lt;/p&gt;
+&lt;p&gt;Publicity/Promotion&lt;/p&gt;
+&lt;p&gt;Grants/Fellowships&lt;/p&gt;
+&lt;p&gt;Finance&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;No reports&amp;nbsp;yet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="new-business"&gt;
+&lt;h2&gt;New&amp;nbsp;Business&lt;/h2&gt;
+&lt;ol class="loweralpha simple"&gt;
+&lt;li&gt;Boot Camp for Women in Science and&amp;nbsp;Engineering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;General interest, so Travis will contact Greg Wilson to get a specific proposal
+for the board to&amp;nbsp;consider.&lt;/p&gt;
+&lt;ol class="loweralpha simple" start="2"&gt;
+&lt;li&gt;PyGotham –&amp;nbsp;Travis&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;General concern about this not being focused on scientific programming. We
+could try to organize a scientific track.  Non-Python scientifically-oriented
+conferences may be more interesting than general Python&amp;nbsp;conferences.&lt;/p&gt;
+&lt;ol class="loweralpha simple" start="3"&gt;
+&lt;li&gt;&amp;nbsp;PyData&amp;nbsp;sponsors&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Travis described that PyData proceeds will go to NumFocus. &amp;nbsp;&amp;nbsp;The PyData
+site would like to advertise this&amp;nbsp;fact.&lt;/p&gt;
+&lt;p&gt;For informational purposes, Continuum defines proceeds as money earned
+from ticket sales and sponsorships beyond fixed costs (venue, website,
+food, etc.) plus the travel of Leah and other community conference
+organizers and participants (keynotes, speakers, etc.) to the
+conference. &amp;nbsp;I need to check on this, but I believe the ticket sale
+costs are set up to basically break even with about 2 sponsors and a
+full conference. All of this is subject to change as the ability for
+Continuum to under-write the conference&amp;nbsp;varies.&lt;/p&gt;
+&lt;p&gt;This is just an example. &amp;nbsp;Other companies who under-write conferences
+may have different metrics and approaches for determining proceeds. &amp;nbsp;We
+should be willing to engage with as many people as possible at this
+point. &amp;nbsp;Conferences can be a useful source of revenue for NumFOCUS as
+long as they have significant&amp;nbsp;sponsorship.&lt;/p&gt;
+&lt;p&gt;Ralf, Jarrod, and Anthony expressed concern that conferences can also
+have significant cost and NumFOCUS should be very careful before
+agreeing to under-write a conference&amp;nbsp;itself.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="next-meeting"&gt;
+&lt;h2&gt;Next&amp;nbsp;Meeting&lt;/h2&gt;
+&lt;blockquote&gt;
+February 4, 2013&lt;/blockquote&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Software Distributions</title><link href="http://numfocus.github.io/numfocus.org/software-distributions.html" rel="alternate"></link><updated>2012-12-21T17:37:00+01:00</updated><author><name>Scopatz</name></author><id>tag:numfocus.github.io/numfocus.org,2012-12-21:software-distributions.html</id><summary type="html">&lt;p&gt;The following are software distributions which may aid in performing
+computational science&amp;nbsp;tasks:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.enthought.com/products/epd.php"&gt;&lt;span class="caps"&gt;EPD&lt;/span&gt;&lt;/a&gt; from&amp;nbsp;Enthought&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://store.continuum.io/cshop/anaconda"&gt;Anaconda&lt;/a&gt; from Continuum&amp;nbsp;Analytics&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://sagemath.org"&gt;Sage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.pyzo.org/"&gt;Pyzo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.pythonxy.com/"&gt;Python(x,y)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://code.google.com/p/winpython/"&gt;WinPython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.activestate.com/activepython"&gt;ActivePython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unofficial &lt;a class="reference external" href="http://www.lfd.uci.edu/~gohlke/pythonlibs/"&gt;Windows Binaries&lt;/a&gt; for Python Extension&amp;nbsp;Packages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note that this list is purely informational and &amp;nbsp;NumFOCUS does
+not officially support or prefer any distribution. &amp;nbsp;If you would like to
+see a distribution added to this list, please &lt;a class="reference external" href="http://numfocus.org/contact-4/"&gt;contact us&lt;/a&gt;!&lt;/p&gt;
+</summary></entry><entry><title>Helpful Links</title><link href="http://numfocus.github.io/numfocus.org/helpful-links.html" rel="alternate"></link><updated>2012-03-13T17:29:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-03-13:helpful-links.html</id><summary type="html">&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://scipy-central.org/"&gt;http://scipy-central.org/&lt;/a&gt;&amp;nbsp;-&amp;nbsp;A collection of&amp;nbsp;code snippets, modules and
+links for&amp;nbsp;&lt;em&gt;solving scientific problems&lt;/em&gt;&amp;nbsp;with&amp;nbsp;&lt;a class="reference external" href="http://scipy.org/"&gt;SciPy&lt;/a&gt;&amp;nbsp;and related Python&amp;nbsp;tools.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://scicomp.stackexchange.com/"&gt;http://scicomp.stackexchange.com/&lt;/a&gt;&amp;nbsp;-&amp;nbsp;This is a great place to ask questions
+about scientific computing with NumPy, SciPy, and other related&amp;nbsp;tools.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.scipy.org"&gt;http://scipy.org&lt;/a&gt; - Home page of SciPy&amp;nbsp;project&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.enthought.com/repo/free/"&gt;http://www.enthought.com/&lt;/a&gt;&amp;nbsp;- Free Enthought Python&amp;nbsp;Distribution&amp;nbsp;Download&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://store.continuum.io/cshop/anaconda"&gt;https://store.continuum.io/cshop/anaconda&lt;/a&gt;&amp;nbsp;- Anaconda &lt;span class="caps"&gt;CE&lt;/span&gt;&amp;nbsp;Download&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://code.google.com/p/pythonxy/wiki/Downloads?tm=2"&gt;http://code.google.com/&lt;/a&gt;&amp;nbsp;- Python &lt;span class="caps"&gt;XY&lt;/span&gt;&amp;nbsp;Download&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://stackoverflow.com/questions/tagged/python"&gt;http://stackoverflow.com/&lt;/a&gt;&amp;nbsp;- Stack Overflow Python&amp;nbsp;Questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Project&amp;nbsp;repositories:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/numpy/numpy"&gt;NumPy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/scipy/scipy"&gt;Scipy&amp;nbsp;repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/matplotlib/matplotlib"&gt;matplotlib&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/ipython/ipython"&gt;IPython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/sympy/sympy"&gt;SymPy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/cython/cython"&gt;Cython&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/pydata/pandas"&gt;pandas&amp;nbsp;repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pytables.github.com/"&gt;PyTables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/stefanv/scikits.image"&gt;scikits-image&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/scikit-learn/scikit-learn"&gt;scikits-learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/statsmodels/statsmodels"&gt;scikits-statsmodels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://code.google.com/p/spyderlib/source/checkout"&gt;spyder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/Theano/Theano"&gt;theano&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Project mailing lists and&amp;nbsp;discussion&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mail.scipy.org/mailman/listinfo/numpy-discussion"&gt;NumPy&amp;nbsp;discussion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://dir.gmane.org/gmane.comp.python.scientific.user"&gt;Scipy&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://dir.gmane.org/gmane.comp.python.scientific.devel"&gt;Scipy&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://sourceforge.net/mail/?group_id=80706"&gt;matplotlib&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mail.scipy.org/mailman/listinfo/ipython-user"&gt;Ipython&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mail.scipy.org/mailman/listinfo/ipython-dev"&gt;Ipython&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/sympy"&gt;SymPy&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/cython-users"&gt;Cython&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mail.python.org/mailman/listinfo/cython-devel"&gt;Cython&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://groups.google.com/forum/#!forum/pydata"&gt;pandas&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://lists.sourceforge.net/lists/listinfo/pytables-users"&gt;PyTables&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/scikits-image"&gt;scikits-image&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://lists.sourceforge.net/lists/listinfo/scikit-learn-general"&gt;scikits-learn&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels"&gt;scikits-statsmodels&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/spyderlib"&gt;spyder&amp;nbsp;list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/theano-users"&gt;theano&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/theano-dev"&gt;theano&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Projects</title><link href="http://numfocus.github.io/numfocus.org/projects-2.html" rel="alternate"></link><updated>2012-03-01T17:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-03-01:projects-2.html</id><summary type="html">&lt;div class="section" id="currently-promoting"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/projects/"&gt;Currently&amp;nbsp;Promoting&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="software-distributions"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/software-distributions/"&gt;Software&amp;nbsp;Distributions&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="educational-projects"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/educational-projects/"&gt;Educational&amp;nbsp;Projects&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="representatives"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/other-projects/"&gt;Representatives&lt;/a&gt;&lt;/h2&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Scientific Computing with Python</title><link href="http://numfocus.github.io/numfocus.org/scientific-computing-with-python.html" rel="alternate"></link><updated>2012-02-25T16:31:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:scientific-computing-with-python.html</id><summary type="html">&lt;img alt="http://gallery.mailchimp.com/e91b4574d5d1709a9dc4f7ab7/images/scipy_logo_shiny_blue_no_reflec.png" src="http://gallery.mailchimp.com/e91b4574d5d1709a9dc4f7ab7/images/scipy_logo_shiny_blue_no_reflec.png" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://conference.scipy.org/scipy2013/"&gt;SciPy&lt;/a&gt; will be June 24-29, 2013 in Austin,&amp;nbsp;Texax&lt;/p&gt;
+</summary></entry><entry><title>Women in Science and Engineering Boot Camp</title><link href="http://numfocus.github.io/numfocus.org/women-in-science-and-engineering-boot-camp.html" rel="alternate"></link><updated>2012-02-25T16:31:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:women-in-science-and-engineering-boot-camp.html</id><summary type="html">&lt;p&gt;Due in part to a generous donation made by &lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan to NumFOCUS, we are
+pleased to announce that &lt;a class="reference external" href="http://numfocus.org/"&gt;NumFOCUS&lt;/a&gt; will be collaborating with &lt;a class="reference external" href="software-carpentry.org"&gt;Software Carpentry&lt;/a&gt;
+to host a series of  boot camps to offer training for women in technology. The
+first, a boot camp for 120 women in science and engineering, will be held at
+the Microsoft Research Center in Cambridge, Massachusetts on June&amp;nbsp;24-25.&lt;/p&gt;
+&lt;div class="section" id="about"&gt;
+&lt;h2&gt;About&lt;/h2&gt;
+&lt;p&gt;The goal of this event is to help scientists and engineers become more
+productive by teaching them basic computing skills like program design, version
+control, testing, and task automation. In this two-day boot camp, short
+tutorials will alternate with hands-on practical exercises.
+The boot camp is open to female graduate students, post-docs, faculty members,
+staff scientists, or their equivalent in science, engineering, medicine, or a
+related field in academia, industry, or the public and non-profit&amp;nbsp;sectors.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sponsors"&gt;
+&lt;h2&gt;Sponsors&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;J.P.&amp;nbsp;Morgan&lt;/li&gt;
+&lt;li&gt;Alfred P. Sloan&amp;nbsp;Foundation&lt;/li&gt;
+&lt;li&gt;Mozilla&amp;nbsp;Foundation&lt;/li&gt;
+&lt;li&gt;Microsoft&amp;nbsp;Corporation&lt;/li&gt;
+&lt;li&gt;Intel&lt;/li&gt;
+&lt;li&gt;King Abdullah University of Science and&amp;nbsp;Technology&lt;/li&gt;
+&lt;li&gt;Python Software&amp;nbsp;Foundation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Donate</title><link href="http://numfocus.github.io/numfocus.org/donatejoin.html" rel="alternate"></link><updated>2012-02-25T15:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:donatejoin.html</id><summary type="html">&lt;img alt="static/images/nf-web-with-tag.jpg" src="static/images/nf-web-with-tag.jpg" style="height: 200px;" /&gt;
+&lt;p&gt;NumFOCUS supports and promotes world-class, innovative, open source
+scientific software. Most individual projects, even the wildly
+successful ones, find the overhead of a non-profit to be too large for
+their community to bear. NumFOCUS provides a critical service as an
+umbrella organization which removes the burden from the projects
+themselves to raise&amp;nbsp;money.&lt;/p&gt;
+&lt;p&gt;Money donated through NumFOCUS goes to sponsor things&amp;nbsp;like:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Coding sprints (food and&amp;nbsp;travel)&lt;/li&gt;
+&lt;li&gt;Technical fellowships (sponsored students and mentors to work on&amp;nbsp;code)&lt;/li&gt;
+&lt;li&gt;Equipment grants (to developers and&amp;nbsp;projects)&lt;/li&gt;
+&lt;li&gt;Conference attendance for students (to PyData, SciPy, and other&amp;nbsp;conferences)&lt;/li&gt;
+&lt;li&gt;Fees for continuous integration and other software engineering&amp;nbsp;tools&lt;/li&gt;
+&lt;li&gt;Documentation&amp;nbsp;development&lt;/li&gt;
+&lt;li&gt;Web-page hosting and bandwidth fees for&amp;nbsp;projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;NumFOCUS aims to ensure that money is available to keep projects in the
+scientific Python stack funded and available. So if you find value in
+these tools and have always wanted to give back, donating to NumFOCUS
+gives you a way of supporting either a specific project of your choice
+or all of these great codes at&amp;nbsp;once!&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;NumFOCUS has received 501(c)3 status as a public charity in the
+United&amp;nbsp;States.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are many ways to give. We have tried to make it as simple as
+possible to donate to NumFOCUS. You can use any of the following payment&amp;nbsp;providers.&lt;/p&gt;
+&lt;div&gt;&lt;p&gt;&lt;strong&gt;PayPal&lt;/strong&gt; -&amp;nbsp;(2.90% + $0.30 /&amp;nbsp;transaction)&lt;/p&gt;
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+  &lt;input type="hidden" name="cmd" value="_s-xclick"/&gt;&lt;br /&gt;
+  &lt;input type="hidden" name="hosted_button_id" value="HK2N4RM5NMDZC"/&gt;&lt;br /&gt;
+  &lt;input type="image"
+         src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+         border="0"
+         name="submit"
+         alt="PayPal - The safer, easier way to pay online!"/&gt;&lt;br /&gt;
+  &lt;img alt=""
+        border="0"
+        src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+        width="1"
+        height="1"/&gt;&lt;br /&gt;
+&lt;/form&gt;&lt;p&gt;&lt;strong&gt;Google Checkout&lt;/strong&gt; -&amp;nbsp;(2.90% + $0.30 /&amp;nbsp;transaction)&lt;/p&gt;
+&lt;table width="1%" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+  &lt;td align="right" nowrap="nowrap" width="1%"&gt;$
+    &lt;input id="item_price_1" type="text" name="item_price_1" value="64.00" size="6" /&gt;
+  &lt;/td&gt;
+  &lt;td align="left" width="1%"&gt;
+    &lt;input type="image" src="https://checkout.google.com/buttons/donateNow.gif?merchant_id=112611646391039&amp;amp;w=115&amp;amp;h=50&amp;amp;style=white&amp;amp;variant=text&amp;amp;loc=en_US" alt="Donate" /&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;&lt;strong&gt;WePay&lt;/strong&gt; - (2.90% + $0.30 /&amp;nbsp;transaction)&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&lt;/a&gt;&amp;nbsp;(custom&amp;nbsp;amount)&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$512.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$256.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$128.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$64.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$32.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.wepay.com/donations/78917"&gt;Donate&amp;nbsp;$16.00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dwolla&lt;/strong&gt; - ($0.25 / transaction) &amp;#8212; No credit cards and &lt;span class="caps"&gt;U.S.&lt;/span&gt; banks&amp;nbsp;only&lt;/p&gt;
+&lt;input onclick="location.href='https://www.dwolla.com/hub/numfocus?memo=General%20Fund';"
+       type="image"
+       src="https://www.dwolla.com/content/images/btn-donate-with-dwolla.png" /&gt;&lt;p&gt;&lt;strong&gt;Checks&lt;/strong&gt; -&amp;nbsp;&amp;nbsp;Make payable to&amp;nbsp;NumFOCUS and mail&amp;nbsp;to:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+NumFOCUS
+P.O. Box 90596
+Austin, TX 78709
+&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Your personal contribution is greatly&amp;nbsp;appreciated!&lt;/strong&gt;&lt;/p&gt;
+</summary></entry><entry><title>Tokyo SciPy</title><link href="http://numfocus.github.io/numfocus.org/tokyo-scipy2012.html" rel="alternate"></link><updated>2012-02-25T15:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:tokyo-scipy2012.html</id><summary type="html">&lt;img alt="static/images/Tokyo-SciPy.jpg" src="static/images/Tokyo-SciPy.jpg" /&gt;
+&lt;p&gt;Chairman of NumFOCUS&amp;#8217; Board of Director&amp;#8217;s,Travis Oliphant, spoke at the
+March meeting of Tokyo SciPy via live webcast.&amp;nbsp; Topics he covered
+included the history of&amp;nbsp;&lt;a class="reference external" href="http://scipy.org/"&gt;SciPy&lt;/a&gt;, where&amp;nbsp;&lt;a class="reference external" href="http://numpy.org/"&gt;NumPy&amp;nbsp;&lt;/a&gt;should go next,
+and Numba. &amp;nbsp;Questions were asked regarding sparse matrix integration
+with NumPy, and&amp;nbsp;packaging.&lt;/p&gt;
+&lt;p&gt;Tokyo SciPy member, Syoyo, gave Travis the link to his code for
+simulating smoke, &amp;nbsp;&lt;a class="reference external" href="http://code.google.com/p/smoke3d/"&gt;http://code.google.com/p/smoke3d/&lt;/a&gt;.&amp;nbsp; Perhaps at
+some point, Syoyo will be able to make that code fast using&amp;nbsp;Python.&lt;/p&gt;
+&lt;p&gt;Despite a late night, due to the fourteen hour time difference between
+Austin and Tokyo, Travis spoke for over an hour.&amp;nbsp; He later stated, “…it
+was nice to see that SciPy and NumPy have a user community in&amp;nbsp;Japan.”&lt;/p&gt;
+</summary></entry><entry><title>EuroSciPy 2012</title><link href="http://numfocus.github.io/numfocus.org/calendar.html" rel="alternate"></link><updated>2012-02-25T15:46:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:calendar.html</id><summary type="html">&lt;p&gt;This year&amp;#8217;s EuroSciPy conference will be held
+in&amp;nbsp;&lt;strong&gt;Brussels&lt;/strong&gt;,&amp;nbsp;&lt;strong&gt;August 23-27&lt;/strong&gt;, at the Université Libre de
+Bruxelles (&lt;span class="caps"&gt;ULB&lt;/span&gt;, Solbosch Campus). &amp;nbsp;This Euroscipy meeting will be the
+5th edition of this cross-disciplinary gathering, focused on the use and
+development of the Python language in scientific research and&amp;nbsp;industry.&lt;/p&gt;
+</summary></entry><entry><title>Python in Astronomy</title><link href="http://numfocus.github.io/numfocus.org/python-in-astronomy.html" rel="alternate"></link><updated>2012-02-25T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:python-in-astronomy.html</id><summary type="html">&lt;img alt="static/images/sn-blackholes.jpg" src="static/images/sn-blackholes.jpg" /&gt;
+&lt;p&gt;On 28 March, &lt;span class="caps"&gt;NASA&lt;/span&gt;’s Swift satellite&amp;nbsp;&lt;a class="reference external" href="http://news.sciencemag.org/sciencenow/2011/04/star-eating-black-hole-may-be-pr.html?ref=hp"&gt;observed a flash of gamma rays
+brighter than anything astronomers had seen before&lt;/a&gt;. It soon became
+evident that the event wasn’t a typical gamma ray burst, an emission of
+high-energy radiation that often accompanies a supernova explosion. The
+flash didn’t die out but was sustained for weeks, and although it has
+faded in intensity, it is still going strong 2½ months later. Two papers
+published online today in&amp;nbsp;&lt;em&gt;Science&lt;/em&gt;&amp;nbsp;provide an explanation for this
+luminous surprise. The flare is in fact&amp;nbsp;&lt;a class="reference external" href="http://www.sciencemag.org/cgi/content/abstract/science.1207143"&gt;a high-energy jet of
+radiation&lt;/a&gt;&amp;nbsp;produced by a star falling into a black hole at the center
+of a galaxy 4 billion light-years away. The reason the flare is so
+bright is that the jet is pointed straight in the direction of Earth.
+And it’s sustained because &lt;a class="reference external" href="http://www.sciencemag.org/cgi/content/abstract/science.1207150"&gt;the black hole is consuming the star
+gradually&lt;/a&gt;. “That’s because as the black hole rips the star apart, the
+mass swirls around like water going down a drain, and this swirling
+process releases a lot of energy,” says Joshua Bloom, an astronomer at
+the University of California, Berkeley, and lead author of one of the
+two papers. Bloom expects the flare to fade out over the next&amp;nbsp;year.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://news.sciencemag.org/sciencenow/2011/06/scienceshot-powerful-jet-being.html?ref=hp"&gt;http://news.sciencemag.org/sciencenow/2011/06/scienceshot-powerful-jet-being.html?ref=hp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by&amp;nbsp;Yudhijit Bhattacharjee&amp;nbsp;on&amp;nbsp;16 June 2011, 2:00&amp;nbsp;&lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For related story and photo,&amp;nbsp;&lt;a class="reference external" href="http://discovermagazine.com/2012/jan-feb/14"&gt;http://discovermagazine.com/2012/jan-feb/14&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Circuitscape Protects Endangered Species Using PyAMG</title><link href="http://numfocus.github.io/numfocus.org/python-pyamg.html" rel="alternate"></link><updated>2012-02-25T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:python-pyamg.html</id><summary type="html">&lt;img alt="static/images/zimmer_gene_circuit_500px.jpg" src="static/images/zimmer_gene_circuit_500px.jpg" /&gt;
+&lt;p&gt;Scientists map the &amp;#8220;current&amp;#8221; of mountain lions moving between mountain ranges. Blue shows areas of low current density, which are expected to have low densities of dispersing mountain lions; yellow designates movement bottlenecks, which are most vulnerable to habitat destruction. Destroying high-flow habitat can isolate populations and endanger their survival.&amp;nbsp;&lt;strong&gt;Image:&amp;nbsp;Brad McRae and Brett&amp;nbsp;Dickson&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://code.google.com/p/pyamg/"&gt;PyAMG&lt;/a&gt; is an open-source numerical package of multigrid and Krylov
+solvers for sparse matrices in Python.&amp;nbsp; One of the biggest users of
+PyAMG is &lt;a class="reference external" href="http://www.circuitscape.org/Circuitscape/Welcome.html"&gt;Circuitscape&lt;/a&gt;. This open-source software program borrows
+algorithms from electronic circuit theory to predict patterns of
+movement, gene flow, and genetic differentiation among plant and animal
+populations in heterogeneous landscapes.&amp;nbsp; Circuit theory complements
+least-cost path approaches because it considers effects of all possible
+pathways across a landscape&amp;nbsp;simultaneously.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.circuitscape.org/Circuitscape/Welcome.html"&gt;Circuitscape&lt;/a&gt; was written by&amp;nbsp;&lt;a class="reference external" href="http://www.nceas.ucsb.edu/~mcrae/Welcome.html"&gt;Brad McRae&lt;/a&gt; and &lt;a class="reference external" href="http://www.allthingshpc.org/"&gt;Viral Shah&lt;/a&gt;.
+Brad&amp;nbsp;is an Ecologist with the &lt;a class="reference external" href="http://waconservation.org/"&gt;The Nature Conservancy&lt;/a&gt; in Seattle.&amp;nbsp; He
+works on habitat connectivity conservation, climate change, and
+landscape genetics. &amp;nbsp;Viral&amp;nbsp;is a Senior Scientist with &lt;a class="reference external" href="http://www.interactivesupercomputing.com/"&gt;Interactive
+Supercomputing&lt;/a&gt; and a Visiting Scientist at the &lt;a class="reference external" href="http://www.ucsb.edu/"&gt;University of
+California, Santa Barbara.&amp;nbsp;&lt;/a&gt;He develops systems for scientific
+computing for work and for&amp;nbsp;fun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For additional information on&amp;nbsp;`Circuitscape`_:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The authors presentation at SciPy 2008:
+&lt;a class="reference external" href="http://www.circuitscape.org/Circuitscape/Pubs_files/Shah_McRae_Circuitscape_Python_Scipy08.pdf"&gt;http://www.circuitscape.org/Circuitscape/Pubs_files/Shah_McRae_Circuitscape_Python_Scipy08.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conservation Magazine:&lt;/em&gt; &lt;a class="reference external" href="http://www.conservationmagazine.org/articles/v9n1/circuitous-routes/"&gt;Circuitous Routes: Circuit Theory Guides
+Wildlife Corridor Design by Eric&amp;nbsp;Wagner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Wired Magazine:&lt;/em&gt;  &lt;a class="reference external" href="http://www.wired.com/science/planetearth/news/2007/12/dissection_1210"&gt;Scientist Employs &amp;#8216;Circuit Theory&amp;#8217; to Protect Endangered Species by Carl&amp;nbsp;Zimmer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Convergence Magazine:&lt;/em&gt; &lt;a class="reference external" href="http://convergence.ucsb.edu/article/where-wild-things-are"&gt;Where the Wild Things Are by Anna&amp;nbsp;Davison&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Earthtimes.org&lt;/em&gt;: &lt;a class="reference external" href="http://www.earthtimes.org/articles/show/news_press_release,90605.shtml"&gt;Where Mountain Lions Roam: Star-P Helps Decipher
+Threatened Wildlife&amp;nbsp;Migration&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>
