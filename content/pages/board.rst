@@ -8,7 +8,7 @@ Board of Directors
 
 Ralf Gommers
 ------------
-.. image:: /static/images/portrait_rgommers.jpg
+.. image:: ../static/images/portrait_rgommers.jpg
     :height: 150px
 
 Ralf Gommers received his PhD in physics from University College London and did his post-doctoral work at MIT, working in the field of experimental atomic physics. After a short period working on electronics for Magnetic Resonance Imaging devices at Philips Research, he is now a designer for advanced lithography machines at ASML in the Netherlands. During his post-doctoral work he became involved in the SciPy community. He is an active contributor to NumPy, SciPy and statsmodels, and has also contributed to scikit-image. Ralf has been the NumPy release manager for two years, and is currently the SciPy release manager.
@@ -16,7 +16,7 @@ Ralf Gommers received his PhD in physics from University College London and did 
 
 Emmanuelle Gouillart
 --------------------
-.. image:: /static/images/emma_python_smaller.jpg
+.. image:: ../static/images/emma_python_smaller.jpg
     :height: 150px
 
 Emmanuelle Gouillart works as a physics researcher in the joint laboratory between the French National Research Center (CNRS), and the French corporation Saint-Gobain. She holds a physics PhD from the Université Pierre et Marie Curie, and an MSc from the Ecole Normale Supérieure in Paris. Her research interests are in glass melting, tomography imaging, and fluid mixing. Scientific Python is the ubiquitous tool in her daily research.
@@ -26,7 +26,7 @@ She became involved in the Scientific Python community with the Numpy/Scipy docu
 
 Perry Greenfield
 ----------------
-.. image:: /static/images/perry-greenfield.jpg
+.. image:: ../static/images/perry-greenfield.jpg
     :height: 150px
 
 Perry Greenfield received a Ph.D. in Physics from M.I.T. His thesis was based on Very Large Array radio observations of the first discovered gravitational lens. After a short stint in communications engineering at Bell Labs, he ended up at the Space Telescope Science Institute, where he has worked for the last 26 years. He initially was responsible for calibrating the Faint Object Camera for the Hubble Space Telescope, but for the last 16 years he has been leading the Science Software Branch. He has pioneered the use of Python in astronomy, and his group has been heavily involved in Python for the last 12 years. They have developed PyRAF, numarray (the precursor to current NumPy capabilities), PyFITS, and been heavily involved in the development and support of matplotlib. His group is now heavily involved in developing the science software to support the next large space telescope under construction, the James Webb Space Telescope.
@@ -34,7 +34,7 @@ Perry Greenfield received a Ph.D. in Physics from M.I.T. His thesis was based on
 
 Jarrod Millman
 --------------
-.. image:: /static/images/jarrod-millman-150x150.png
+.. image:: ../static/images/jarrod-millman-150x150.png
     :height: 150px
 
 Jarrod Millman is on the SciPy steering committee and a contributor to both the NumPy and SciPy projects. While director of computing for UC Berkeley’s Neuroscience Institute, he helped found the Neuroimaging in Python (NIPY) project. Currently, he is a software developer at Berkeley’s Brain Imaging Center.
@@ -42,7 +42,7 @@ Jarrod Millman is on the SciPy steering committee and a contributor to both the 
 
 Travis Oliphant
 ---------------
-.. image:: /static/images/Travis_Oliphant.gif
+.. image:: ../static/images/Travis_Oliphant.gif
     :height: 150px
 
 Dr. Oliphant has a Ph.D. in Biomedical Engineering from the Mayo Clinic, and M.S. and B.S. degrees in Electrical Engineering (and Math) from Brigham Young University. Travis has worked extensively with Python for numerical and scientific programming since 1997, and was the primary developer of the NumPy package and the author of the definitive Guide to NumPy. He is also the primary founding author of the SciPy package. During his academic career, he has worked in the fields of satellite remote sensing, Magnetic Resonance Imaging (MRI), Ultrasound, elastography, and general inverse problems.
@@ -54,7 +54,7 @@ Dr. Oliphant served as President of Enthought from 2007 until 2011, where he ove
 
 Fernando Pérez
 --------------
-.. image:: /static/images/fernando_perez.jpg
+.. image:: ../static/images/fernando_perez.jpg
     :height: 150px
 
 Fernando Pérez received his PhD in theoretical physics from the University of Colorado and did his post-doctoral work there in applied mathematics, working on fast algorithms for partial differential equations. He is currently a research scientist at UC Berkeley’s Helen Wills Neuroscience Institute, focusing on the development of new analysis methods for brain imaging problems and high-level scientific computing tools.
@@ -70,7 +70,7 @@ Didrik Pinte has had a mixed career between academia and the private sector. As 
 
 Anthony Scopatz
 ---------------
-.. image:: /static/images/scopatz_avatar-1.jpeg
+.. image:: ../static/images/scopatz_avatar-1.jpeg
     :height: 150px
 
 Anthony Scopatz is a computational scientist and long time Python developer, Anthony holds his BS in Physics from UC Santa Barbara and Ph.D. in Mechanical / Nuclear Engineering from UT Austin. A former Enthought employee, he currently is a Postdoctoral Scholar at the FLASH Center at the University of Chicago in the Astrophysics Department. Anthony’s research interests revolve around high energy density physics, essential physics modeling of the nuclear fuel cycle, and information theory & entropy. Anthony has published and spoken at numerous conferences on a variety of science & software development topics. http://scopatz.com/
@@ -78,7 +78,7 @@ Anthony Scopatz is a computational scientist and long time Python developer, Ant
 
 Andy Terrel
 -----------
-.. image:: /static/images/andy-terrel-portrait200px2.jpg
+.. image:: ../static/images/andy-terrel-portrait200px2.jpg
     :height: 150px
 
 Andy Terrel received his PhD in computer science at the University of Chicago in 2010 and is currently a staff researcher at the Texas Advance Computing Center at the Univerisity of Texas at Austin.  His major emphasis of research has been on the automation of numerical methods on high performance computing resources. To this end, he has provided numerous contributions to a wide variety of open source projects, including the popular FEniCS project and SymPy.

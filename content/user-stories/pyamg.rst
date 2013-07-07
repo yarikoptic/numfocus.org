@@ -4,7 +4,7 @@ Circuitscape Protects Endangered Species Using PyAMG
 :author: Leah
 :slug: python-pyamg
 
-.. image:: /static/images/zimmer_gene_circuit_500px.jpg
+.. image:: static/images/zimmer_gene_circuit_500px.jpg
 
 Scientists map the "current" of mountain lions moving between mountain ranges. Blue shows areas of low current density, which are expected to have low densities of dispersing mountain lions; yellow designates movement bottlenecks, which are most vulnerable to habitat destruction. Destroying high-flow habitat can isolate populations and endanger their survival. \ 
 **Image: Brad McRae and Brett Dickson**

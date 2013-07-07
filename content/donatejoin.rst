@@ -4,7 +4,7 @@ Donate
 :author: Leah
 :slug: donatejoin
 
-.. image:: /static/images/nf-web-with-tag.jpg
+.. image:: static/images/nf-web-with-tag.jpg
     :height: 200px
 
 NumFOCUS supports and promotes world-class, innovative, open source
@@ -123,6 +123,3 @@ only
 .. _Donate $64.00: https://www.wepay.com/donations/78917
 .. _Donate $32.00: https://www.wepay.com/donations/78917
 .. _Donate $16.00: https://www.wepay.com/donations/78917
-
-.. |image0| image:: http://numfocus.org/wp-content/uploads/2012/02/nf-logo2.jpg
-.. |image2| image:: http://numfocus.org/wp-content/uploads/2012/02/nf-logo2.jpg
