@@ -636,6 +636,46 @@ computational science&amp;nbsp;tasks:&lt;/p&gt;
 &lt;p&gt;Please note that this list is purely informational and &amp;nbsp;NumFOCUS does
 not officially support or prefer any distribution. &amp;nbsp;If you would like to
 see a distribution added to this list, please &lt;a class="reference external" href="http://numfocus.org/contact-4/"&gt;contact us&lt;/a&gt;!&lt;/p&gt;
+</summary></entry><entry><title>John Hunter Memorial Fund</title><link href="http://numfocus.github.io/numfocus.org/johnhunter.html" rel="alternate"></link><updated>2012-08-28T23:29:00+02:00</updated><author><name>Travis</name></author><id>tag:numfocus.github.io/numfocus.org,2012-08-28:johnhunter.html</id><summary type="html">&lt;img alt="John Hunter" class="align-right" src="static/images/John-hunter-crop-2.jpg" style="height: 200px;" /&gt;
+&lt;p&gt;John Hunter, author of &lt;a class="reference external" href="http://matplotlib.sourceforge.net/"&gt;Matplotlib&lt;/a&gt;, founding board
+member of &lt;a class="reference external" href="http://numfocus.org"&gt;NumFOCUS&lt;/a&gt;, husband to Miriam, and father to three daughters:
+Clara, Ava, and Rahel, was diagnosed with cancer in late July 2012 after
+returning from his keynote &lt;a class="reference external" href="http://www.youtube.com/watch?v=e3lTby5RI54&amp;amp;noredirect=1"&gt;address at SciPy&lt;/a&gt; in Austin, &lt;span class="caps"&gt;TX&lt;/span&gt;. He passed
+away on August 28th from complications arising from necessary cancer
+treatment. See the &lt;a class="reference external" href="https://groups.google.com/forum/#!msg/pydata/FpwXp3sX6N8/mxopkZ1PkBQJ"&gt;announcement email&lt;/a&gt; by his good friend, Fernando&amp;nbsp;Perez.&lt;/p&gt;
+&lt;p&gt;John has given so much to all of us in the Python community, now is our
+time to give something back to his family by providing for the education
+and support of his children. We have setup the John Hunter Memorial Fund
+to provide a mechanism for individuals and companies who have
+appreciated John&amp;#8217;s work, to give back to him by ensuring that his
+children have funds available for their&amp;nbsp;education.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://linuxfr.org/news/deces-de-john-hunter-createur-de-matplotlib"&gt;View French&amp;nbsp;translation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donations are gifts to Miriam and her girls. They will be used for the
+care and education of Clara, Ava, and Rahel. As of A PayPal account has
+been set up so that you may give to John&amp;#8217;s family directly. You may also
+send a check directly to the family made out to Miriam Sierig and mailed
+to the address below. &amp;nbsp;Thank you for your&amp;nbsp;generosity!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PayPal:&lt;/strong&gt;&lt;/p&gt;
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+&lt;input type="hidden"
+        name="cmd"
+        value="_s-xclick" /&gt;&lt;br /&gt;
+&lt;input type="hidden"
+       name="hosted_button_id"
+       value="AY7E6Q8Z4A63J" /&gt;&lt;br /&gt;
+&lt;input type="image"
+       alt="PayPal - The safer, easier way to pay online!" name="submit"
+       src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /&gt;&lt;br /&gt;
+&lt;img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+      width="1"
+      height="1"
+      border="0"/&gt;
+&lt;/form&gt;&lt;p&gt;&lt;strong&gt;Checks:&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Miriam Sierig
+953 E Hyde Park Blvd #2
+Chicago, IL 60615
+&lt;/pre&gt;
 </summary></entry><entry><title>Helpful Links</title><link href="http://numfocus.github.io/numfocus.org/helpful-links.html" rel="alternate"></link><updated>2012-03-13T17:29:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-03-13:helpful-links.html</id><summary type="html">&lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://scipy-central.org/"&gt;http://scipy-central.org/&lt;/a&gt;&amp;nbsp;-&amp;nbsp;A collection of&amp;nbsp;code snippets, modules and
 links for&amp;nbsp;&lt;em&gt;solving scientific problems&lt;/em&gt;&amp;nbsp;with&amp;nbsp;&lt;a class="reference external" href="http://scipy.org/"&gt;SciPy&lt;/a&gt;&amp;nbsp;and related Python&amp;nbsp;tools.&lt;/li&gt;
