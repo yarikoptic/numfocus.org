@@ -34,9 +34,21 @@ incidental expenses such as&amp;nbsp;refreshments.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="how-can-i-contribute"&gt;
 &lt;h3&gt;How Can I&amp;nbsp;Contribute?&lt;/h3&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;PayPal&lt;/em&gt;&lt;/p&gt;
-&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;Google&amp;nbsp;Checkout&lt;/em&gt;&lt;/p&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: middle;"&gt;&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;&lt;/form&gt;&lt;/td&gt;&lt;td style="vertical-align: middle;"&gt;&lt;script type="text/javascript"&gt;// &lt; ![CDATA[&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;PayPal&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;Google&amp;nbsp;Checkout&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: middle;"&gt;
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+&lt;/form&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: middle;"&gt;
+&lt;script type="text/javascript"&gt;// &lt; ![CDATA[&lt;/p&gt;
 &lt;p&gt;function validateAmount(amount){&lt;br&gt;&lt;/br&gt;
     if(amount.value.match( /^[0-9]+(\.([0-9]+))?$/)){&lt;br&gt;&lt;/br&gt;
         return true;&lt;br&gt;&lt;/br&gt;
@@ -46,7 +58,9 @@ incidental expenses such as&amp;nbsp;refreshments.&lt;/p&gt;
         return false;&lt;br&gt;&lt;/br&gt;
     }&lt;br&gt;&lt;/br&gt;
 }&lt;br&gt;&lt;/br&gt;
-// ]]&gt;&lt;/script&gt;&lt;form id="BB_BuyButtonForm" action="https://checkout.google.com/cws/v2/Donations/112611646391039/checkoutForm" method="post" name="BB_BuyButtonForm" target="_top" onsubmit="return validateAmount(this.item_price_1)"&gt;&lt;/p&gt;&lt;table border="1" class="docutils"&gt;
+// ]]&gt;&lt;/script&gt;
+&lt;form id="BB_BuyButtonForm" action="https://checkout.google.com/cws/v2/Donations/112611646391039/checkoutForm" method="post" name="BB_BuyButtonForm" target="_top" onsubmit="return validateAmount(this.item_price_1)"&gt;
+&lt;/p&gt;&lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="60%" /&gt;
 &lt;col width="40%" /&gt;
@@ -57,7 +71,11 @@ incidental expenses such as&amp;nbsp;refreshments.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;/form&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Suggested minimum donation:&amp;nbsp;$10&lt;/p&gt;
+&lt;/form&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Suggested minimum donation:&amp;nbsp;$10&lt;/p&gt;
 &lt;div class="section" id="women-in-technology-workshops"&gt;
 &lt;h4&gt;Women in Technology&amp;nbsp;Workshops&lt;/h4&gt;
 &lt;p&gt;These half-day events will be presented by NumFOCUS and held in
@@ -68,18 +86,31 @@ held in the fall at PyData &lt;span class="caps"&gt;NYC&lt;/span&gt;. More infor
 &lt;/div&gt;
 </summary></entry><entry><title>Current Fundraising Efforts:</title><link href="http://numfocus.github.io/numfocus.org/numfocus-is-currently-raising-funds-for-the-following.html" rel="alternate"></link><updated>2013-02-26T16:36:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-02-26:numfocus-is-currently-raising-funds-for-the-following.html</id><summary type="html">&lt;div class="section" id="boot-camp-for-women-in-science-engineering"&gt;
 &lt;h2&gt;Boot Camp for Women in Science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;Engineering&lt;/h2&gt;
-&lt;div class="section" id="hosted-by-software-carpentry-and-numfocus"&gt;
-&lt;h3&gt;Hosted by Software Carpentry and&amp;nbsp;NumFOCUS&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div class="section" id="on-june-24-25-numfocus-and-software-carpentry-are-hosting-a-software-skills-boot-camp-in-boston-for-120-women-in-science-and-engineering-we-are-seeking-sponsorship-from-companies-and-others-who-would-like-to-help-support-our-efforts-to-hold-similar-events-in-other-locations"&gt;
-&lt;h3&gt;On June 24-25&amp;nbsp;&lt;a class="reference external" href="http://numfocus.org/"&gt;NumFOCUS&lt;/a&gt; and &lt;a class="reference external" href="http://www.software-carpentry.org"&gt;Software Carpentry&lt;/a&gt; are hosting a software skills boot camp in Boston for 120 women in science and engineering. We are seeking sponsorship from companies and others who would like to help support our efforts to hold similar events in other&amp;nbsp;locations.&lt;/h3&gt;
+&lt;p&gt;Hosted by Software Carpentry and&amp;nbsp;NumFOCUS&lt;/p&gt;
+&lt;p&gt;On June 24-25&amp;nbsp;&lt;a class="reference external" href="http://numfocus.org/"&gt;NumFOCUS&lt;/a&gt; and &lt;a class="reference external" href="http://www.software-carpentry.org"&gt;Software Carpentry&lt;/a&gt; are hosting a software skills boot camp in Boston for 120 women in science and engineering. We are seeking sponsorship from companies and others who would like to help support our efforts to hold similar events in other&amp;nbsp;locations.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://numfocus.org/numfocus-is-currently-raising-funds-for-the-following/boot-camp-for-women-in-science-engineering/"&gt;**For More&amp;nbsp;Information**&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Make a&amp;nbsp;Donation&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;PayPal&lt;/em&gt;&lt;/p&gt;
-&lt;/td&gt;&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;Google&amp;nbsp;Checkout&lt;/em&gt;&lt;/p&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: middle;"&gt;&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;&lt;/form&gt;&lt;/td&gt;&lt;td style="vertical-align: middle;"&gt;&lt;script type="text/javascript"&gt;// &lt; ![CDATA[&lt;br&gt;&lt;/br&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;
+ &lt;em&gt;PayPal&lt;/em&gt;
+&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;p&gt;&lt;em&gt;Google&amp;nbsp;Checkout&lt;/em&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: middle;"&gt;
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+&lt;/form&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: middle;"&gt;
+&lt;script type="text/javascript"&gt;// &lt; ![CDATA[&lt;br&gt;&lt;/br&gt;
 function validateAmount(amount){    if(amount.value.match( /^[0-9]+(\.([0-9]+))?$/)){       return true;    }else{      alert('You must enter a valid donation.');      amount.focus();         return false;   } }&lt;br&gt;&lt;/br&gt;
-// ]]&gt;&lt;/script&gt;&lt;/p&gt;&lt;form id="BB_BuyButtonForm" action="https://checkout.google.com/cws/v2/Donations/112611646391039/checkoutForm" method="post" name="BB_BuyButtonForm" target="_top" onsubmit="return validateAmount(this.item_price_1)"&gt;&lt;/p&gt;&lt;table border="1" class="docutils"&gt;
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;form id="BB_BuyButtonForm" action="https://checkout.google.com/cws/v2/Donations/112611646391039/checkoutForm" method="post" name="BB_BuyButtonForm" target="_top" onsubmit="return validateAmount(this.item_price_1)"&gt;
+&lt;/p&gt;&lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="60%" /&gt;
 &lt;col width="40%" /&gt;
@@ -90,24 +121,26 @@ function validateAmount(amount){    if(amount.value.match( /^[0-9]+(\.([0-9]+))?
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;/form&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Suggested minimum donation:&amp;nbsp;$10&lt;/p&gt;
-&lt;/div&gt;
+&lt;/form&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Suggested minimum donation:&amp;nbsp;$10&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="john-hunter-technical-fellowship"&gt;
 &lt;h2&gt;John Hunter Technical&amp;nbsp;Fellowship&lt;/h2&gt;
-&lt;div class="section" id="we-are-now-accepting-donations-to-fund-the-john-hunter-technical-fellowship"&gt;
-&lt;h3&gt;&lt;strong&gt;We are now accepting donations to fund the John Hunter Technical&amp;nbsp;Fellowship.&lt;/strong&gt;&lt;/h3&gt;
-&lt;div class="section" id="this-educational-program-furthers-our-mission-as-a-public-charity-to-promote-the-use-of-accessible-and-reproducible-computing-in-science-and-open-source-technology"&gt;
-&lt;h4&gt;&lt;strong&gt;This educational program furthers our mission, as a public charity, to promote the use of accessible and reproducible computing in science and open-source&amp;nbsp;technology.&lt;/strong&gt;&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-purpose-of-the-numfocus-technology-fellowship-is-to-bridge-the-gap-between-academia-and-real-world-open-source-coding-projects-by-providing-a-capstone-experience-for-individuals-coming-from-a-scientific-educational-background"&gt;
-&lt;h4&gt;The purpose of the NumFOCUS Technology Fellowship is to bridge the gap between academia and real-world, open-source coding projects by providing a capstone experience for individuals coming from a scientific educational&amp;nbsp;background.&lt;/h4&gt;
-&lt;/div&gt;
-&lt;div class="section" id="the-program-consists-of-a-3-18-month-project-based-training-program-for-graduate-students-postdoctoral-scientists-and-early-career-faculty-fellows-work-on-actual-open-source-software-projects-under-the-guidance-of-mentors-who-are-leading-scientists-and-software-engineers-collaboration-with-these-top-industry-developers-enables-scientists-to-develop-specific-skills-needed-to-contribute-to-cutting-edge-open-source-software"&gt;
-&lt;h4&gt;The program consists of a 3-18 month project-based training program for graduate students, postdoctoral scientists and early-career faculty. Fellows work on actual open source software projects under the guidance of mentors who are leading scientists and software engineers. &amp;nbsp;Collaboration with these top industry developers enables scientists to develop specific skills needed to contribute to cutting-edge open-source&amp;nbsp;software.&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;We are now accepting donations to fund the John Hunter Technical&amp;nbsp;Fellowship.&lt;/p&gt;
+&lt;p&gt;This educational program furthers our mission, as a public charity, to promote
+the use of accessible and reproducible computing in science and open-source&amp;nbsp;technology.&lt;/p&gt;
+&lt;p&gt;The purpose of the NumFOCUS Technology Fellowship is to bridge the gap between
+academia and real-world, open-source coding projects by providing a capstone
+experience for individuals coming from a scientific educational&amp;nbsp;background.&lt;/p&gt;
+&lt;p&gt;The program consists of a 3-18 month project-based training program for
+graduate students, postdoctoral scientists and early-career faculty. Fellows
+work on actual open source software projects under the guidance of mentors who
+are leading scientists and software engineers. &amp;nbsp;Collaboration with these top
+industry developers enables scientists to develop specific skills needed to
+contribute to cutting-edge open-source&amp;nbsp;software.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>EuroSciPy 2012</title><link href="http://numfocus.github.io/numfocus.org/calendar.html" rel="alternate"></link><updated>2012-02-25T15:46:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:calendar.html</id><summary type="html">&lt;p&gt;This year&amp;#8217;s EuroSciPy conference will be held
 in&amp;nbsp;&lt;strong&gt;Brussels&lt;/strong&gt;,&amp;nbsp;&lt;strong&gt;August 23-27&lt;/strong&gt;, at the Université Libre de
