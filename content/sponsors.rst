@@ -33,12 +33,12 @@ Continuum’s full product set, including Anaconda and enterprise-supported
 Python, from their browsers.
 
 
-.. |jpmorgan| image:: ../static/images/Logo2008_JPM_D_Black.png
+.. |jpmorgan| image:: static/images/Logo2008_JPM_D_Black.png
     :height: 100px
     :alt: J. P. Morgan
     :target: http://jpmorgan.com
 
-.. |continuum| image:: ../static/images/continuum_500px_w_logo.png
+.. |continuum| image:: static/images/continuum_500px_w_logo.png
     :height: 100px
     :alt: Continuum Analytics
     :target: http://continuum.io

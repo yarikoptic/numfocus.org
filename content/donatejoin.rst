@@ -6,6 +6,7 @@ Donate
 
 .. image:: static/images/nf-web-with-tag.jpg
     :height: 200px
+    :alt: NumFOCUS
 
 NumFOCUS supports and promotes world-class, innovative, open source
 scientific software. Most individual projects, even the wildly
@@ -38,10 +39,6 @@ or all of these great codes at once!
 There are many ways to give. We have tried to make it as simple as
 possible to donate to NumFOCUS. You can use any of the following payment
 providers.
-
-.. raw:: html
-
-   <div>
 
 **PayPal** - (2.90% + $0.30 / transaction)
 

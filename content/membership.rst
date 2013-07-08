@@ -1,6 +1,5 @@
-Membership
-##########
-
+Joining NumFOCUS
+################
 :date: 2013-07-04
 
 Becoming a Member of NumFOCUS
