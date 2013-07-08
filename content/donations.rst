@@ -1,7 +1,7 @@
 Donations
 #########
-
 :date: 2013-07-05
+:hide_info: True
 
 NumFOCUS is a 501(c)3 nonprofit in the United States. Your tax deductible
 donations go towards funding the following activities:

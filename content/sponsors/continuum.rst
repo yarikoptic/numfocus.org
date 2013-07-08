@@ -1,26 +1,12 @@
-Sponsors
-########
-:date: 2013-07-04
-
-We thank the following sponsors for their support of NumFOCUS.
-
-Platinum
---------
-
-|jpmorgan|
-..........
-J.P. Morgan is a leader in financial services, offering solutions to clients in
-more than 100 countries with one of the most comprehensive global product
-platforms available. We have been helping our clients to do business and manage
-their wealth for more than 200 years. Our business has been built upon our core
-principle of putting our clients’ interests first.
-
- 
-Gold
-----
+Continuum Analytics
+###################
+:date: 2010-01-01
+:image: static/images/continuum_500px_w_logo.png
+:url: http://continuum.io
+:tags: Gold Level
 
 |continuum|
-...........
+
 Founded by the creators of NumPy, SciPy, and Chaco, Continuum offers
 Python-based tools and consulting services for the analysis, management and
 visualization of big data. Continuum’s premier Python distribution, Anaconda,
@@ -31,12 +17,6 @@ visualizations, IPython Notebooks, data sets and derived data products.
 Cloud-hosted or installed internally, Wakari allows users to harness
 Continuum’s full product set, including Anaconda and enterprise-supported
 Python, from their browsers.
-
-
-.. |jpmorgan| image:: static/images/Logo2008_JPM_D_Black.png
-    :height: 100px
-    :alt: J. P. Morgan
-    :target: http://jpmorgan.com
 
 .. |continuum| image:: static/images/continuum_500px_w_logo.png
     :height: 100px

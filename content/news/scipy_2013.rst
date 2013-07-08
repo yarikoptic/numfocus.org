@@ -1,6 +1,5 @@
 SciPy 2013
 ##########
-
 :date: 07-05-2013
 
 `SciPy 2013`__, the twelfth annual Scientific Computing with Python conference,

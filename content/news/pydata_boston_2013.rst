@@ -1,6 +1,5 @@
 Call for Speakers
 #################
-
 :date: 07-04-2013
 
 The call for speakers for PyData Boston (July 27-28th) is now open. If you are

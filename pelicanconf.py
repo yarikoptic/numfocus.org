@@ -41,7 +41,8 @@ MENUITEMS = [('Projects', 'projects.html'),
              ('Contact', 'contact.html'),
              ]
 
-DIRECT_TEMPLATES = ('index', 'categories', 'archives')
+DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sponsors')
+
 EXTRA_TEMPLATE_PATHS = ('templates',)
 #PAGINATED_DIRECT_TEMPLATES = []
 DEFAULT_PAGINATION = False
@@ -50,16 +51,3 @@ TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
-
-
-from collections import OrderedDict, namedtuple
-Sponsor = namedtuple('Sponsor', ['name', 'img_path', 'link'])
-SPONSORS = OrderedDict()
-SPONSORS['Platinum Level'] = [Sponsor('J. P. Morgan',
-                                      'static/images/Logo2008_JPM_D_Black.png',
-                                      'jpmorgan.com'),
-                              ]
-SPONSORS['Gold Level'] = [Sponsor('Continuum Analytics',
-                                  'static/images/continuum_500px_w_logo.png',
-                                  'continuum.io'),
-                          ]

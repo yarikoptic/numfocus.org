@@ -1,7 +1,7 @@
 Projects
 ########
-
 :date: 07-05-2013
+:hide_info: True
 
 Core Projects
 =============
