@@ -1,6 +1,7 @@
 Sponsors
 ########
 :date: 2013-07-04
+:hide_info: True
 
 We thank the following sponsors for their support of NumFOCUS.
 

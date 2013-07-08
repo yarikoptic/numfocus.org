@@ -1,7 +1,7 @@
 Board
 #####
-
 :date: 07-05-2013
+:hide_info: True
 
 Board of Directors
 ==================

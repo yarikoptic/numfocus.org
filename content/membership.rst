@@ -1,6 +1,9 @@
 Joining NumFOCUS
 ################
-:date: 2013-07-04
+:date: 2013-03-13
+:slug: membership
+:hide_info: True
+
 
 Becoming a Member of NumFOCUS
 
