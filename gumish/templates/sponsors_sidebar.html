@@ -6,7 +6,7 @@
     {% for post in articles %}
       <li>
         <a href="{{ post.url }}">
-        <img alt="{{ post.title }}" src="{{ post.image }}">
+          <img alt="{{ post.title }}" src="{{ SITEURL }}/{{ post.image }}">
         </a>
       </li>
     {% endfor %}
