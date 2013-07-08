@@ -40,17 +40,8 @@ How Can I Contribute?
 .. raw:: html
 
    <table>
-
-.. raw:: html
-
    <tbody>
-
-.. raw:: html
-
    <tr>
-
-.. raw:: html
-
    <td style="text-align: center;">
 
 *PayPal*
@@ -58,9 +49,6 @@ How Can I Contribute?
 .. raw:: html
 
    </td>
-
-.. raw:: html
-
    <td style="text-align: center;">
 
 *Google Checkout*
@@ -68,37 +56,13 @@ How Can I Contribute?
 .. raw:: html
 
    </td>
-
-.. raw:: html
-
    </tr>
-
-.. raw:: html
-
    <tr>
-
-.. raw:: html
-
    <td style="vertical-align: middle;">
-
-.. raw:: html
-
    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-
-.. raw:: html
-
    </form>
-
-.. raw:: html
-
    </td>
-
-.. raw:: html
-
    <td style="vertical-align: middle;">
-
-.. raw:: html
-
    <script type="text/javascript">// < ![CDATA[</p>
    <p>function validateAmount(amount){<br></br>
        if(amount.value.match( /^[0-9]+(\.([0-9]+))?$/)){<br></br>
@@ -110,13 +74,7 @@ How Can I Contribute?
        }<br></br>
    }<br></br>
    // ]]></script>
-
-.. raw:: html
-
    <form id="BB_BuyButtonForm" action="https://checkout.google.com/cws/v2/Donations/112611646391039/checkoutForm" method="post" name="BB_BuyButtonForm" target="_top" onsubmit="return validateAmount(this.item_price_1)">
-
-.. raw:: html
-
    </p>
 
 +------+----+
@@ -126,21 +84,9 @@ How Can I Contribute?
 .. raw:: html
 
    </form>
-
-.. raw:: html
-
    </td>
-
-.. raw:: html
-
    </tr>
-
-.. raw:: html
-
    </tbody>
-
-.. raw:: html
-
    </table>
 
 Suggested minimum donation: $10
