@@ -164,7 +164,7 @@ Ph.D. in Mechanical / Nuclear Engineering from UT Austin. A former Enthought
 employee, he spent his post-doctoral studies at the FLASH Center at the University 
 of Chicago in the Astrophysics Department. He is currently a Staff Scientist at the 
 University of Wisconsin-Maidson in Engineering Physics.  Anthony’s research interests 
-revolve xaround essential physics modeling of the nuclear fuel cycle,
+revolve around essential physics modeling of the nuclear fuel cycle,
 and information theory & entropy. Anthony has published and spoken at numerous
 conferences on a variety of science & software development topics.
 

@@ -23,10 +23,6 @@ SciPy’13 has been officially sponsored, funds for this were disbursed
 name on website).  Once the corresponding details for EuroScipy are
 clear, the same will be done.
 
--  Checking: $2,243.04
-
--  Savings: $4,449.09
-
 Old Business
 
 a.  Mac Mini - Is this ready to be publicized on the site?
