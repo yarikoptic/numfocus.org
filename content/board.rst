@@ -152,21 +152,21 @@ management systems, mostly based on Python, he joined Enthought. He is now
 running the European operations of Enthought out of Cambridge, UK.
 
 
-Anthony Scopatz
----------------
+Anthony Scopatz (Treasurer)
+---------------------------
 .. image:: static/images/scopatz_avatar-1.jpeg
     :height: 150px
     :alt: Anthony Scopatz
 
-Anthony Scopatz is a computational scientist and long time Python developer,
-Anthony holds his BS in Physics from UC Santa Barbara and Ph.D. in Mechanical /
-Nuclear Engineering from UT Austin. A former Enthought employee, he currently
-is a Postdoctoral Scholar at the FLASH Center at the University of Chicago in
-the Astrophysics Department. Anthony’s research interests revolve around high
-energy density physics, essential physics modeling of the nuclear fuel cycle,
+`Anthony Scopatz <http://scopatz.com/>`_ is a computational scientist and long 
+time Python developer, Anthony holds his BS in Physics from UC Santa Barbara and 
+Ph.D. in Mechanical / Nuclear Engineering from UT Austin. A former Enthought 
+employee, he spent his post-doctoral studies at the FLASH Center at the University 
+of Chicago in the Astrophysics Department. He is currently a Staff Scientist at the 
+University of Wisconsin-Maidson in Engineering Physics.  Anthony’s research interests 
+revolve xaround essential physics modeling of the nuclear fuel cycle,
 and information theory & entropy. Anthony has published and spoken at numerous
 conferences on a variety of science & software development topics.
-http://scopatz.com/
 
 
 Andy Terrel
@@ -189,9 +189,3 @@ Terrel has served as chair and organizer of many scientific computing
 conferences including SciPy Conference, FEniCS Conference, HPC^3, and
 Scientific Software Days.  He is an active contributor and reviewer to several
 scientific computing journals.
-
-
-Other Officers
-==============
-
--  Treasurer: Anthony Scopatz
