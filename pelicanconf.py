@@ -46,7 +46,7 @@ DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sponsors')
 
 EXTRA_TEMPLATE_PATHS = ('templates',)
 #PAGINATED_DIRECT_TEMPLATES = []
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 4
 
 TYPOGRIFY = True
 
