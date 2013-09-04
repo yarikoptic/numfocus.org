@@ -1,8 +1,7 @@
 Continuum Analytics
 ###################
 :date: 2010-01-01
-:image: ../static/images/continuum_500px_w_logo.png
-:url: http://continuum.io
+:image: /static/images/continuum_500px_w_logo.png
 :tags: Gold Level
 
 |continuum|
@@ -18,7 +17,7 @@ Cloud-hosted or installed internally, Wakari allows users to harness
 Continuum’s full product set, including Anaconda and enterprise-supported
 Python, from their browsers.
 
-.. |continuum| image:: ../static/images/continuum_500px_w_logo.png
+.. |continuum| image:: |filename|/images/continuum_500px_w_logo.png
     :height: 100px
     :alt: Continuum Analytics
     :target: http://continuum.io

@@ -4,8 +4,7 @@ Python in Astronomy
 :author: Leah
 :slug: python-in-astronomy
 
-
-.. image:: ../static/images/sn-blackholes.jpg
+.. image:: |filename|/images/sn-blackholes.jpg
 
 On 28 March, NASA’s Swift satellite \ `observed a flash of gamma rays
 brighter than anything astronomers had seen before`_. It soon became

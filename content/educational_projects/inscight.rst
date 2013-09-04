@@ -2,7 +2,7 @@ inSCIght
 ########
 :date: 07-05-2013
 
-.. image:: ../static/images/InSciGHT.jpg
+.. image:: |filename|/images/InSciGHT.jpg
 
 `inSCIght`_ is a podcast that focuses on scientific computing in all of its
 various forms. We have four panelists engage head-to-head on poignant and
