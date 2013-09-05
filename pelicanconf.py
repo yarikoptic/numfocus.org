@@ -27,10 +27,11 @@ TRANSLATION_FEED_ATOM = None
 # Social widget
 SOCIAL = (('numfocus+subscribe@googlegroups.com', 'Join out mailing list'),
           ('https://groups.google.com/forum/#!forum/numfocus', 'Read the archives'),
-          ('https://plus.google.com/communities/100008130850352595608', 'Google+'),
-          ('https://github.com/numfocus', 'GitHub'),
-          ('https://twitter.com/numfocus', 'Twitter'),
           )
+
+GITHUB_URL = 'https://github.com/numfocus'
+TWITTER_URL = 'https://twitter.com/numfocus'
+GOOGLEPLUS_URL = 'https://plus.google.com/communities/100008130850352595608'
 
 MENUITEMS = [('Projects', 'projects.html'),
              ('Board', 'board.html'),
@@ -45,9 +46,10 @@ DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sponsors')
 
 EXTRA_TEMPLATE_PATHS = ('templates',)
 #PAGINATED_DIRECT_TEMPLATES = []
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 4
 
 TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+#RELATIVE_URLS = False

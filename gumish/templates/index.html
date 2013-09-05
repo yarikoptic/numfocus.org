@@ -1,23 +1,20 @@
 {% extends "base.html" %}
+
 {% block content %}
 <section id="content">
-{% block content_title %}
+    {% block content_title %}
+    {% endblock %}
 
-{% endblock %}
+    <div class="row">
+        <div class="eleven columns">
+            <ol id="post-list">
+                {% include 'article_list.html' %}
+            </ol><!-- /#posts-list -->
+        </div><!-- /.eleven.columns -->
+            
+        {% include 'sidebar.html' %}
+    </div><!-- /.row -->
 
-
-<div class="row">
-  <div class="eleven columns">
-    <ol id="post-list">
-      This only appears on the front page.
-      {% include 'article_list.html' %}
-    </ol><!-- /#posts-list -->
-
-  </div><!-- /.eleven.columns -->
-      
-  {% include 'sidebar.html' %}
-</div><!-- /.row -->
-
-{% include 'pagination.html' %}
+    {% include 'pagination.html' %}
 </section><!-- /#content -->
 {% endblock content %}
