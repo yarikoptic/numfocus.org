@@ -17,6 +17,8 @@ SSH_PORT=22
 SSH_USER=root
 SSH_TARGET_DIR=/var/www
 
+TOP_LEVEL_DOMAIN?=numfocus.org
+
 S3_BUCKET=my_s3_bucket
 
 DROPBOX_DIR=~/Dropbox/Public/
@@ -85,6 +87,7 @@ s3_upload: publish
 	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed
 
 github: publish
+	echo "$(TOP_LEVEL_DOMAIN)" > $(OUTPUTDIR)/CNAME
 	./ghp-import $(OUTPUTDIR) 
 	git push -f $(GITHUB_REMOTE) $(GITHUB_PAGES_BRANCH) 
 
