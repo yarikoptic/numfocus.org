@@ -23,7 +23,13 @@ S3_BUCKET=my_s3_bucket
 
 DROPBOX_DIR=~/Dropbox/Public/
 
-GITHUB_REMOTE?=upstream
+# The github remote that the main website is hosted from
+GITHUB_DEPLOY_REMOTE?=upstream
+
+# The remote you'd like to push to
+GITHUB_REMOTE?=$(GITHUB_DEPLOY_REMOTE)
+
+# The github pages branch, should be either gh-pages or master
 GITHUB_PAGES_BRANCH?=gh-pages
 
 help:
@@ -87,7 +93,7 @@ s3_upload: publish
 	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed
 
 github: publish
-	echo "$(TOP_LEVEL_DOMAIN)" > $(OUTPUTDIR)/CNAME
+	test "$(GITHUB_REMOTE)" = "$(GITHUB_DEPLOY_REMOTE)" && (echo "$(TOP_LEVEL_DOMAIN)" > $(OUTPUTDIR)/CNAME) || echo "CNAME file not made, GITHUB_REMOTE != GITHUB_DEPLOY_REMOTE"
 	./ghp-import $(OUTPUTDIR) 
 	git push -f $(GITHUB_REMOTE) $(GITHUB_PAGES_BRANCH) 
 
