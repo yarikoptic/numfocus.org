@@ -19,3 +19,10 @@ Use the following to push the results up to github:
     make github
 
 For this to work, please set your github remote 'upstream' to 'git@github.com:scopatz/numfocus.org.git'
+
+Dependecies
+===========
+Note that you have to have the following packages installed for everything to work properly:
+
+* pelican
+* typogrify
