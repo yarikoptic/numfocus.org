@@ -1,5 +1,8 @@
 title: Contact
 date: 2013-07-04
-hide\_info: True
 
-Send an email to
+admin@numfocus.org
+
+NumFOCUS
+P.O. Box 90596
+Austin, TX 78709
