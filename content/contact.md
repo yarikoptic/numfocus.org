@@ -1,7 +1,5 @@
-Contact
-#######
-:date: 2013-07-04
-:hide_info: True
+title: Contact
+date: 2013-07-04
+hide\_info: True
 
-Send an email to 
-
+Send an email to
