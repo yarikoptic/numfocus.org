@@ -18,7 +18,8 @@ Use the following to push the results up to github:
 
     make github
 
-For this to work, please set your github remote 'upstream' to 'git@github.com:scopatz/numfocus.org.git'
+For this to work, please set your github remote 'upstream' to 
+'git@github.com:numfocus/numfocus.org.git'.
 
 Dependecies
 ===========
