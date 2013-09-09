@@ -4,7 +4,7 @@
     <h4>Categories</h4>
     {% if categories %}
         <ul>
-            {% for cat, null in categories %}
+            {% for cat, null in categories if cat != "nofeed" %}
                 <li><a href="{{ SITEURL }}/{{ cat.url|e }}">{{ cat }}</a></li>
             {% endfor %}
         </ul>
