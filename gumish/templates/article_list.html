@@ -1,4 +1,4 @@
-{% for article in articles_page.object_list %}
+{% for article in articles_page.object_list if article.category != "nofeed" %}
     <li>
     <article class="hentry">
         <header>

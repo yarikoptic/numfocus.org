@@ -3,6 +3,7 @@ Continuum Analytics
 :date: 2010-01-01
 :image: /static/images/continuum_500px_w_logo.png
 :tags: Gold Level
+:category: nofeed
 
 |continuum|
 
