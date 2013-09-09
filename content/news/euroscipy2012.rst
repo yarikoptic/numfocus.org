@@ -2,8 +2,6 @@ EuroSciPy 2012
 ##############
 :date: 2012-02-25 15:46
 :author: Leah
-:category: news
-:slug: calendar
 
 This year's EuroSciPy conference will be held
 in \ **Brussels**, \ **August 23-27**, at the Université Libre de
