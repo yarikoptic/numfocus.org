@@ -1,4 +1,5 @@
-title: Contact
+Contact
+#######
 date: 2013-07-04
 
 admin@numfocus.org
