@@ -12,16 +12,16 @@ donations go towards funding the following&amp;nbsp;activities:&lt;/p&gt;
 &lt;li&gt;Work with domain-specific&amp;nbsp;organizations&lt;/li&gt;
 &lt;li&gt;Raise funds from industries using Python and&amp;nbsp;NumPy&lt;/li&gt;
 &lt;/ul&gt;
-</summary></entry><entry><title>Purpose</title><link href="http://numfocus.github.io/numfocus.org/purpose.html" rel="alternate"></link><updated>2013-07-05T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-05:purpose.html</id><summary type="html">&lt;p&gt;The purpose of NumFOCUS is to promote the use of accessible and reproducible
-computing in science and&amp;nbsp;technology.&lt;/p&gt;
-&lt;p&gt;This is accomplished&amp;nbsp;through:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Educational&amp;nbsp;Programs&lt;/li&gt;
-&lt;li&gt;The promotion of high-level languages, reproducible scientific research, and
-open-code&amp;nbsp;development&lt;/li&gt;
-&lt;li&gt;An increase in collaborative research tools and&amp;nbsp;documentation&lt;/li&gt;
-&lt;/ul&gt;
-</summary></entry><entry><title>Contact</title><link href="http://numfocus.github.io/numfocus.org/contact.html" rel="alternate"></link><updated>2013-07-04T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-04:contact.html</id><summary type="html">&lt;p&gt;Send and email&amp;nbsp;to&lt;/p&gt;
+</summary></entry><entry><title>Contact</title><link href="http://numfocus.github.io/numfocus.org/contact.html" rel="alternate"></link><updated>2013-07-04T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-04:contact.html</id><summary type="html">&lt;p&gt;Email should be send to:
+&lt;a class="reference external" href="mailto:admin&amp;#64;numfocus.org"&gt;admin&amp;#64;numfocus.org&lt;/a&gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Please address written correspondance to:&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;NumFOCUS&lt;/div&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;P.O.&lt;/span&gt; Box 90596&lt;/div&gt;
+&lt;div class="line"&gt;Austin, &lt;span class="caps"&gt;TX&lt;/span&gt; 78709&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>Fiscal Sponsorship</title><link href="http://numfocus.github.io/numfocus.org/fiscal-sponsorship.html" rel="alternate"></link><updated>2013-05-30T20:21:00+02:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-30:fiscal-sponsorship.html</id><summary type="html">&lt;p&gt;In our efforts to promote and support high-level languages, reproducible scientific research
 and open-source development, we are proud to announce that our Fiscal Sponsorship
 program is now&amp;nbsp;underway.&lt;/p&gt;
@@ -159,18 +159,18 @@ running his own consulting company in the field of environmental data
 management systems, mostly based on Python, he joined Enthought. He is now
 running the European operations of Enthought out of Cambridge,&amp;nbsp;&lt;span class="caps"&gt;UK&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="anthony-scopatz"&gt;
-&lt;h3&gt;Anthony&amp;nbsp;Scopatz&lt;/h3&gt;
+&lt;div class="section" id="anthony-scopatz-treasurer"&gt;
+&lt;h3&gt;Anthony Scopatz&amp;nbsp;(Treasurer)&lt;/h3&gt;
 &lt;img alt="Anthony Scopatz" src="static/images/scopatz_avatar-1.jpeg" style="height: 150px;" /&gt;
-&lt;p&gt;Anthony Scopatz is a computational scientist and long time Python developer,
-Anthony holds his &lt;span class="caps"&gt;BS&lt;/span&gt; in Physics from &lt;span class="caps"&gt;UC&lt;/span&gt; Santa Barbara and Ph.D. in Mechanical /
-Nuclear Engineering from &lt;span class="caps"&gt;UT&lt;/span&gt; Austin. A former Enthought employee, he currently
-is a Postdoctoral Scholar at the &lt;span class="caps"&gt;FLASH&lt;/span&gt; Center at the University of Chicago in
-the Astrophysics Department. Anthony’s research interests revolve around high
-energy density physics, essential physics modeling of the nuclear fuel cycle,
+&lt;p&gt;&lt;a class="reference external" href="http://scopatz.com/"&gt;Anthony Scopatz&lt;/a&gt; is a computational scientist and long
+time Python developer, Anthony holds his &lt;span class="caps"&gt;BS&lt;/span&gt; in Physics from &lt;span class="caps"&gt;UC&lt;/span&gt; Santa Barbara and
+Ph.D. in Mechanical / Nuclear Engineering from &lt;span class="caps"&gt;UT&lt;/span&gt; Austin. A former Enthought
+employee, he spent his post-doctoral studies at the &lt;span class="caps"&gt;FLASH&lt;/span&gt; Center at the University
+of Chicago in the Astrophysics Department. He is currently a Staff Scientist at the
+University of Wisconsin-Maidson in Engineering Physics.  Anthony’s research interests
+revolve around essential physics modeling of the nuclear fuel cycle,
 and information theory &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; entropy. Anthony has published and spoken at numerous
-conferences on a variety of science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; software development topics.
-&lt;a class="reference external" href="http://scopatz.com/"&gt;http://scopatz.com/&lt;/a&gt;&lt;/p&gt;
+conferences on a variety of science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; software development&amp;nbsp;topics.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="andy-terrel"&gt;
 &lt;h3&gt;Andy&amp;nbsp;Terrel&lt;/h3&gt;
@@ -190,13 +190,7 @@ Scientific Software Days.  He is an active contributor and reviewer to several
 scientific computing&amp;nbsp;journals.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="section" id="other-officers"&gt;
-&lt;h2&gt;Other&amp;nbsp;Officers&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Treasurer: Anthony&amp;nbsp;Scopatz&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>inSCIght</title><link href="http://numfocus.github.io/numfocus.org/inscight.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:inscight.html</id><summary type="html">&lt;img alt="static/images/InSciGHT.jpg" src="static/images/InSciGHT.jpg" /&gt;
+</summary></entry><entry><title>inSCIght</title><link href="http://numfocus.github.io/numfocus.org/inscight.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:inscight.html</id><summary type="html">&lt;img alt="|filename|/images/InSciGHT.jpg" src="http://numfocus.github.io/numfocus.org/static/images/InSciGHT.jpg" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://inscight.org/"&gt;inSCIght&lt;/a&gt; is a podcast that focuses on scientific computing in all of its
 various forms. We have four panelists engage head-to-head on poignant and
 interesting topics. The panelists are drawn from all across the scientific
@@ -239,7 +233,7 @@ compatiable with python scripts and the python and ipython&amp;nbsp;shells.&lt;/
 &lt;/div&gt;
 &lt;div class="section" id="ipython"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://ipython.org/"&gt;IPython&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/ipython.png" src="static/images/ipython.png" style="height: 75px;" /&gt;
+&lt;img alt="static/images/ipython.png" src="static/images/ipython.png" style="height: 70px;" /&gt;
 &lt;p&gt;High quality open source python shell that includes tools for high level and
 interactive parallel&amp;nbsp;computing.&lt;/p&gt;
 &lt;/div&gt;
@@ -308,17 +302,18 @@ NumPy, SciPy, and&amp;nbsp;matplotlib.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="theano"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://deeplearning.net/software/theano/#"&gt;Theano&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/theano_logo_allblue_200x46.png" src="static/images/theano_logo_allblue_200x46.png" style="height: 75px;" /&gt;
+&lt;img alt="static/images/theano_logo_allblue_200x46.png" src="static/images/theano_logo_allblue_200x46.png" style="height: 50px;" /&gt;
 &lt;p&gt;Theano is a Python library that allows you to define, optimize, and evaluate
 mathematical expressions involving multi-dimensional arrays&amp;nbsp;efficiently.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="section" id="numfocus-is-currently-looking-for-representatives-to-enable-us-to-promote-the-following-projects"&gt;
-&lt;h2&gt;NumFOCUS is currently looking for representatives to enable us to promote the following&amp;nbsp;projects&lt;/h2&gt;
-&lt;p&gt;For&amp;nbsp;information contact us at: &lt;a class="reference external" href="mailto:info&amp;#64;NumFOCUS.org"&gt;info&amp;#64;NumFOCUS.org&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="associated-projects"&gt;
+&lt;h2&gt;Associated&amp;nbsp;Projects&lt;/h2&gt;
+&lt;p&gt;NumFOCUS is currently looking for representatives to enable us to promote the
+following projects.  For&amp;nbsp;information contact us at: &lt;a class="reference external" href="mailto:info&amp;#64;NumFOCUS.org"&gt;info&amp;#64;NumFOCUS.org&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="sage"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://www.sagemath.org/"&gt;Sage&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="http://www.numfocus.org/img/sage.png" src="http://www.numfocus.org/img/sage.png" style="height: 75px;" /&gt;
+&lt;img alt="static/images/sage.png" src="static/images/sage.png" style="height: 75px;" /&gt;
 &lt;p&gt;Open source mathematics sofware system that combines existing open-source
 packages into a Python-based&amp;nbsp;interface.&lt;/p&gt;
 &lt;/div&gt;
@@ -329,7 +324,7 @@ and study of the structure, dynamics, and functions of complex&amp;nbsp;networks
 &lt;/div&gt;
 &lt;div class="section" id="python-x-y"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://code.google.com/p/pythonxy/wiki/Welcome"&gt;Python(X,Y)&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="http://www.numfocus.org/img/pythonxy.png" src="http://www.numfocus.org/img/pythonxy.png" style="height: 75px;" /&gt;
+&lt;img alt="static/images/pythonxy.png" src="static/images/pythonxy.png" style="height: 75px;" /&gt;
 &lt;p&gt;Free scientific and engineering development software used for numerical
 computations, and analysis and visualization of data using the Python
 programmimg&amp;nbsp;language.&lt;/p&gt;
@@ -340,9 +335,9 @@ Python&amp;#8217;s use in science to &lt;a class="reference external" href="mail
 </summary></entry><entry><title>SciPy 2013</title><link href="http://numfocus.github.io/numfocus.org/scipy-2013.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:scipy-2013.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://conference.scipy.org/scipy2013/index.php"&gt;SciPy 2013&lt;/a&gt;, the twelfth annual Scientific Computing with Python conference,
 will be held June 24th - 29th in Austin, Texas.  The main conference themes are
 Machine Learning &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Reproducible&amp;nbsp;Science.&lt;/p&gt;
-</summary></entry><entry><title>Software Carpentry</title><link href="http://numfocus.github.io/numfocus.org/software-carpentry.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:software-carpentry.html</id><summary type="html">&lt;img alt="static/images/software-carpentry-logo-285x58.png" src="static/images/software-carpentry-logo-285x58.png" /&gt;
+</summary></entry><entry><title>Software Carpentry</title><link href="http://numfocus.github.io/numfocus.org/software-carpentry.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:software-carpentry.html</id><summary type="html">&lt;img alt="|filename|/images/software-carpentry-logo-285x58.png" src="http://numfocus.github.io/numfocus.org/static/images/software-carpentry-logo-285x58.png" /&gt;
 &lt;p&gt;Our mission is to help scientists be more productive by teaching them basic computing skills. Our approach combines short, intensive workshops with self-paced online instruction. The benefits are more reliable results and higher productivity: a day a week is common, and a ten-fold improvement isn’t rare.  For more information check out our blog at  &lt;a class="reference external" href="http://software-carpentry.org/blog/"&gt;http://software-carpentry.org/blog/&lt;/a&gt;, follow us on twitter as  &lt;a class="reference external" href="https://twitter.com/swcarpentry"&gt;&amp;#64;swcarpentry&lt;/a&gt;, or contact us by email at  &lt;a class="reference external" href="mailto:info&amp;#64;software-carpentry.org"&gt;info&amp;#64;software-carpentry.org&lt;/a&gt;.&lt;/p&gt;
-</summary></entry><entry><title>April 15, 2013</title><link href="http://numfocus.github.io/numfocus.org/board-meeting-minute2013-04-15s.html" rel="alternate"></link><updated>2013-04-15T00:00:00+02:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-04-15:board-meeting-minute2013-04-15s.html</id><summary type="html">&lt;div class="section" id="participating"&gt;
+</summary></entry><entry><title>April 15, 2013</title><link href="http://numfocus.github.io/numfocus.org/board-meeting-minutes2013-04-15s.html" rel="alternate"></link><updated>2013-04-15T00:00:00+02:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-04-15:board-meeting-minutes2013-04-15s.html</id><summary type="html">&lt;div class="section" id="participating"&gt;
 &lt;h2&gt;Participating&lt;/h2&gt;
 &lt;p&gt;Ralf Gommers, Didrik Pinte, Anthony Scopatz, Leah Silen, Perry
 Greenfield, Fernando Perez, Andy Terrel, Travis&amp;nbsp;Oliphant&lt;/p&gt;
@@ -350,10 +345,6 @@ Greenfield, Fernando Perez, Andy Terrel, Travis&amp;nbsp;Oliphant&lt;/p&gt;
 &lt;p&gt;Emmanuelle Gouillart, Jarrod&amp;nbsp;Millman&lt;/p&gt;
 &lt;div class="section" id="treasurers-report"&gt;
 &lt;h3&gt;Treasurer’s&amp;nbsp;Report&lt;/h3&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Checking:&amp;nbsp;$3,065.04&lt;/li&gt;
-&lt;li&gt;Savings:&amp;nbsp;$4,449.09&lt;/li&gt;
-&lt;/ul&gt;
 &lt;p&gt;We have until May 15th to file our 990 forms for the &lt;span class="caps"&gt;IRS&lt;/span&gt;. &amp;nbsp;Didrik is
 working on the European bank account, it’s moving&amp;nbsp;along.&lt;/p&gt;
 &lt;div class="section" id="old-business"&gt;
@@ -408,10 +399,6 @@ Scopatz, Leah Silen, Travis&amp;nbsp;Oliphant&lt;/p&gt;
 ($2500). &amp;nbsp;This gives Numfocus a silver sponsor level (2 passes, booth,
 name on website). &amp;nbsp;Once the corresponding details for EuroScipy are
 clear, the same will be&amp;nbsp;done.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Checking:&amp;nbsp;$2,243.04&lt;/li&gt;
-&lt;li&gt;Savings:&amp;nbsp;$4,449.09&lt;/li&gt;
-&lt;/ul&gt;
 &lt;p&gt;Old&amp;nbsp;Business&lt;/p&gt;
 &lt;ol class="loweralpha simple"&gt;
 &lt;li&gt;&amp;nbsp;Mac Mini - Is this ready to be publicized on the&amp;nbsp;site?&lt;/li&gt;
@@ -1054,18 +1041,6 @@ about scientific computing with NumPy, SciPy, and other related&amp;nbsp;tools.&
 &lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/theano-users"&gt;theano&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/theano-dev"&gt;theano&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</summary></entry><entry><title>Projects</title><link href="http://numfocus.github.io/numfocus.org/projects-2.html" rel="alternate"></link><updated>2012-03-01T17:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-03-01:projects-2.html</id><summary type="html">&lt;div class="section" id="currently-promoting"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/projects/"&gt;Currently&amp;nbsp;Promoting&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="software-distributions"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/software-distributions/"&gt;Software&amp;nbsp;Distributions&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="educational-projects"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/educational-projects/"&gt;Educational&amp;nbsp;Projects&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="representatives"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/other-projects/"&gt;Representatives&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
 </summary></entry><entry><title>Scientific Computing with Python</title><link href="http://numfocus.github.io/numfocus.org/scientific-computing-with-python.html" rel="alternate"></link><updated>2012-02-25T16:31:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:scientific-computing-with-python.html</id><summary type="html">&lt;img alt="http://gallery.mailchimp.com/e91b4574d5d1709a9dc4f7ab7/images/scipy_logo_shiny_blue_no_reflec.png" src="http://gallery.mailchimp.com/e91b4574d5d1709a9dc4f7ab7/images/scipy_logo_shiny_blue_no_reflec.png" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://conference.scipy.org/scipy2013/"&gt;SciPy&lt;/a&gt; will be June 24-29, 2013 in Austin,&amp;nbsp;Texax&lt;/p&gt;
 </summary></entry><entry><title>Women in Science and Engineering Boot Camp</title><link href="http://numfocus.github.io/numfocus.org/women-in-science-and-engineering-boot-camp.html" rel="alternate"></link><updated>2012-02-25T16:31:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:women-in-science-and-engineering-boot-camp.html</id><summary type="html">&lt;p&gt;Due in part to a generous donation made by &lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan to NumFOCUS, we are
@@ -1167,7 +1142,7 @@ P.O. Box 90596
 Austin, TX 78709
 &lt;/pre&gt;
 &lt;p&gt;&lt;strong&gt;Your personal contribution is greatly&amp;nbsp;appreciated!&lt;/strong&gt;&lt;/p&gt;
-</summary></entry><entry><title>Tokyo SciPy</title><link href="http://numfocus.github.io/numfocus.org/tokyo-scipy2012.html" rel="alternate"></link><updated>2012-02-25T15:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:tokyo-scipy2012.html</id><summary type="html">&lt;img alt="static/images/Tokyo-SciPy.jpg" src="static/images/Tokyo-SciPy.jpg" /&gt;
+</summary></entry><entry><title>Tokyo SciPy</title><link href="http://numfocus.github.io/numfocus.org/tokyo-scipy2012.html" rel="alternate"></link><updated>2012-02-25T15:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:tokyo-scipy2012.html</id><summary type="html">&lt;img alt="|filename|/images/Tokyo-SciPy.jpg" src="http://numfocus.github.io/numfocus.org/static/images/Tokyo-SciPy.jpg" /&gt;
 &lt;p&gt;Chairman of NumFOCUS&amp;#8217; Board of Director&amp;#8217;s,Travis Oliphant, spoke at the
 March meeting of Tokyo SciPy via live webcast.&amp;nbsp; Topics he covered
 included the history of&amp;nbsp;&lt;a class="reference external" href="http://scipy.org/"&gt;SciPy&lt;/a&gt;, where&amp;nbsp;&lt;a class="reference external" href="http://numpy.org/"&gt;NumPy&amp;nbsp;&lt;/a&gt;should go next,
@@ -1179,12 +1154,12 @@ some point, Syoyo will be able to make that code fast using&amp;nbsp;Python.&lt;
 &lt;p&gt;Despite a late night, due to the fourteen hour time difference between
 Austin and Tokyo, Travis spoke for over an hour.&amp;nbsp; He later stated, “…it
 was nice to see that SciPy and NumPy have a user community in&amp;nbsp;Japan.”&lt;/p&gt;
-</summary></entry><entry><title>EuroSciPy 2012</title><link href="http://numfocus.github.io/numfocus.org/calendar.html" rel="alternate"></link><updated>2012-02-25T15:46:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:calendar.html</id><summary type="html">&lt;p&gt;This year&amp;#8217;s EuroSciPy conference will be held
+</summary></entry><entry><title>EuroSciPy 2012</title><link href="http://numfocus.github.io/numfocus.org/euroscipy-2012.html" rel="alternate"></link><updated>2012-02-25T15:46:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:euroscipy-2012.html</id><summary type="html">&lt;p&gt;This year&amp;#8217;s EuroSciPy conference will be held
 in&amp;nbsp;&lt;strong&gt;Brussels&lt;/strong&gt;,&amp;nbsp;&lt;strong&gt;August 23-27&lt;/strong&gt;, at the Université Libre de
 Bruxelles (&lt;span class="caps"&gt;ULB&lt;/span&gt;, Solbosch Campus). &amp;nbsp;This Euroscipy meeting will be the
 5th edition of this cross-disciplinary gathering, focused on the use and
 development of the Python language in scientific research and&amp;nbsp;industry.&lt;/p&gt;
-</summary></entry><entry><title>Python in Astronomy</title><link href="http://numfocus.github.io/numfocus.org/python-in-astronomy.html" rel="alternate"></link><updated>2012-02-25T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:python-in-astronomy.html</id><summary type="html">&lt;img alt="static/images/sn-blackholes.jpg" src="static/images/sn-blackholes.jpg" /&gt;
+</summary></entry><entry><title>Python in Astronomy</title><link href="http://numfocus.github.io/numfocus.org/python-in-astronomy.html" rel="alternate"></link><updated>2012-02-25T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:python-in-astronomy.html</id><summary type="html">&lt;img alt="|filename|/images/sn-blackholes.jpg" src="http://numfocus.github.io/numfocus.org/static/images/sn-blackholes.jpg" /&gt;
 &lt;p&gt;On 28 March, &lt;span class="caps"&gt;NASA&lt;/span&gt;’s Swift satellite&amp;nbsp;&lt;a class="reference external" href="http://news.sciencemag.org/sciencenow/2011/04/star-eating-black-hole-may-be-pr.html?ref=hp"&gt;observed a flash of gamma rays
 brighter than anything astronomers had seen before&lt;/a&gt;. It soon became
 evident that the event wasn’t a typical gamma ray burst, an emission of
@@ -1205,7 +1180,7 @@ two papers. Bloom expects the flare to fade out over the next&amp;nbsp;year.&lt;
 &lt;p&gt;&lt;a class="reference external" href="http://news.sciencemag.org/sciencenow/2011/06/scienceshot-powerful-jet-being.html?ref=hp"&gt;http://news.sciencemag.org/sciencenow/2011/06/scienceshot-powerful-jet-being.html?ref=hp&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;by&amp;nbsp;Yudhijit Bhattacharjee&amp;nbsp;on&amp;nbsp;16 June 2011, 2:00&amp;nbsp;&lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;For related story and photo,&amp;nbsp;&lt;a class="reference external" href="http://discovermagazine.com/2012/jan-feb/14"&gt;http://discovermagazine.com/2012/jan-feb/14&lt;/a&gt;.&lt;/p&gt;
-</summary></entry><entry><title>Circuitscape Protects Endangered Species Using PyAMG</title><link href="http://numfocus.github.io/numfocus.org/python-pyamg.html" rel="alternate"></link><updated>2012-02-25T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:python-pyamg.html</id><summary type="html">&lt;img alt="static/images/zimmer_gene_circuit_500px.jpg" src="static/images/zimmer_gene_circuit_500px.jpg" /&gt;
+</summary></entry><entry><title>Circuitscape Protects Endangered Species Using PyAMG</title><link href="http://numfocus.github.io/numfocus.org/python-pyamg.html" rel="alternate"></link><updated>2012-02-25T00:00:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:python-pyamg.html</id><summary type="html">&lt;img alt="|filename|/images/zimmer_gene_circuit_500px.jpg" src="http://numfocus.github.io/numfocus.org/static/images/zimmer_gene_circuit_500px.jpg" /&gt;
 &lt;p&gt;Scientists map the &amp;#8220;current&amp;#8221; of mountain lions moving between mountain ranges. Blue shows areas of low current density, which are expected to have low densities of dispersing mountain lions; yellow designates movement bottlenecks, which are most vulnerable to habitat destruction. Destroying high-flow habitat can isolate populations and endanger their survival.&amp;nbsp;&lt;strong&gt;Image:&amp;nbsp;Brad McRae and Brett&amp;nbsp;Dickson&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://code.google.com/p/pyamg/"&gt;PyAMG&lt;/a&gt; is an open-source numerical package of multigrid and Krylov
 solvers for sparse matrices in Python.&amp;nbsp; One of the biggest users of
@@ -1231,7 +1206,7 @@ Wildlife Corridor Design by Eric&amp;nbsp;Wagner&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Convergence Magazine:&lt;/em&gt; &lt;a class="reference external" href="http://convergence.ucsb.edu/article/where-wild-things-are"&gt;Where the Wild Things Are by Anna&amp;nbsp;Davison&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Earthtimes.org&lt;/em&gt;: &lt;a class="reference external" href="http://www.earthtimes.org/articles/show/news_press_release,90605.shtml"&gt;Where Mountain Lions Roam: Star-P Helps Decipher
 Threatened Wildlife&amp;nbsp;Migration&lt;/a&gt;&lt;/p&gt;
-</summary></entry><entry><title>Continuum Analytics</title><link href="http://numfocus.github.io/numfocus.org/http://continuum.io" rel="alternate"></link><updated>2010-01-01T00:00:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2010-01-01:http://continuum.io</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://continuum.io"&gt;&lt;img alt="Continuum Analytics" src="static/images/continuum_500px_w_logo.png" style="height: 100px;" /&gt;&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Continuum Analytics</title><link href="http://numfocus.github.io/numfocus.org/continuum-analytics.html" rel="alternate"></link><updated>2010-01-01T00:00:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2010-01-01:continuum-analytics.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://continuum.io"&gt;&lt;img alt="Continuum Analytics" src="http://numfocus.github.io/numfocus.org/static/images/continuum_500px_w_logo.png" style="height: 100px;" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Founded by the creators of NumPy, SciPy, and Chaco, Continuum offers
 Python-based tools and consulting services for the analysis, management and
 visualization of big data. Continuum’s premier Python distribution, Anaconda,
@@ -1242,7 +1217,7 @@ visualizations, IPython Notebooks, data sets and derived data products.
 Cloud-hosted or installed internally, Wakari allows users to harness
 Continuum’s full product set, including Anaconda and enterprise-supported
 Python, from their&amp;nbsp;browsers.&lt;/p&gt;
-</summary><category term="Gold Level"></category></entry><entry><title>J. P. Morgan</title><link href="http://numfocus.github.io/numfocus.org/j-p-morgan.html" rel="alternate"></link><updated>1900-01-01T00:00:00+00:09</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,1900-01-01:j-p-morgan.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://jpmorgan.com"&gt;&lt;img alt="J. P. Morgan" src="static/images/Logo2008_JPM_D_Black.png" style="height: 100px;" /&gt;&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Gold Level"></category></entry><entry><title>J. P. Morgan</title><link href="http://numfocus.github.io/numfocus.org/j-p-morgan.html" rel="alternate"></link><updated>1900-01-01T00:00:00+00:09</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,1900-01-01:j-p-morgan.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://jpmorgan.com"&gt;&lt;img alt="J. P. Morgan" src="http://numfocus.github.io/numfocus.org/static/images/Logo2008_JPM_D_Black.png" style="height: 100px;" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan is a leader in financial services, offering solutions to clients in
 more than 100 countries with one of the most comprehensive global product
 platforms available. We have been helping our clients to do business and manage

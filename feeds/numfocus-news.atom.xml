@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/numfocus_news.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2013-07-12T00:00:00+02:00</updated><entry><title>Share your stories of how you use NumFOCUS supported tools</title><link href="http://numfocus.github.io/numfocus.org/share-your-stories-of-how-you-use-numfocus-supported-tools.html" rel="alternate"></link><updated>2013-07-12T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-12:share-your-stories-of-how-you-use-numfocus-supported-tools.html</id><summary type="html">&lt;p&gt;Read how others are you the tools NumFOCUS supports in  &lt;a class="reference external" href="http://numfocus.org/user-stories/"&gt;User Stories&lt;/a&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/numfocus-news.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2013-07-12T00:00:00+02:00</updated><entry><title>Share your stories of how you use NumFOCUS supported tools</title><link href="http://numfocus.github.io/numfocus.org/share-your-stories-of-how-you-use-numfocus-supported-tools.html" rel="alternate"></link><updated>2013-07-12T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-12:share-your-stories-of-how-you-use-numfocus-supported-tools.html</id><summary type="html">&lt;p&gt;Read how others are you the tools NumFOCUS supports in  &lt;a class="reference external" href="http://numfocus.org/user-stories/"&gt;User Stories&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Let the community know how you&amp;#8217;re using the tools NumFOCUS supports. &amp;nbsp;Send your stories to: &lt;a class="reference external" href="http://numfocus.org/user-stories/"&gt;http://numfocus.org/user-stories/&lt;/a&gt;.&lt;/p&gt;
 </summary></entry><entry><title>Fiscal Sponsorship</title><link href="http://numfocus.github.io/numfocus.org/fiscal-sponsorship.html" rel="alternate"></link><updated>2013-05-30T20:21:00+02:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-30:fiscal-sponsorship.html</id><summary type="html">&lt;p&gt;In our efforts to promote and support high-level languages, reproducible scientific research
 and open-source development, we are proud to announce that our Fiscal Sponsorship
@@ -19,6 +19,46 @@ have questions or would like additional information by contacting us at:
 &lt;p&gt;You can find the source for our fiscal sponsorship document &lt;a class="reference external" href="https://github.com/numfocus/fiscal-sponsorship"&gt;here&lt;/a&gt;.
 Feel free to leave comments, feedback, or issue pull&amp;nbsp;requests.&lt;/p&gt;
 &lt;/div&gt;
+</summary></entry><entry><title>John Hunter Memorial Fund</title><link href="http://numfocus.github.io/numfocus.org/johnhunter.html" rel="alternate"></link><updated>2012-08-28T23:29:00+02:00</updated><author><name>Travis</name></author><id>tag:numfocus.github.io/numfocus.org,2012-08-28:johnhunter.html</id><summary type="html">&lt;img alt="John Hunter" class="align-right" src="static/images/John-hunter-crop-2.jpg" style="height: 200px;" /&gt;
+&lt;p&gt;John Hunter, author of &lt;a class="reference external" href="http://matplotlib.sourceforge.net/"&gt;Matplotlib&lt;/a&gt;, founding board
+member of &lt;a class="reference external" href="http://numfocus.org"&gt;NumFOCUS&lt;/a&gt;, husband to Miriam, and father to three daughters:
+Clara, Ava, and Rahel, was diagnosed with cancer in late July 2012 after
+returning from his keynote &lt;a class="reference external" href="http://www.youtube.com/watch?v=e3lTby5RI54&amp;amp;noredirect=1"&gt;address at SciPy&lt;/a&gt; in Austin, &lt;span class="caps"&gt;TX&lt;/span&gt;. He passed
+away on August 28th from complications arising from necessary cancer
+treatment. See the &lt;a class="reference external" href="https://groups.google.com/forum/#!msg/pydata/FpwXp3sX6N8/mxopkZ1PkBQJ"&gt;announcement email&lt;/a&gt; by his good friend, Fernando&amp;nbsp;Perez.&lt;/p&gt;
+&lt;p&gt;John has given so much to all of us in the Python community, now is our
+time to give something back to his family by providing for the education
+and support of his children. We have setup the John Hunter Memorial Fund
+to provide a mechanism for individuals and companies who have
+appreciated John&amp;#8217;s work, to give back to him by ensuring that his
+children have funds available for their&amp;nbsp;education.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://linuxfr.org/news/deces-de-john-hunter-createur-de-matplotlib"&gt;View French&amp;nbsp;translation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donations are gifts to Miriam and her girls. They will be used for the
+care and education of Clara, Ava, and Rahel. As of A PayPal account has
+been set up so that you may give to John&amp;#8217;s family directly. You may also
+send a check directly to the family made out to Miriam Sierig and mailed
+to the address below. &amp;nbsp;Thank you for your&amp;nbsp;generosity!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PayPal:&lt;/strong&gt;&lt;/p&gt;
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+&lt;input type="hidden"
+        name="cmd"
+        value="_s-xclick" /&gt;&lt;br /&gt;
+&lt;input type="hidden"
+       name="hosted_button_id"
+       value="AY7E6Q8Z4A63J" /&gt;&lt;br /&gt;
+&lt;input type="image"
+       alt="PayPal - The safer, easier way to pay online!" name="submit"
+       src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /&gt;&lt;br /&gt;
+&lt;img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+      width="1"
+      height="1"
+      border="0"/&gt;
+&lt;/form&gt;&lt;p&gt;&lt;strong&gt;Checks:&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Miriam Sierig
+953 E Hyde Park Blvd #2
+Chicago, IL 60615
+&lt;/pre&gt;
 </summary></entry><entry><title>Scientific Computing with Python</title><link href="http://numfocus.github.io/numfocus.org/scientific-computing-with-python.html" rel="alternate"></link><updated>2012-02-25T16:31:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:scientific-computing-with-python.html</id><summary type="html">&lt;img alt="http://gallery.mailchimp.com/e91b4574d5d1709a9dc4f7ab7/images/scipy_logo_shiny_blue_no_reflec.png" src="http://gallery.mailchimp.com/e91b4574d5d1709a9dc4f7ab7/images/scipy_logo_shiny_blue_no_reflec.png" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://conference.scipy.org/scipy2013/"&gt;SciPy&lt;/a&gt; will be June 24-29, 2013 in Austin,&amp;nbsp;Texax&lt;/p&gt;
 </summary></entry><entry><title>Women in Science and Engineering Boot Camp</title><link href="http://numfocus.github.io/numfocus.org/women-in-science-and-engineering-boot-camp.html" rel="alternate"></link><updated>2012-02-25T16:31:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:women-in-science-and-engineering-boot-camp.html</id><summary type="html">&lt;p&gt;Due in part to a generous donation made by &lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan to NumFOCUS, we are

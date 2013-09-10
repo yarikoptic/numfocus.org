@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/misc.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2013-07-06T00:00:00+02:00</updated><entry><title>Jobs</title><link href="http://numfocus.github.io/numfocus.org/jobs.html" rel="alternate"></link><updated>2013-07-06T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-06:jobs.html</id><summary type="html">&lt;p&gt;Send Job Board listings to &lt;a class="reference external" href="mailto:info&amp;#64;NumFOCUS.org"&gt;info&amp;#64;NumFOCUS.org&lt;/a&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/nofeed.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2013-07-06T00:00:00+02:00</updated><entry><title>Jobs</title><link href="http://numfocus.github.io/numfocus.org/jobs.html" rel="alternate"></link><updated>2013-07-06T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-06:jobs.html</id><summary type="html">&lt;p&gt;Send Job Board listings to &lt;a class="reference external" href="mailto:info&amp;#64;NumFOCUS.org"&gt;info&amp;#64;NumFOCUS.org&lt;/a&gt;.&lt;/p&gt;
 </summary></entry><entry><title>Donations</title><link href="http://numfocus.github.io/numfocus.org/donations.html" rel="alternate"></link><updated>2013-07-05T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-05:donations.html</id><summary type="html">&lt;p&gt;NumFOCUS is a 501(c)3 nonprofit in the United States. Your tax deductible
 donations go towards funding the following&amp;nbsp;activities:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -10,16 +10,16 @@ donations go towards funding the following&amp;nbsp;activities:&lt;/p&gt;
 &lt;li&gt;Work with domain-specific&amp;nbsp;organizations&lt;/li&gt;
 &lt;li&gt;Raise funds from industries using Python and&amp;nbsp;NumPy&lt;/li&gt;
 &lt;/ul&gt;
-</summary></entry><entry><title>Purpose</title><link href="http://numfocus.github.io/numfocus.org/purpose.html" rel="alternate"></link><updated>2013-07-05T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-05:purpose.html</id><summary type="html">&lt;p&gt;The purpose of NumFOCUS is to promote the use of accessible and reproducible
-computing in science and&amp;nbsp;technology.&lt;/p&gt;
-&lt;p&gt;This is accomplished&amp;nbsp;through:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Educational&amp;nbsp;Programs&lt;/li&gt;
-&lt;li&gt;The promotion of high-level languages, reproducible scientific research, and
-open-code&amp;nbsp;development&lt;/li&gt;
-&lt;li&gt;An increase in collaborative research tools and&amp;nbsp;documentation&lt;/li&gt;
-&lt;/ul&gt;
-</summary></entry><entry><title>Contact</title><link href="http://numfocus.github.io/numfocus.org/contact.html" rel="alternate"></link><updated>2013-07-04T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-04:contact.html</id><summary type="html">&lt;p&gt;Send and email&amp;nbsp;to&lt;/p&gt;
+</summary></entry><entry><title>Contact</title><link href="http://numfocus.github.io/numfocus.org/contact.html" rel="alternate"></link><updated>2013-07-04T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-07-04:contact.html</id><summary type="html">&lt;p&gt;Email should be send to:
+&lt;a class="reference external" href="mailto:admin&amp;#64;numfocus.org"&gt;admin&amp;#64;numfocus.org&lt;/a&gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Please address written correspondance to:&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;NumFOCUS&lt;/div&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;P.O.&lt;/span&gt; Box 90596&lt;/div&gt;
+&lt;div class="line"&gt;Austin, &lt;span class="caps"&gt;TX&lt;/span&gt; 78709&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>Board</title><link href="http://numfocus.github.io/numfocus.org/board.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:board.html</id><summary type="html">&lt;div class="section" id="board-of-directors"&gt;
 &lt;h2&gt;Board of&amp;nbsp;Directors&lt;/h2&gt;
 &lt;div class="section" id="ralf-gommers"&gt;
@@ -139,18 +139,18 @@ running his own consulting company in the field of environmental data
 management systems, mostly based on Python, he joined Enthought. He is now
 running the European operations of Enthought out of Cambridge,&amp;nbsp;&lt;span class="caps"&gt;UK&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="anthony-scopatz"&gt;
-&lt;h3&gt;Anthony&amp;nbsp;Scopatz&lt;/h3&gt;
+&lt;div class="section" id="anthony-scopatz-treasurer"&gt;
+&lt;h3&gt;Anthony Scopatz&amp;nbsp;(Treasurer)&lt;/h3&gt;
 &lt;img alt="Anthony Scopatz" src="static/images/scopatz_avatar-1.jpeg" style="height: 150px;" /&gt;
-&lt;p&gt;Anthony Scopatz is a computational scientist and long time Python developer,
-Anthony holds his &lt;span class="caps"&gt;BS&lt;/span&gt; in Physics from &lt;span class="caps"&gt;UC&lt;/span&gt; Santa Barbara and Ph.D. in Mechanical /
-Nuclear Engineering from &lt;span class="caps"&gt;UT&lt;/span&gt; Austin. A former Enthought employee, he currently
-is a Postdoctoral Scholar at the &lt;span class="caps"&gt;FLASH&lt;/span&gt; Center at the University of Chicago in
-the Astrophysics Department. Anthony’s research interests revolve around high
-energy density physics, essential physics modeling of the nuclear fuel cycle,
+&lt;p&gt;&lt;a class="reference external" href="http://scopatz.com/"&gt;Anthony Scopatz&lt;/a&gt; is a computational scientist and long
+time Python developer, Anthony holds his &lt;span class="caps"&gt;BS&lt;/span&gt; in Physics from &lt;span class="caps"&gt;UC&lt;/span&gt; Santa Barbara and
+Ph.D. in Mechanical / Nuclear Engineering from &lt;span class="caps"&gt;UT&lt;/span&gt; Austin. A former Enthought
+employee, he spent his post-doctoral studies at the &lt;span class="caps"&gt;FLASH&lt;/span&gt; Center at the University
+of Chicago in the Astrophysics Department. He is currently a Staff Scientist at the
+University of Wisconsin-Maidson in Engineering Physics.  Anthony’s research interests
+revolve around essential physics modeling of the nuclear fuel cycle,
 and information theory &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; entropy. Anthony has published and spoken at numerous
-conferences on a variety of science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; software development topics.
-&lt;a class="reference external" href="http://scopatz.com/"&gt;http://scopatz.com/&lt;/a&gt;&lt;/p&gt;
+conferences on a variety of science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; software development&amp;nbsp;topics.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="andy-terrel"&gt;
 &lt;h3&gt;Andy&amp;nbsp;Terrel&lt;/h3&gt;
@@ -169,12 +169,6 @@ conferences including SciPy Conference, FEniCS Conference, &lt;span class="caps"
 Scientific Software Days.  He is an active contributor and reviewer to several
 scientific computing&amp;nbsp;journals.&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="other-officers"&gt;
-&lt;h2&gt;Other&amp;nbsp;Officers&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Treasurer: Anthony&amp;nbsp;Scopatz&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Projects</title><link href="http://numfocus.github.io/numfocus.org/projects.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:projects.html</id><summary type="html">&lt;div class="section" id="core-projects"&gt;
 &lt;h2&gt;Core&amp;nbsp;Projects&lt;/h2&gt;
@@ -210,7 +204,7 @@ compatiable with python scripts and the python and ipython&amp;nbsp;shells.&lt;/
 &lt;/div&gt;
 &lt;div class="section" id="ipython"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://ipython.org/"&gt;IPython&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/ipython.png" src="static/images/ipython.png" style="height: 75px;" /&gt;
+&lt;img alt="static/images/ipython.png" src="static/images/ipython.png" style="height: 70px;" /&gt;
 &lt;p&gt;High quality open source python shell that includes tools for high level and
 interactive parallel&amp;nbsp;computing.&lt;/p&gt;
 &lt;/div&gt;
@@ -279,17 +273,18 @@ NumPy, SciPy, and&amp;nbsp;matplotlib.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="theano"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://deeplearning.net/software/theano/#"&gt;Theano&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="static/images/theano_logo_allblue_200x46.png" src="static/images/theano_logo_allblue_200x46.png" style="height: 75px;" /&gt;
+&lt;img alt="static/images/theano_logo_allblue_200x46.png" src="static/images/theano_logo_allblue_200x46.png" style="height: 50px;" /&gt;
 &lt;p&gt;Theano is a Python library that allows you to define, optimize, and evaluate
 mathematical expressions involving multi-dimensional arrays&amp;nbsp;efficiently.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="section" id="numfocus-is-currently-looking-for-representatives-to-enable-us-to-promote-the-following-projects"&gt;
-&lt;h2&gt;NumFOCUS is currently looking for representatives to enable us to promote the following&amp;nbsp;projects&lt;/h2&gt;
-&lt;p&gt;For&amp;nbsp;information contact us at: &lt;a class="reference external" href="mailto:info&amp;#64;NumFOCUS.org"&gt;info&amp;#64;NumFOCUS.org&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="associated-projects"&gt;
+&lt;h2&gt;Associated&amp;nbsp;Projects&lt;/h2&gt;
+&lt;p&gt;NumFOCUS is currently looking for representatives to enable us to promote the
+following projects.  For&amp;nbsp;information contact us at: &lt;a class="reference external" href="mailto:info&amp;#64;NumFOCUS.org"&gt;info&amp;#64;NumFOCUS.org&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="sage"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://www.sagemath.org/"&gt;Sage&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="http://www.numfocus.org/img/sage.png" src="http://www.numfocus.org/img/sage.png" style="height: 75px;" /&gt;
+&lt;img alt="static/images/sage.png" src="static/images/sage.png" style="height: 75px;" /&gt;
 &lt;p&gt;Open source mathematics sofware system that combines existing open-source
 packages into a Python-based&amp;nbsp;interface.&lt;/p&gt;
 &lt;/div&gt;
@@ -300,14 +295,12 @@ and study of the structure, dynamics, and functions of complex&amp;nbsp;networks
 &lt;/div&gt;
 &lt;div class="section" id="python-x-y"&gt;
 &lt;h3&gt;&lt;a class="reference external" href="http://code.google.com/p/pythonxy/wiki/Welcome"&gt;Python(X,Y)&lt;/a&gt;&lt;/h3&gt;
-&lt;img alt="http://www.numfocus.org/img/pythonxy.png" src="http://www.numfocus.org/img/pythonxy.png" style="height: 75px;" /&gt;
+&lt;img alt="static/images/pythonxy.png" src="static/images/pythonxy.png" style="height: 75px;" /&gt;
 &lt;p&gt;Free scientific and engineering development software used for numerical
 computations, and analysis and visualization of data using the Python
 programmimg&amp;nbsp;language.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Python’s Use in Science</title><link href="http://numfocus.github.io/numfocus.org/pythons-use-in-science.html" rel="alternate"></link><updated>2013-05-07T00:00:00+02:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-05-07:pythons-use-in-science.html</id><summary type="html">&lt;p&gt;Please send links to papers, blogs, articles, or announcements that show
-Python&amp;#8217;s use in science to &lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;.&lt;/p&gt;
 </summary></entry><entry><title>Joining NumFOCUS</title><link href="http://numfocus.github.io/numfocus.org/membership.html" rel="alternate"></link><updated>2013-03-13T00:00:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2013-03-13:membership.html</id><summary type="html">&lt;div class="section" id="becoming-a-member-of-numfocus"&gt;
 &lt;h2&gt;Becoming a Member of&amp;nbsp;NumFOCUS&lt;/h2&gt;
 &lt;p&gt;Last year the NumFOCUS Foundation was formed to &amp;#8220;promote the use of
@@ -373,46 +366,6 @@ computational science&amp;nbsp;tasks:&lt;/p&gt;
 &lt;p&gt;Please note that this list is purely informational and &amp;nbsp;NumFOCUS does
 not officially support or prefer any distribution. &amp;nbsp;If you would like to
 see a distribution added to this list, please &lt;a class="reference external" href="http://numfocus.org/contact-4/"&gt;contact us&lt;/a&gt;!&lt;/p&gt;
-</summary></entry><entry><title>John Hunter Memorial Fund</title><link href="http://numfocus.github.io/numfocus.org/johnhunter.html" rel="alternate"></link><updated>2012-08-28T23:29:00+02:00</updated><author><name>Travis</name></author><id>tag:numfocus.github.io/numfocus.org,2012-08-28:johnhunter.html</id><summary type="html">&lt;img alt="John Hunter" class="align-right" src="static/images/John-hunter-crop-2.jpg" style="height: 200px;" /&gt;
-&lt;p&gt;John Hunter, author of &lt;a class="reference external" href="http://matplotlib.sourceforge.net/"&gt;Matplotlib&lt;/a&gt;, founding board
-member of &lt;a class="reference external" href="http://numfocus.org"&gt;NumFOCUS&lt;/a&gt;, husband to Miriam, and father to three daughters:
-Clara, Ava, and Rahel, was diagnosed with cancer in late July 2012 after
-returning from his keynote &lt;a class="reference external" href="http://www.youtube.com/watch?v=e3lTby5RI54&amp;amp;noredirect=1"&gt;address at SciPy&lt;/a&gt; in Austin, &lt;span class="caps"&gt;TX&lt;/span&gt;. He passed
-away on August 28th from complications arising from necessary cancer
-treatment. See the &lt;a class="reference external" href="https://groups.google.com/forum/#!msg/pydata/FpwXp3sX6N8/mxopkZ1PkBQJ"&gt;announcement email&lt;/a&gt; by his good friend, Fernando&amp;nbsp;Perez.&lt;/p&gt;
-&lt;p&gt;John has given so much to all of us in the Python community, now is our
-time to give something back to his family by providing for the education
-and support of his children. We have setup the John Hunter Memorial Fund
-to provide a mechanism for individuals and companies who have
-appreciated John&amp;#8217;s work, to give back to him by ensuring that his
-children have funds available for their&amp;nbsp;education.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://linuxfr.org/news/deces-de-john-hunter-createur-de-matplotlib"&gt;View French&amp;nbsp;translation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Donations are gifts to Miriam and her girls. They will be used for the
-care and education of Clara, Ava, and Rahel. As of A PayPal account has
-been set up so that you may give to John&amp;#8217;s family directly. You may also
-send a check directly to the family made out to Miriam Sierig and mailed
-to the address below. &amp;nbsp;Thank you for your&amp;nbsp;generosity!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PayPal:&lt;/strong&gt;&lt;/p&gt;
-&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
-&lt;input type="hidden"
-        name="cmd"
-        value="_s-xclick" /&gt;&lt;br /&gt;
-&lt;input type="hidden"
-       name="hosted_button_id"
-       value="AY7E6Q8Z4A63J" /&gt;&lt;br /&gt;
-&lt;input type="image"
-       alt="PayPal - The safer, easier way to pay online!" name="submit"
-       src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /&gt;&lt;br /&gt;
-&lt;img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
-      width="1"
-      height="1"
-      border="0"/&gt;
-&lt;/form&gt;&lt;p&gt;&lt;strong&gt;Checks:&lt;/strong&gt;&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-Miriam Sierig
-953 E Hyde Park Blvd #2
-Chicago, IL 60615
-&lt;/pre&gt;
 </summary></entry><entry><title>Helpful Links</title><link href="http://numfocus.github.io/numfocus.org/helpful-links.html" rel="alternate"></link><updated>2012-03-13T17:29:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-03-13:helpful-links.html</id><summary type="html">&lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://scipy-central.org/"&gt;http://scipy-central.org/&lt;/a&gt;&amp;nbsp;-&amp;nbsp;A collection of&amp;nbsp;code snippets, modules and
 links for&amp;nbsp;&lt;em&gt;solving scientific problems&lt;/em&gt;&amp;nbsp;with&amp;nbsp;&lt;a class="reference external" href="http://scipy.org/"&gt;SciPy&lt;/a&gt;&amp;nbsp;and related Python&amp;nbsp;tools.&lt;/li&gt;
@@ -460,18 +413,6 @@ about scientific computing with NumPy, SciPy, and other related&amp;nbsp;tools.&
 &lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/theano-users"&gt;theano&amp;nbsp;user&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/theano-dev"&gt;theano&amp;nbsp;dev&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</summary></entry><entry><title>Projects</title><link href="http://numfocus.github.io/numfocus.org/projects-2.html" rel="alternate"></link><updated>2012-03-01T17:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-03-01:projects-2.html</id><summary type="html">&lt;div class="section" id="currently-promoting"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/projects/"&gt;Currently&amp;nbsp;Promoting&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="software-distributions"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/software-distributions/"&gt;Software&amp;nbsp;Distributions&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="educational-projects"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/educational-projects/"&gt;Educational&amp;nbsp;Projects&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="representatives"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://numfocus.org/projects-2/other-projects/"&gt;Representatives&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
 </summary></entry><entry><title>Donate</title><link href="http://numfocus.github.io/numfocus.org/donatejoin.html" rel="alternate"></link><updated>2012-02-25T15:47:00+01:00</updated><author><name>Leah</name></author><id>tag:numfocus.github.io/numfocus.org,2012-02-25:donatejoin.html</id><summary type="html">&lt;img alt="NumFOCUS" src="static/images/nf-web-with-tag.jpg" style="height: 200px;" /&gt;
 &lt;p&gt;NumFOCUS supports and promotes world-class, innovative, open source
 scientific software. Most individual projects, even the wildly
@@ -544,4 +485,21 @@ P.O. Box 90596
 Austin, TX 78709
 &lt;/pre&gt;
 &lt;p&gt;&lt;strong&gt;Your personal contribution is greatly&amp;nbsp;appreciated!&lt;/strong&gt;&lt;/p&gt;
-</summary></entry></feed>
+</summary></entry><entry><title>Continuum Analytics</title><link href="http://numfocus.github.io/numfocus.org/continuum-analytics.html" rel="alternate"></link><updated>2010-01-01T00:00:00+01:00</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,2010-01-01:continuum-analytics.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://continuum.io"&gt;&lt;img alt="Continuum Analytics" src="http://numfocus.github.io/numfocus.org/static/images/continuum_500px_w_logo.png" style="height: 100px;" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Founded by the creators of NumPy, SciPy, and Chaco, Continuum offers
+Python-based tools and consulting services for the analysis, management and
+visualization of big data. Continuum’s premier Python distribution, Anaconda,
+performs high-performance, large data analysis, including statistics, machine
+learning, and distributed computing. Wakari, Continuum’s newest product, is an
+online cloud-based Python analytics environment for easy sharing of code,
+visualizations, IPython Notebooks, data sets and derived data products.
+Cloud-hosted or installed internally, Wakari allows users to harness
+Continuum’s full product set, including Anaconda and enterprise-supported
+Python, from their&amp;nbsp;browsers.&lt;/p&gt;
+</summary><category term="Gold Level"></category></entry><entry><title>J. P. Morgan</title><link href="http://numfocus.github.io/numfocus.org/j-p-morgan.html" rel="alternate"></link><updated>1900-01-01T00:00:00+00:09</updated><author><name></name></author><id>tag:numfocus.github.io/numfocus.org,1900-01-01:j-p-morgan.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://jpmorgan.com"&gt;&lt;img alt="J. P. Morgan" src="http://numfocus.github.io/numfocus.org/static/images/Logo2008_JPM_D_Black.png" style="height: 100px;" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan is a leader in financial services, offering solutions to clients in
+more than 100 countries with one of the most comprehensive global product
+platforms available. We have been helping our clients to do business and manage
+their wealth for more than 200 years. Our business has been built upon our core
+principle of putting our clients’ interests&amp;nbsp;first.&lt;/p&gt;
+</summary><category term="Platinum Level"></category></entry></feed>
