@@ -46,7 +46,7 @@ compatiable with python scripts and the python and ipython shells.
 `IPython`_
 --------------
 .. image:: static/images/ipython.png
-    :height: 75px
+    :height: 70px
 
 High quality open source python shell that includes tools for high level and
 interactive parallel computing.
@@ -143,20 +143,21 @@ NumPy, SciPy, and matplotlib.
 `Theano`_
 -------------
 .. image:: static/images/theano_logo_allblue_200x46.png
-    :height: 75px
+    :height: 50px
 
 Theano is a Python library that allows you to define, optimize, and evaluate
 mathematical expressions involving multi-dimensional arrays efficiently.
 
 
-NumFOCUS is currently looking for representatives to enable us to promote the following projects
-================================================================================================
-For information contact us at: `info@NumFOCUS.org`_.
+Associated Projects
+===================
+NumFOCUS is currently looking for representatives to enable us to promote the
+following projects.  For information contact us at: `info@NumFOCUS.org`_.
 
 
 `Sage`_
 -------
-.. image:: http://www.numfocus.org/img/sage.png
+.. image:: static/images/sage.png
     :height: 75px
 
 Open source mathematics sofware system that combines existing open-source
@@ -168,9 +169,10 @@ packages into a Python-based interface.
 NetworkX is a Python language software package for the creation, manipulation,
 and study of the structure, dynamics, and functions of complex networks.
 
+
 `Python(X,Y)`_
 ---------------
-.. image:: http://www.numfocus.org/img/pythonxy.png
+.. image:: static/images/pythonxy.png
     :height: 75px
 
 Free scientific and engineering development software used for numerical
