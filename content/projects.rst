@@ -149,9 +149,10 @@ Theano is a Python library that allows you to define, optimize, and evaluate
 mathematical expressions involving multi-dimensional arrays efficiently.
 
 
-NumFOCUS is currently looking for representatives to enable us to promote the following projects
-================================================================================================
-For information contact us at: `info@NumFOCUS.org`_.
+Associated Projects
+===================
+NumFOCUS is currently looking for representatives to enable us to promote the
+following projects.  For information contact us at: `info@NumFOCUS.org`_.
 
 
 `Sage`_
