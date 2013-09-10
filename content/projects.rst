@@ -46,7 +46,7 @@ compatiable with python scripts and the python and ipython shells.
 `IPython`_
 --------------
 .. image:: static/images/ipython.png
-    :height: 75px
+    :height: 70px
 
 High quality open source python shell that includes tools for high level and
 interactive parallel computing.
@@ -143,7 +143,7 @@ NumPy, SciPy, and matplotlib.
 `Theano`_
 -------------
 .. image:: static/images/theano_logo_allblue_200x46.png
-    :height: 75px
+    :height: 50px
 
 Theano is a Python library that allows you to define, optimize, and evaluate
 mathematical expressions involving multi-dimensional arrays efficiently.
