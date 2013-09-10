@@ -46,7 +46,7 @@ DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sponsors')
 
 EXTRA_TEMPLATE_PATHS = ('templates',)
 #PAGINATED_DIRECT_TEMPLATES = []
-DEFAULT_PAGINATION = 4
+DEFAULT_PAGINATION = 12
 
 # the intended way to add articles to the news feed is to add them to a
 # pre-defined category (i.e. it has a directory) or to explicitly give it a
