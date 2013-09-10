@@ -156,7 +156,7 @@ For information contact us at: `info@NumFOCUS.org`_.
 
 `Sage`_
 -------
-.. image:: http://www.numfocus.org/img/sage.png
+.. image:: static/images/sage.png
     :height: 75px
 
 Open source mathematics sofware system that combines existing open-source
@@ -168,9 +168,10 @@ packages into a Python-based interface.
 NetworkX is a Python language software package for the creation, manipulation,
 and study of the structure, dynamics, and functions of complex networks.
 
+
 `Python(X,Y)`_
 ---------------
-.. image:: http://www.numfocus.org/img/pythonxy.png
+.. image:: static/images/pythonxy.png
     :height: 75px
 
 Free scientific and engineering development software used for numerical
