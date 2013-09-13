@@ -33,7 +33,8 @@ GITHUB_URL = 'https://github.com/numfocus'
 TWITTER_URL = 'https://twitter.com/numfocus'
 GOOGLEPLUS_URL = 'https://plus.google.com/communities/100008130850352595608'
 
-MENUITEMS = [('Projects', 'projects.html'),
+MENUITEMS = [('About', 'about.html'),
+             ('Projects', 'projects.html'),
              ('Board', 'board.html'),
              ('Membership', 'membership.html'),
              ('Donations', 'donations.html'),
