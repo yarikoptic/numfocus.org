@@ -1,13 +1,10 @@
-Donate
-######
+Who is NumFOCUS?
+################
 :date: 2012-02-25 15:47
 :author: Leah
-:slug: donatejoin
+:slug: about
 :hide_info: True
 
-.. image:: static/images/nf-web-with-tag.jpg
-    :height: 200px
-    :alt: NumFOCUS
 
 NumFOCUS supports and promotes world-class, innovative, open source
 scientific software. Most individual projects, even the wildly
