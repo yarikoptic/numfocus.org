@@ -1,7 +1,8 @@
-Donations
-#########
+Ways to Support Open Code and Better Science
+############################################
 :date: 2013-07-05
 :hide_info: True
+:slug: donations
 
 Donate to NumFOCUS
 ------------------
