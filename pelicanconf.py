@@ -37,7 +37,6 @@ MENUITEMS = [('Projects', 'projects.html'),
              ('Board', 'board.html'),
              ('Membership', 'membership.html'),
              ('Donations', 'donations.html'),
-             ('Jobs', 'jobs.html'),
              ('Sponsors', 'sponsors.html'),
              ('Contact', 'contact.html'),
              ]
