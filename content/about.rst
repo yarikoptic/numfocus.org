@@ -59,21 +59,7 @@ providers.
        </form>
 
 
-* **Google Checkout** - (2.90% + $0.30 / transaction)
-   .. raw:: html
-
-       <table width="1%" cellspacing="0" cellpadding="5">
-       <tbody>
-       <tr>
-         <td align="right" nowrap="nowrap" width="1%">$ 
-           <input id="item_price_1" type="text" name="item_price_1" value="64.00" size="6" />
-         </td>
-         <td align="left" width="1%">
-           <input type="image" src="https://checkout.google.com/buttons/donateNow.gif?merchant_id=112611646391039&amp;w=115&amp;h=50&amp;style=white&amp;variant=text&amp;loc=en_US" alt="Donate" />
-         </td>
-       </tr>
-       </tbody>
-       </table>
+.. Google checkout goes here
 
 
 * **WePay** - (2.90% + $0.30 / transaction)
