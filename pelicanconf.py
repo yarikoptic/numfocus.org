@@ -25,7 +25,7 @@ TRANSLATION_FEED_ATOM = None
 #          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('numfocus+subscribe@googlegroups.com', 'Join out mailing list'),
+SOCIAL = (('mailto:numfocus+subscribe@googlegroups.com', 'Join out mailing list'),
           ('https://groups.google.com/forum/#!forum/numfocus', 'Read the archives'),
           )
 
