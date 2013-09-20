@@ -99,6 +99,6 @@ providers.
 
 **Your personal contribution is greatly appreciated!**
 
-.. _Donate with WePay:         https://www.wepay.com/donations/78917
+.. _Donate with WePay: https://www.wepay.com/donations/78917
 .. _info@numfocus.org: mailto:info@numfocus.org
 .. _here: https://github.com/numfocus/fiscal-sponsorship
