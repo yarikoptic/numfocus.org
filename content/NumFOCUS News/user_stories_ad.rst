@@ -4,8 +4,10 @@ Share your stories of how you use NumFOCUS supported tools
 
 Read how others are you the tools NumFOCUS supports in  `User Stories`_.
 
-Let the community know how you're using the tools NumFOCUS supports.  Send your stories to: `http://numfocus.org/user-stories/`_.
+Let the community know how you're using the tools NumFOCUS supports.  Send your stories to: `info@numfocus.org`_.
 
 
-.. _User Stories: http://numfocus.org/user-stories/
-.. _`http://numfocus.org/user-stories/`: http://numfocus.org/user-stories/
+.. _info@numfocus.org: mailto:info@numfocus.org
+
+.. XXX pelican can't generate a link to the category page.  Hardcode it instead.  Bad.
+.. _User Stories: /category/user-stories.html
