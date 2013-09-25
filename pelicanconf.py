@@ -64,5 +64,6 @@ RELATIVE_URLS = True
 #RELATIVE_URLS = False
 
 STATIC_PATHS = [
-    'johnhunter/index.html',
+    'images',
+#    'johnhunter/index.html',
     ]
