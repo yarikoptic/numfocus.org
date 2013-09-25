@@ -62,3 +62,7 @@ MARKUP = ('rst', 'md', 'html')
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 #RELATIVE_URLS = False
+
+STATIC_PATHS = [
+    'johnhunter/index.html',
+    ]
