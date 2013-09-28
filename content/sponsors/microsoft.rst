@@ -7,7 +7,7 @@ Microsoft
 
 |microsoft|
 
-Microsoft is awesome, but they need to give us some copy.
+Microsoft is a proud sponsor of NumFOCUS and IPython.
 
 
 .. |microsoft| image:: |filename|/images/MSFT_logo_Web.jpg
