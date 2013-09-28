@@ -1,7 +1,7 @@
 Microsoft
 #########
 :date: 1900-01-01
-:image: /static/images/MSFT_logo_Web.jpg
+:image: /static/images/microsoft-logo.jpg
 :tags: Platinum Level
 :category: nofeed
 
