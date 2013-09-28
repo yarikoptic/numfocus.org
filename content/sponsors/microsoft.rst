@@ -10,7 +10,7 @@ Microsoft
 Microsoft is a proud sponsor of NumFOCUS and IPython.
 
 
-.. |microsoft| image:: |filename|/images/MSFT_logo_Web.jpg
+.. |microsoft| image:: |filename|/images/microsoft-logo.jpg
    :height: 100px
    :alt: Microsoft
    :target: http://www.microsoft.com
