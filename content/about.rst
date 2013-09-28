@@ -36,6 +36,7 @@ or all of these great codes at once!
 
 There are many ways to give. We have tried to make it as simple as
 possible to donate to NumFOCUS.  Please see the links at the bottom of the
-`donations page`_
+`donations page`_.  Our full bylaws are `available for download`_.
 
 .. _donations page: |filename|/donations.rst
+.. _available for download: |filename|/pdfs/bylaws.pdf
