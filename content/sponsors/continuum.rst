@@ -19,6 +19,6 @@ Continuum’s full product set, including Anaconda and enterprise-supported
 Python, from their browsers.
 
 .. |continuum| image:: |filename|/images/continuum_500px_w_logo.png
-    :width: 100px
+    :height: 100px
     :alt: Continuum Analytics
     :target: http://continuum.io
