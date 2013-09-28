@@ -3,7 +3,9 @@
 ========================================
 :date: 2013-09-27
 
-.. image:: _static/microsoft-logo.png
+.. image:: |filename|/images/microsoft-logo.jpg
+   :height: 70px
+   :alt: Microsoft logo
 
 NumFOCUS and IPython_ are thrilled to announce that in August 2013, Microsoft
 made a donation of $100,000 to sponsor IPython's continued development.
