@@ -31,7 +31,8 @@ Sponsorship program.  The Fiscal Sponsorship program is a way for for donors to
 financially contribute toward the progress of a NumFOCS affiliated project
 while also receiving benefits of contributing to 501(c)3 charity.  In our
 Fiscal Sponsorship program, the nonexempt project must act so as to further the
-exempt purposes of NumFOCUS.
+exempt purposes of NumFOCUS.  Further details regarding corporate sponsorship
+are available at our `corporate sponsorship page`_.
 
     Fiscal Sponsorship is an arrangement between a 501(c)(3) public charity
     and a project (that does not have that tax status) in which, typically, the
@@ -100,3 +101,4 @@ providers.
 .. _Donate with WePay: https://www.wepay.com/donations/78917
 .. _info@numfocus.org: mailto:info@numfocus.org
 .. _here: https://github.com/numfocus/fiscal-sponsorship
+.. _corporate sponsorship page: |filename|/corporate_sponsorship.rst
