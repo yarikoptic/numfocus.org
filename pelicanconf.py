@@ -65,5 +65,6 @@ RELATIVE_URLS = True
 
 STATIC_PATHS = [
     'images',
+    'pdfs',
 #    'johnhunter/index.html',
     ]
