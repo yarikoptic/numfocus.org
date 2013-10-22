@@ -3,6 +3,7 @@ inSCIght
 :date: 07-05-2013
 
 .. image:: |filename|/images/InSciGHT.jpg
+   :alt: InSCIght logo
 
 `inSCIght`_ is a podcast that focuses on scientific computing in all of its
 various forms. We have four panelists engage head-to-head on poignant and

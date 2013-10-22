@@ -5,8 +5,9 @@ Tokyo SciPy
 :slug: tokyo-scipy2012
 
 .. image:: |filename|/images/Tokyo-SciPy.jpg
+   :alt: Audience at Tokyo SciPy
 
-Chairman of NumFOCUS' Board of Director's,Travis Oliphant, spoke at the
+Chairman of NumFOCUS' Board of Director's, Travis Oliphant, spoke at the
 March meeting of Tokyo SciPy via live webcast.  Topics he covered
 included the history of \ `SciPy`_, where \ `NumPy `_\ should go next,
 and Numba.  Questions were asked regarding sparse matrix integration

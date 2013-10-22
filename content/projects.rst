@@ -10,6 +10,7 @@ Core Projects
 ------------
 .. image:: static/images/NumPY.png
     :height: 75px
+    :alt: NumPy logo
 
 NumPy is the fundamental package needed for scientific computing with Python.
 Besides its obvious scientific uses, NumPy can also be used as an efficient
@@ -26,6 +27,7 @@ version 1.6.1 - `http://sourceforge.net/projects/numpy/files/NumPy/1.6.1/`_.
 --------
 .. image:: static/images/scipy.png
     :height: 75px
+    :alt: SciPy logo
 
 SciPy is open-source software for mathematics, science, and engineering. It is
 also the name of a very popular conference on scientific programming with
@@ -37,6 +39,7 @@ as routines for numerical integration and optimization.
 `Matplotlib`_
 --------------
 .. image:: static/images/matplotlib.png
+    :alt: Matplotlib logo
     :height: 75px
 
 2D plotting library for Python that produces high quality figures that can be
@@ -46,6 +49,7 @@ compatiable with python scripts and the python and ipython shells.
 `IPython`_
 --------------
 .. image:: static/images/ipython.png
+    :alt: IPython logo
     :height: 70px
 
 High quality open source python shell that includes tools for high level and
@@ -54,6 +58,7 @@ interactive parallel computing.
 `SymPy`_
 ------------
 .. image:: static/images/SymPy2.jpg
+    :alt: SymPy logo
     :height: 75px
 
 SymPy is a Python library for symbolic mathematics. It aims to become a
@@ -69,6 +74,7 @@ Other Projects
 `Cython`_
 -------------
 .. image:: static/images/cython.png
+    :alt: Cython logo
     :height: 75px
 
 Cython is a language based on Pyrex that makes writing C extensions for Python
@@ -80,6 +86,7 @@ to generate very efficient C code from Cython code.
 `pandas`_
 -------------
 .. image:: static/images/pandas.png
+    :alt: Pandas logo
     :height: 75px
 
 pandas is an open source, BSD-licensed library providing high-performance,
@@ -90,6 +97,7 @@ language.
 `PyTables`_
 ---------------
 .. image:: static/images/logo-pytables-small.png
+    :alt: PyTables logo
     :height: 75px
 
 PyTables is a package for managing hierarchical datasets and designed to
@@ -105,6 +113,7 @@ http://pytables.github.com/
 -------------------
 .. image:: static/images/scikitsimage.png
     :height: 75px
+    :alt: Scikit-Image logo
 
 Free high-quality and peer-reviewed volunteer produced collection of algorithms
 for image processing.
@@ -113,6 +122,7 @@ for image processing.
 `scikit-learn`_
 -------------------
 .. image:: static/images/scikitslearn.png
+    :alt: Scikit-learn logo
     :height: 75px
 
 Module designed for scientific pythons that provides accesible solutions to
@@ -122,6 +132,7 @@ machine learning problems.
 `Scikits-Statsmodels`_
 --------------------------
 .. image:: static/images/scikits.png
+    :alt: Scikits-Statsmodels logo
     :height: 75px
 
 Statsmodels is a Python package that provides a complement to scipy for
@@ -132,6 +143,7 @@ statistical models.
 `Spyder`_
 -------------
 .. image:: static/images/spyder.png
+    :alt: Spyder logo
     :height: 75px
 
 Interactive development environment for Python that features advanced editing,
@@ -143,6 +155,7 @@ NumPy, SciPy, and matplotlib.
 `Theano`_
 -------------
 .. image:: static/images/theano_logo_allblue_200x46.png
+    :alt: Theano logo
     :height: 50px
 
 Theano is a Python library that allows you to define, optimize, and evaluate
@@ -158,6 +171,7 @@ following projects.  For information contact us at: `info@NumFOCUS.org`_.
 `Sage`_
 -------
 .. image:: static/images/sage.png
+    :alt: Sage logo
     :height: 75px
 
 Open source mathematics sofware system that combines existing open-source
@@ -173,6 +187,7 @@ and study of the structure, dynamics, and functions of complex networks.
 `Python(X,Y)`_
 ---------------
 .. image:: static/images/pythonxy.png
+    :alt: Python(X,Y) logo
     :height: 75px
 
 Free scientific and engineering development software used for numerical
