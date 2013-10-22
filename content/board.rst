@@ -173,6 +173,7 @@ Andy Terrel
 -----------
 .. image:: static/images/andy-terrel-portrait200px2.jpg 
     :height: 150px
+    :alt: Andy Terrel
 
 Andy Terrel received his PhD in computer science at the University of Chicago
 in 2010 and is currently a staff researcher at the Texas Advance Computing
