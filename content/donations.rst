@@ -88,6 +88,15 @@ providers.
               type="image"
               src="https://www.dwolla.com/content/images/btn-donate-with-dwolla.png" />
 
+* **Bitcoin** - (1% / transaction)
+   .. raw:: html
+
+       <form action="https://bitpay.com/checkout" method="post" >
+         <input type="hidden" name="action" value="checkout" />
+         <input type="hidden" name="posData" value="" />
+         <input type="hidden" name="data" value="RB/WxxHHgnPMjN0YyUijaAt3zS8ANaE0aoaNSiGxrBEZK3IrtDUEDF44QQU+nQVgofeuxCUMsWkjuBlAVXIXF1a4CI4+CfwrPFL4HOMB1BqTkeWVijGZiFVT2/O5fjc/34NIkVaftlLW8NHsS/m5p+5+5t8VGJ+OK/NOT9qz8d2pzMv5EcBUwQ8Q31sNvuZSzvwamDtT+51w2nNCVu6r+FRjdrErOPoI7yU4IViv+Numu55KoL3urtm4Id1zOHw6" />
+         <input type="image" src="https://bitpay.com/img/donate-md.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
+       </form>
 
 * **Checks** -  Make payable to NumFOCUS and mail to::
 
