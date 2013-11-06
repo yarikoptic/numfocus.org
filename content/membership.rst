@@ -34,16 +34,16 @@ support and promote its projects.
 **Other advantages of membership include:**
 
 -  20% Discount on PyData conferences
--  Discounts on products - 20% off IOPro
+-  Discounts on products - (e.g. 10% off IOPro from Continuum). 
 -  Networking with others in the scientific and engineering Python community
 -  A chance to have greater insight into NumFOCUS and to influence its work
+-  A chance to provide real support to open source projects that you use 
 -  Opportunity to highlight one’s personal or corporate involvement with
    the foundation
 
 **Membership Types**
 
-Full details on membership
-may be found in the amended bylaws.
+Full details on membership may be found in the amended bylaws.
 
 - **Community Member**: Anyone may become a community member by sending
   a message to either:
@@ -54,14 +54,36 @@ may be found in the amended bylaws.
   - a mailing address or country of residence
   - an indication of whether they want contact information listed on the public
     NumFOCUS membership web page.
+
+- **Sponsoring Member**: Individuals who manifest their support for NumFOCUS 
+    and its aims by  contributing funds each year to the Foundation.   
+    Besides the benefit of knowing they are contributing to the the ecosystem 
+    of projects that NumFOCUS supports, sponsoring Members also enjoy a 
+    40% Discount on PyData conferences and additional discounts on products
+    (e.g. 20% off IOPro and Accelerate from Continuum).  Minimum yearly dues for
+    sponsoring members are:  
+
+     - Professional: $128/yr
+     - Early Professional (<5 years after school): $64/yr
+     - Student or Retired: $32/yr
+
+     - Lifetime Sponsoring Member: $4000 one time
     
 - **Contributing Member**: Are admitted by majority vote of the board of 
-  directors based on contributions to the communities of interest to NumFOCUS
-- **Member Fellow**: Are nominated by a board member and approved by
+  directors based on contributions to the communities of interest to NumFOCUS.  
+  The receive all the benefits of sponsoring members.
+
+- **Fellow**: Are nominated by a board member and approved by
   a 2/3 majority vote of the Board of Directors. Fellows must have previously
-  been a Community, Sponsoring or Contributing Member.
+  been a Community, Sponsoring or Contributing Member and continue to enjoy the 
+  benefits of sponsoring members.
+
 - **Member Emeritus**: See the amended bylaws for details 
 
+
+Corporate Sponsorships are also available and encouraged and details can be
+found on the corporate sponsorship page, but all members of NumFOCUS are 
+individuals. 
 
 .. _info@numfocus.org: mailto:info@numfocus.org
 .. _corporate sponsorship page: |filename|/corporate_sponsorship.rst
