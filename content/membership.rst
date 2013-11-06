@@ -58,8 +58,9 @@ Full details on membership may be found in the amended bylaws.
 - **Sponsoring Member**: Individuals who manifest their support for NumFOCUS 
     and its aims by  contributing funds each year to the Foundation.   
     Besides the benefit of knowing they are contributing to the the ecosystem 
-    of projects that NumFOCUS supports, sponsoring Members also enjoy a 
-    40% Discount on PyData conferences and additional discounts on products
+    of projects that NumFOCUS supports, sponsoring Members also enjoy the right
+    to vote on certain actions brought to the membership as well as a 
+    30% Discount on PyData conferences and additional discounts on products
     (e.g. 20% off IOPro and Accelerate from Continuum).  Minimum yearly dues for
     sponsoring members are:  
 
