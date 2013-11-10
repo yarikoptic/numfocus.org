@@ -60,8 +60,8 @@ For this to work, please set your github remote 'upstream' to
 'git@github.com:numfocus/numfocus.org.git'.
 
 
-Dependecies
-===========
+Dependencies
+============
 Note that you have to have the following packages installed for everything to
 work properly:
 
