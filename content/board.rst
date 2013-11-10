@@ -8,7 +8,7 @@ Board of Directors
 
 Ralf Gommers
 ------------
-.. image:: static/images/portrait_rgommers.jpg
+.. image:: images/portrait_rgommers.jpg
     :height: 150px
     :alt: Ralf Gomers
 
@@ -25,7 +25,7 @@ release manager.
 
 Emmanuelle Gouillart
 --------------------
-.. image:: static/images/emma_python_smaller.jpg
+.. image:: images/emma_python_smaller.jpg
     :height: 150px
     :alt: Emmanuelle Gouillart
 
@@ -49,7 +49,7 @@ regular contributor to the Python scikit-image.
 
 Perry Greenfield
 ----------------
-.. image:: static/images/perry-greenfield.jpg
+.. image:: images/perry-greenfield.jpg
     :height: 150px
     :alt: Perry Greenfield
 
@@ -70,7 +70,7 @@ construction, the James Webb Space Telescope.
 
 Jarrod Millman
 --------------
-.. image:: static/images/jarrod-millman-150x150.png
+.. image:: images/jarrod-millman-150x150.png
     :height: 150px
     :alt: Jarrod Millman
 
@@ -83,7 +83,7 @@ Center.
 
 Travis Oliphant
 ---------------
-.. image:: static/images/Travis_Oliphant.gif
+.. image:: images/Travis_Oliphant.gif
     :height: 150px
     :alt: Travis Oliphant
 
@@ -116,7 +116,7 @@ with J.P. Morgan technical leadership staff and other industry leaders.
 
 Fernando Pérez
 --------------
-.. image:: static/images/fernando_perez.jpg
+.. image:: images/fernando_perez.jpg
     :height: 150px
     :alt: Fernando Pérez
 
@@ -154,7 +154,7 @@ running the European operations of Enthought out of Cambridge, UK.
 
 Anthony Scopatz (Treasurer)
 ---------------------------
-.. image:: static/images/scopatz_avatar-1.jpeg
+.. image:: images/scopatz_avatar-1.jpeg
     :height: 150px
     :alt: Anthony Scopatz
 
@@ -171,7 +171,7 @@ conferences on a variety of science & software development topics.
 
 Andy Terrel
 -----------
-.. image:: static/images/andy-terrel-portrait200px2.jpg 
+.. image:: images/andy-terrel-portrait200px2.jpg 
     :height: 150px
     :alt: Andy Terrel
 
