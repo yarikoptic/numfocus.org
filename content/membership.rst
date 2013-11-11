@@ -64,11 +64,11 @@ Full details on membership may be found in the amended bylaws.
     (e.g. 20% off IOPro and Accelerate from Continuum).  Minimum yearly dues for
     sponsoring members are:  
 
-     - Professional: $128/yr
-     - Early Professional (<5 years after school): $64/yr
-     - Student or Retired: $32/yr
+    - Professional: $128/yr
+    - Early Professional (<5 years after school): $64/yr
+    - Student or Retired: $32/yr
 
-     - Lifetime Sponsoring Member: $4000 one time
+    - Lifetime Sponsoring Member: $4000 one time
     
 - **Contributing Member**: Are admitted by majority vote of the board of 
   directors based on contributions to the communities of interest to NumFOCUS.  
