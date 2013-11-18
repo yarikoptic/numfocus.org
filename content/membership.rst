@@ -84,11 +84,11 @@ the goals of NumFOCUS.
   intended to honor contributions of the highest order to the NumFOCUS mission.
 
 - **Member Emeritus**: Are for members previously in the Supporting,
-Contributing, or Fellow category that are currently inactive. A switch
-to emeritus status can be initiated by the member themselves or by the 
-board. If by the board, it must be approved by a 2/3 majority vote. 
-Emeritus members may reactivate their previous membership status by 
-sending such a request by email.
+  Contributing, or Fellow category that are currently inactive. A switch
+  to emeritus status can be initiated by the member themselves or by the 
+  board. If by the board, it must be approved by a 2/3 majority vote. 
+  Emeritus members may reactivate their previous membership status by 
+  sending such a request by email.
 
 Corporate Sponsorships are also available and encouraged and details can be
 found on the corporate sponsorship page, but all members of NumFOCUS are 
