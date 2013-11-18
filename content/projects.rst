@@ -118,7 +118,7 @@ http://pytables.github.com/
 Free high-quality and peer-reviewed volunteer produced collection of algorithms
 for image processing.
 
- 
+
 `scikit-learn`_
 -------------------
 .. image:: images/scikitslearn.png
@@ -128,7 +128,7 @@ for image processing.
 Module designed for scientific pythons that provides accesible solutions to
 machine learning problems.
 
- 
+
 `Scikits-Statsmodels`_
 --------------------------
 .. image:: images/scikits.png
@@ -139,7 +139,7 @@ Statsmodels is a Python package that provides a complement to scipy for
 statistical computations including descriptive statistics and estimation of
 statistical models.
 
- 
+
 `Spyder`_
 -------------
 .. image:: images/spyder.png
@@ -151,7 +151,7 @@ interactive testing, debugging and introspection capabilities, as well as a
 numerical computing environment made possible through the support of Ipython,
 NumPy, SciPy, and matplotlib.
 
- 
+
 `Theano`_
 -------------
 .. image:: images/theano_logo_allblue_200x46.png
@@ -194,6 +194,13 @@ Free scientific and engineering development software used for numerical
 computations, and analysis and visualization of data using the Python
 programmimg language.
 
+.. _project-proposal:
+
+New Project Applications
+========================
+Get in touch by `submitting the proposal form`_.
+
+.. _`submitting the proposal form`: mailto:info@numfocus.org?subject=Project%20proposal&body=Please%20include%20links%20and%20references%2C%20where%20relevant%3A%0A%0A*%20Project%20Name%0A%0A*%20Submitter%20Name%0A%0A*%20Request%20Type%20(sprint%2C%20travel%2C%20infrastructure%2C%20development%20time)%0A%0A*%20Request%20amount%20%2F%20service%0A%0A*%20Location%0A%0A*%20Justification%20(a%20few%20paragraphs%20to%20a%20few%20pages)
 .. _NumPy: http://numpy.scipy.org/
 .. _SciPy: http://www.scipy.org/
 .. _Matplotlib: http://matplotlib.sourceforge.net/
