@@ -1,7 +1,7 @@
 J. P. Morgan
 ############
 :date: 1900-01-01
-:image: /static/images/Logo2008_JPM_D_Black.png
+:image: images/Logo2008_JPM_D_Black.png
 :tags: Platinum Level
 :category: nofeed
 

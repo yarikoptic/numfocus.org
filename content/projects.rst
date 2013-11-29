@@ -8,7 +8,7 @@ Core Projects
 
 `NumPy`_
 ------------
-.. image:: static/images/NumPY.png
+.. image:: images/NumPY.png
     :height: 75px
     :alt: NumPy logo
 
@@ -25,7 +25,7 @@ version 1.6.1 - `http://sourceforge.net/projects/numpy/files/NumPy/1.6.1/`_.
 
 `SciPy`_
 --------
-.. image:: static/images/scipy.png
+.. image:: images/scipy.png
     :height: 75px
     :alt: SciPy logo
 
@@ -38,7 +38,7 @@ as routines for numerical integration and optimization.
 
 `Matplotlib`_
 --------------
-.. image:: static/images/matplotlib.png
+.. image:: images/matplotlib.png
     :alt: Matplotlib logo
     :height: 75px
 
@@ -48,7 +48,7 @@ compatiable with python scripts and the python and ipython shells.
 
 `IPython`_
 --------------
-.. image:: static/images/ipython.png
+.. image:: images/ipython.png
     :alt: IPython logo
     :height: 70px
 
@@ -57,7 +57,7 @@ interactive parallel computing.
 
 `SymPy`_
 ------------
-.. image:: static/images/SymPy2.jpg
+.. image:: images/SymPy2.jpg
     :alt: SymPy logo
     :height: 75px
 
@@ -73,7 +73,7 @@ Other Projects
 
 `Cython`_
 -------------
-.. image:: static/images/cython.png
+.. image:: images/cython.png
     :alt: Cython logo
     :height: 75px
 
@@ -85,7 +85,7 @@ to generate very efficient C code from Cython code.
 
 `pandas`_
 -------------
-.. image:: static/images/pandas.png
+.. image:: images/pandas.png
     :alt: Pandas logo
     :height: 75px
 
@@ -96,7 +96,7 @@ language.
 
 `PyTables`_
 ---------------
-.. image:: static/images/logo-pytables-small.png
+.. image:: images/logo-pytables-small.png
     :alt: PyTables logo
     :height: 75px
 
@@ -111,7 +111,7 @@ http://pytables.github.com/
 
 `scikit-image`_
 -------------------
-.. image:: static/images/scikitsimage.png
+.. image:: images/scikitsimage.png
     :height: 75px
     :alt: Scikit-Image logo
 
@@ -121,7 +121,7 @@ for image processing.
  
 `scikit-learn`_
 -------------------
-.. image:: static/images/scikitslearn.png
+.. image:: images/scikitslearn.png
     :alt: Scikit-learn logo
     :height: 75px
 
@@ -131,7 +131,7 @@ machine learning problems.
  
 `Scikits-Statsmodels`_
 --------------------------
-.. image:: static/images/scikits.png
+.. image:: images/scikits.png
     :alt: Scikits-Statsmodels logo
     :height: 75px
 
@@ -142,7 +142,7 @@ statistical models.
  
 `Spyder`_
 -------------
-.. image:: static/images/spyder.png
+.. image:: images/spyder.png
     :alt: Spyder logo
     :height: 75px
 
@@ -154,7 +154,7 @@ NumPy, SciPy, and matplotlib.
  
 `Theano`_
 -------------
-.. image:: static/images/theano_logo_allblue_200x46.png
+.. image:: images/theano_logo_allblue_200x46.png
     :alt: Theano logo
     :height: 50px
 
@@ -170,7 +170,7 @@ following projects.  For information contact us at: `info@NumFOCUS.org`_.
 
 `Sage`_
 -------
-.. image:: static/images/sage.png
+.. image:: images/sage.png
     :alt: Sage logo
     :height: 75px
 
@@ -186,7 +186,7 @@ and study of the structure, dynamics, and functions of complex networks.
 
 `Python(X,Y)`_
 ---------------
-.. image:: static/images/pythonxy.png
+.. image:: images/pythonxy.png
     :alt: Python(X,Y) logo
     :height: 75px
 
