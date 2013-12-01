@@ -31,12 +31,13 @@ these tools and have always wanted to give back, donating to NumFOCUS
 gives you a way of supporting either a specific project of your choice
 or all of these great codes at once!
 
--  NumFOCUS has received 501(c)3 status as a public charity in the
-   United States.
-
 There are many ways to give. We have tried to make it as simple as
 possible to donate to NumFOCUS.  Please see the links at the bottom of the
 `donations page`_.  Our full bylaws are `available for download`_.
+
+NumFOCUS has received 501(c)3 status as a public charity in the
+United States.  The name NumFOCUS stands for "NumPy Foundation for Open Code
+for Usable Science".
 
 .. _donations page: |filename|/donations.rst
 .. _available for download: |filename|/pdfs/bylaws.pdf
