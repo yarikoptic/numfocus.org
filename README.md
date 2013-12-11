@@ -56,7 +56,7 @@ Use the following to push the results up to github:
 
     make github
 
-Fors this to work, please set your github remote 'upstream' to 
+For this to work, please set your github remote 'upstream' to 
 'git@github.com:numfocus/numfocus.org.git'.
 
 
