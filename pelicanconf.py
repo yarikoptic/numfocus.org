@@ -26,7 +26,7 @@ TRANSLATION_FEED_ATOM = None
 
 # Social widget
 SOCIAL = (
-    ('mailto:numfocus+subscribe@googlegroups.com', 'Join out mailing list'),
+    ('mailto:numfocus+subscribe@googlegroups.com', 'Join our mailing list'),
     ('https://groups.google.com/forum/#!forum/numfocus', 'Read the archives'),
 )
 
