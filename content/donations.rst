@@ -42,11 +42,12 @@ are available at our `corporate sponsorship page`_.
     -Eric Gorovitz, associate, Adler & Colvin
 
 
+There are two variants of our Fiscal Sponsorship Agreement (FSA) - 
+*Grantor-Grantee* and *Comprehensive*.  The Grantor-Grantee FSA can be found 
+`here`_.  The Comprehensive FSA will be published in the near future.
 Please look over our Fiscal Sponsorship Agreement and let us know if you have
 questions or would like additional information by contacting us at:
-`info@numfocus.org`_.  You can find the source for our fiscal sponsorship
-document `here`_.  Feel free to leave comments, feedback, or issue pull
-requests.
+`info@numfocus.org`_. 
 
 
 How to Donate
@@ -109,5 +110,5 @@ providers.
 
 .. _Donate with WePay: https://www.wepay.com/donations/78917
 .. _info@numfocus.org: mailto:info@numfocus.org
-.. _here: https://github.com/numfocus/fiscal-sponsorship
+.. _here: |filename|/pdfs/GranteeGrantorFSA.pdf
 .. _corporate sponsorship page: |filename|/corporate_sponsorship.rst
