@@ -34,16 +34,7 @@ In our efforts to promote and support high-level languages, reproducible
 scientific research and open-source development, NumFOCUS offers a Fiscal
 Sponsorship program.  The Fiscal Sponsorship program is a way for for donors to
 financially contribute toward the progress of a NumFOCUS affiliated project
-while also receiving benefits of contributing to 501(c)3 charity.  In our
-Fiscal Sponsorship program, the nonexempt project must act so as to further the
-exempt purposes of NumFOCUS.
-
-    Fiscal Sponsorship is an arrangement between a 501(c)(3) public charity
-    and a project (that does not have that tax status) in which, typically, the
-    charity receives and expends funds to advance the charitable work of the
-    project while retaining discretion and control over the funds.  
-    
-    -Eric Gorovitz, associate, Adler & Colvin
+while also receiving benefits of contributing to 501(c)3 charity. 
 
 NumFOCUS offers two models of Fiscal Sponsorship - *Grantor-Grantee* and
 *Comprehensive*.  In both models, the project must act to further the
