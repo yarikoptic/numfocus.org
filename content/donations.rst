@@ -22,32 +22,47 @@ donations go towards funding the following activities:
 
 - Raise funds from industries using Python and NumPy
 
+NumFOCUS is soliciting and accepting donations from individuals, institutional
+sponsors and corporations.  For details regarding corporate sponsorship are
+available at our `corporate sponsorship page`_.
+
 
 Fiscal Sponsorship
 ------------------
+
 In our efforts to promote and support high-level languages, reproducible
 scientific research and open-source development, NumFOCUS offers a Fiscal
 Sponsorship program.  The Fiscal Sponsorship program is a way for for donors to
 financially contribute toward the progress of a NumFOCUS affiliated project
-while also receiving benefits of contributing to 501(c)3 charity.  In our
-Fiscal Sponsorship program, the nonexempt project must act so as to further the
-exempt purposes of NumFOCUS.  Further details regarding corporate sponsorship
-are available at our `corporate sponsorship page`_.
+while also receiving benefits of contributing to 501(c)3 charity. 
 
-    Fiscal Sponsorship is an arrangement between a 501(c)(3) public charity
-    and a project (that does not have that tax status) in which, typically, the
-    charity receives and expends funds to advance the charitable work of the
-    project while retaining discretion and control over the funds.  
-    
-    -Eric Gorovitz, associate, Adler & Colvin
+NumFOCUS offers two models of Fiscal Sponsorship - *Grantor-Grantee* and
+*Comprehensive*.  In both models, the project must act to further the
+tax-exempt purposes of NumFOCUS according to Section 501(c)(3) of the Internal
+Revenue Code as being organized and operated exclusively for one or more
+purposes including charitable, educational, and scientific.
 
+**Grantor-Grantee model**: The fiscally sponsored project does not become a
+program belonging to the sponsor (as is the case with Comprehensive Sponsorship
+below), but is a separate entity responsible for managing its own tax reporting
+and liability issues. In addition, the sponsor does not maintain ownership of
+any part of the results of the project’s work. The sponsor simply assures
+itself that the project will use the grant funds received to accomplish the
+ends described in the grant proposal and that these will further the tax-exempt
+purposes of NumFOCUS. 
 
-There are two variants of our Fiscal Sponsorship Agreement (FSA) - 
-*Grantor-Grantee* and *Comprehensive*.  The Grantor-Grantee FSA can be found 
-`here`_.  The Comprehensive FSA will be published in the near future.
-Please look over our Fiscal Sponsorship Agreement and let us know if you have
-questions or would like additional information by contacting us at:
-`info@numfocus.org`_. 
+**Comprehensive model**: The fiscally sponsored project becomes a program of
+the fiscal sponsor and is a fully integrated part of the fiscal sponsor who
+maintains all legal and fiduciary responsibility for the sponsored project, its
+employees and activities.  Any work product is available to the public or to
+the charitable sector. The fiscal sponsor assures funders that the purposes and
+any restrictions of all grants and/or contributions will be met and these will
+further the tax-exempt purposes of NumFOCUS.
+
+The Grantor-Grantee Fiscal Sponsorship Agreement (FSA) can be found `here`_.
+The Comprehensive FSA will be published in the near future.  Please look over
+our Fiscal Sponsorship Agreement and let us know if you have questions or would
+like additional information by contacting us at: `info@numfocus.org`_. 
 
 
 How to Donate
