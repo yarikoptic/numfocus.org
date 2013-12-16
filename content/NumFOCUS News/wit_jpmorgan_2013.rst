@@ -11,19 +11,21 @@ needed to kick off the John Hunter Technical Fellowship.
 
 Our Women in Technology Initiatives have included: the Women in Science and
 Education (WiSE) Bootcamp in Boston and The Women in Technology (WiT) Workshop
-at PyData. We are in the process of working with our bootcamp partner, 
+at PyData NYC. We are in the process of working with our bootcamp partner, 
 `Software Carpentry`_, on an upcoming event in Oakland.
 
 Watch for information coming soon on our first John Hunter Technical
 Fellowship. 
 
-.. image:: |filename|/images/wit2013_1.jpeg
-    :height: 70px
+.. figure:: |filename|/images/wit2013_1.jpeg
     :alt: violin at WiT
 
-.. image:: |filename|/images/wit2013_2.jpeg
-    :height: 70px
+
+.. figure:: |filename|/images/wit2013_2.jpeg
     :alt: WiT audience
+
+    WiT Workshop panel discusion on how Python, and programming in general,
+    is influencing and shaping the working world.
 
 
 .. _Software Carpentry: http://software-carpentry.org/ 
