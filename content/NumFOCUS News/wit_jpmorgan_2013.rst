@@ -17,11 +17,11 @@ at PyData. We are in the process of working with our bootcamp partner,
 Watch for information coming soon on our first John Hunter Technical
 Fellowship. 
 
-.. image:: |filename|/images/wit2013_1.jpg
+.. image:: |filename|/images/wit2013_1.jpeg
     :height: 70px
     :alt: violin at WiT
 
-.. image:: |filename|/images/wit2013_2.jpg
+.. image:: |filename|/images/wit2013_2.jpeg
     :height: 70px
     :alt: WiT audience
 
