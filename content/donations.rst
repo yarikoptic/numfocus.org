@@ -59,7 +59,8 @@ the charitable sector. The fiscal sponsor assures funders that the purposes and
 any restrictions of all grants and/or contributions will be met and these will
 further the tax-exempt purposes of NumFOCUS.
 
-The Grantor-Grantee Fiscal Sponsorship Agreement (FSA) can be found `here`_.
+The Grantor-Grantee Fiscal Sponsorship Agreement (FSA) document are available
+as `pdf for preview`_ and as `LaTeX template`_.
 The Comprehensive FSA will be published in the near future.  Please look over
 our Fiscal Sponsorship Agreement and let us know if you have questions or would
 like additional information by contacting us at: `info@numfocus.org`_. 
@@ -125,5 +126,6 @@ providers.
 
 .. _Donate with WePay: https://www.wepay.com/donations/78917
 .. _info@numfocus.org: mailto:info@numfocus.org
-.. _here: |filename|/pdfs/GranteeGrantorFSA.pdf
+.. _pdf for preview: |filename|/pdfs/GranteeGrantorFSA.pdf
+.. _LaTeX template: https://github.com/numfocus/fiscal-sponsorship 
 .. _corporate sponsorship page: |filename|/corporate_sponsorship.rst
