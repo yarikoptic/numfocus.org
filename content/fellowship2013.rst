@@ -1,14 +1,14 @@
-NumFOCUS Technology Fellowship
-##############################
-:date: 2013-09-18
-:status: draft
+Numfocus Technology Fellowships
+###############################
+:date: 2014-01-15
+:slug: fellowships
+:hide_info: True
 
 
-Overview
---------
-The purpose of the NumFOCUS Technology Fellowship is to bridge the gap between
-academia and real-world, open-source coding projects by providing a capstone
-experience for individuals coming from a scientific educational background.
+The purpose of the Numfocus Technology Fellowship Program is to bridge the gap
+between academia and real-world, open-source coding projects by providing a
+capstone experience for individuals coming from a scientific educational
+background.
 
 Program Description
 -------------------
@@ -24,14 +24,14 @@ Eligible applicants are postdoctoral, or have equivalent experience in physics,
 mathematics, engineering, statistics, or a related science.
 
 Deadline
--------------
-All applications are due November 15, 2013 by 11:59 p.m. Central Standard Time.
+--------
+All applications are due April 15, 2014 by 11:59 p.m. Central Standard Time.
 
 Award Information
 -----------------
 Fellows receive a full scholarship, covering tuition, along with a $7,200
 stipend.  They are also provided with the time, office space, and resources
-necessary to complete the program.  NumFOCUS anticipates that it will make up
+necessary to complete the program.  Numfocus anticipates that it will make up
 to 10 awards for a maximum 18-month project period.
 
 The number of awards is subject to the availability of appropriated funds and
@@ -39,9 +39,9 @@ to any modifications or additional requirements that may be imposed.
 
 How to Apply
 ------------
-Submit applications to info@NumFOCUS.org.  The applicant should receive e-mail
+Submit applications to info@numfocus.org.  The applicant should receive e-mail
 verification within 48 hours stating the application has been received.  For
-additional information contact NumFOCUS by e-mail at: info@NumFOCUS.org or by
+additional information contact Numfocus by e-mail at: info@numfocus.org or by
 phone at: 512-222-5449.
 
 Applications must include all of the following:
@@ -55,11 +55,11 @@ Applications must include all of the following:
 
 Review Process
 --------------
-NumFOCUS is committed to ensuring a fair and open process for awarding
+Numfocus is committed to ensuring a fair and open process for awarding
 fellowships based on need, education, research, and work experience.  A
 committee will review each application independently.
 
-No applicant shall be denied consideration or appointment as a NumFOCUS
+No applicant shall be denied consideration or appointment as a Numfocus
 Technology Fellow on the grounds of race, creed, color, national origin, age,
 or sex.
 
@@ -67,8 +67,8 @@ Award Notification
 ------------------
 Applicants will be notified within 2 months after the deadline.
 
-NumFOCUS publishes lists of Fellowship recipients on the website at
-NumFOCUS.org.
+Numfocus publishes lists of Fellowship recipients on the website at
+`<numfocus.org>`_.
 
 Activity Report/Program Evaluation
 ----------------------------------
