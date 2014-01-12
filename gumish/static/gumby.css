@@ -150,8 +150,8 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   }
 }
 h1 {
-  font-size: 68px;
-  font-size: 4.25rem;
+  font-size: 38px;
+  font-size: 2.35rem;
 }
 h1.xlarge {
   font-size: 110px;
@@ -167,28 +167,28 @@ h1.absurd {
 }
 
 h2 {
-  font-size: 42px;
-  font-size: 2.625rem;
+  font-size: 28px;
+  font-size: 1.706rem;
 }
 
 h3 {
-  font-size: 30px;
-  font-size: 1.875rem;
+  font-size: 24px;
+  font-size: 1.218rem;
 }
 
 h4 {
-  font-size: 26px;
-  font-size: 1.625rem;
+  font-size: 20px;
+  font-size: 1.056rem;
 }
 
 h5 {
   font-size: 18px;
-  font-size: 1.125rem;
+  font-size: 0.955rem;
 }
 
 h6 {
   font-size: 16px;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 @media only screen and (max-width: 767px) {
