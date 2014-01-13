@@ -1,80 +1,43 @@
-Numfocus Technology Fellowships
-###############################
+Numfocus Technology Fellowship Program
+######################################
 :date: 2014-01-15
+:category: nofeed
 :slug: fellowships
 :hide_info: True
 
 
-The purpose of the Numfocus Technology Fellowship Program is to bridge the gap
-between academia and real-world, open-source coding projects by providing a
-capstone experience for individuals coming from a scientific educational
-background.
+**Purpose:** The Numfocus Technology Fellowship Program aims to bridge the gap
+between academia and real-world, open-source scientific computing projects by
+providing a capstone experience for individuals coming from a scientific
+educational background.
 
-Program Description
--------------------
-The program consists of a 3-18 month project-based training program for
-postdoctoral scientists. Fellows work on actual coding projects under the
-guidance of mentors who are leading scientists and software engineers.
-Collaboration with these top industry developers enables scientists to learn
-specific skills needed to contribute to cutting-edge open-source software.
+**Description:** The program consists of a 3-18 month project-based training
+program for senior graduate students or postdoctoral scientists.  Fellows work
+on actual coding projects under the guidance of mentors who are leading
+scientists and software engineers.  Collaboration with these top industry
+developers enables scientists to learn specific skills needed to contribute to
+cutting-edge open-source software.
 
-Eligibility
------------
-Eligible applicants are postdoctoral, or have equivalent experience in physics,
-mathematics, engineering, statistics, or a related science.
+While proposals in any area of science and engineering are welcome, the
+following areas are encouraged in particular: 
 
-Deadline
---------
-All applications are due April 15, 2014 by 11:59 p.m. Central Standard Time.
+- Accessible and reproducible computing
+- Enabling technology for open access publishing
+- Infrastructural technology supporting open-source scientific software stacks
+- Core open-source projects promoted by NumFOCUS
 
-Award Information
------------------
-Fellows receive a full scholarship, covering tuition, along with a $7,200
-stipend.  They are also provided with the time, office space, and resources
-necessary to complete the program.  Numfocus anticipates that it will make up
-to 10 awards for a maximum 18-month project period.
+**Eligibility:** Eligible applicants are postdoctoral scientists or senior PhD
+students, or have equivalent experience in physics, mathematics, engineering,
+statistics, or a related science.  The program is open to applicants from any
+nationality and can be performed at any university or institute world-wide
+(US export laws permitting).
 
-The number of awards is subject to the availability of appropriated funds and
-to any modifications or additional requirements that may be imposed.
+.. topic:: 2014 John Hunter Technology Fellowship
 
-How to Apply
-------------
-Submit applications to info@numfocus.org.  The applicant should receive e-mail
-verification within 48 hours stating the application has been received.  For
-additional information contact Numfocus by e-mail at: info@numfocus.org or by
-phone at: 512-222-5449.
+    Applications are now accepted for the 2014 John Hunter Technology
+    Fellowship.  This is the very first fellowship offered by the Numfocus
+    Technology Fellowship Program.  For more details, see
+    `John Hunter Fellowship 2014`_.
 
-Applications must include all of the following:
+.. _John Hunter Fellowship 2014: |filename|/john_hunter_fellowship_2014.rst
 
-* Proposal Cover Page containing applicants name, mailing address, email, phone
-  number, and date of availability for fellowship.
-* Short summary of education, research, and work experience.
-* Letters of recommendation. ?
-
-.. TODO remove question mark
-
-Review Process
---------------
-Numfocus is committed to ensuring a fair and open process for awarding
-fellowships based on need, education, research, and work experience.  A
-committee will review each application independently.
-
-No applicant shall be denied consideration or appointment as a Numfocus
-Technology Fellow on the grounds of race, creed, color, national origin, age,
-or sex.
-
-Award Notification
-------------------
-Applicants will be notified within 2 months after the deadline.
-
-Numfocus publishes lists of Fellowship recipients on the website at
-`<numfocus.org>`_.
-
-Activity Report/Program Evaluation
-----------------------------------
-Fellows are required to submit a written report within 30 days of the
-completion of the fellowship. The report should include information on any
-related activities, accomplishments, employment, research collaboration, and
-any other activities helpful in evaluating the impact of the fellowship as well
-as the program’s effectiveness in bridging the gap between academia and
-real-world, open-source coding projects.
