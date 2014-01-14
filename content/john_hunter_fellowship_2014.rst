@@ -5,9 +5,32 @@ John Hunter Technology Fellowship 2014
 :hide_info: True
 :slug: john_hunter_fellowship_2014
 
+**Purpose:** The John Hunter Technology Fellowship aims to bridge the gap
+between academia and real-world, open-source scientific computing projects by
+providing a capstone experience for individuals coming from a scientific
+educational background.
 
-PURPOSE, etc.
+**Description:** The program consists of a 6 month project-based training
+program for postdoctoral scientists or senior graduate students.  Fellows work
+on scientific computing open source projects under the guidance of mentors who
+are leading scientists and software engineers.  The aim of the Fellowship is to
+enable Fellows to develop the skills needed to contribute to cutting-edge open
+source software projects while at the same time advancing or supporting the
+research program they and their mentor are involved in.
 
+While proposals in any area of science and engineering are welcome, the
+following areas are encouraged in particular: 
+
+- Accessible and reproducible computing
+- Enabling technology for open access publishing
+- Infrastructural technology supporting open-source scientific software stacks
+- Core open-source projects promoted by NumFOCUS
+
+**Eligibility:** Eligible applicants are postdoctoral scientists or senior PhD
+students, or have equivalent experience in physics, mathematics, engineering,
+statistics, or a related science.  The program is open to applicants from any
+nationality and can be performed at any university or institute world-wide
+(US export laws permitting).
 
 Application Deadline
 --------------------
@@ -17,6 +40,8 @@ Award Information
 -----------------
 The Fellow receives an award of $25,000, which is meant to support the Fellow
 for 6 months of full-time work as defined in the accepted Proposal.
+
+The Fellowship can be started in the Jul 2014 - Jan 2015 time frame.
 
 How to Apply
 ------------
@@ -50,7 +75,7 @@ or sex.
 
 Award Notification
 ------------------
-Applicants will be notified within 2 months after the deadline.
+Applicants will be notified within 6 weeks after the deadline.
 
 Numfocus publishes lists of Fellowship recipients on the website at
 `<numfocus.org>`_.
@@ -75,3 +100,50 @@ real-world, open-source coding projects.
 
 
 FAQ
+---
+**How long is the proposal allowed to be?**
+
+While there is no hard limit, we recommend that the proposal including cover
+letter should not exceed 10 pages.
+
+**Is it possible to spread the duration of the Fellowship over two summers, or
+work half time for a year?**
+
+We expect the Fellow to work for 6 months full time without a long
+interruption.  Exceptions are possible but should be discussed with Numfocus at
+the time of submitting the application.
+
+**Can I apply if I haven't found a mentor and host institution yet?**
+
+No.  The award is made to the Fellow, however the application
+should be a joint effort by the Fellow and his/her proposed mentor and host
+institution. 
+
+**Is the award renewable?**
+
+No.  The purpose of the Fellowship is largely educational; after 6 months the
+Fellow is expected to have acquired the skills to contribute to scientific open
+source projects independently.
+
+**How many awards are made in 2014?**
+
+Numfocus aims to scale up its Numfocus Technology Fellowship Program to 5-10
+awards per year, funds permitting.  However, the April 2014 application
+round is the first time that Numfocus makes an award.  The Program is starting
+by making a single award in this round.
+
+**The condition awards mention Open Access publishing, which is not free.  Can
+you help with the publishing costs?**
+
+Yes.  Numfocus aims to support Open Access publications that follow from work
+done by Fellows.  For publishing in reputable Open Access journals up to $1500
+per Fellow can be contributed; more in exceptional cases.  Please discuss this
+topic with Numfocus directly.
+
+**Who is John Hunter?**
+
+John Hunter was the creator of Matplotlib and one of the founders of Numfocus.
+See `here`_ for more details.
+
+
+.. _here: |filename|/john_hunter.rst
