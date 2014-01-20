@@ -34,11 +34,11 @@ nationality and can be performed at any university or institute world-wide
 
 Application Deadline
 --------------------
-All applications are due April 15, 2014 by 11:59 p.m. Central Standard Time.
+All applications are due April 22, 2014 by 11:59 p.m. Central Standard Time.
 
 Award Information
 -----------------
-The Fellow receives an award of $25,000, which is meant to support the Fellow
+The Fellow receives an award of $33,000, which is meant to support the Fellow
 for 6 months of full-time work as defined in the accepted Proposal.
 
 The Fellowship can be started in the Jul 2014 - Jan 2015 time frame.
@@ -47,10 +47,10 @@ How to Apply
 ------------
 Applicants must complete their application in collaboration with the
 proposed mentor and host institution.
-Submit applications to info@numfocus.org.  The applicant should receive e-mail
-verification within 48 hours stating the application has been received.  For
-additional information contact Numfocus by e-mail at: info@numfocus.org or by
-phone at: (+1) 512-222-5449.
+Submit applications to fellowships@numfocus.org.  The applicant should receive
+e-mail verification within 48 hours stating the application has been received.
+For additional information contact Numfocus by e-mail at:
+fellowships@numfocus.org or by phone at: (+1) 512-222-5449.
 
 Applications must include all of the following:
 
@@ -75,7 +75,7 @@ or sex.
 
 Award Notification
 ------------------
-Applicants will be notified within 6 weeks after the deadline.
+Applicants will be notified within 4 weeks after the deadline.
 
 Numfocus publishes lists of Fellowship recipients on the website at
 `<numfocus.org>`_.
