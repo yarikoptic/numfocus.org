@@ -54,4 +54,5 @@ definitely keep, etc.
 We're looking forward to receiving strong and exciting applications!
 
 
-.. _before: |filename|/NumFOCUS News/jpmorgan_sponsors_pydata_2013.rst
+.. _call for applications: |filename|/john_hunter_fellowship_2014.rst
+.. _before: |filename|/jpmorgan_sponsors_pydata_2013.rst
