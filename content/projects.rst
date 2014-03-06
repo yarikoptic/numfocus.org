@@ -200,6 +200,18 @@ New Project Applications
 ========================
 Get in touch by `submitting the proposal form`_.
 
+Or emailing info@numfocus.org with the following information:
+
+    Please include links and references, where relevant:
+
+    * Project Name
+    * Submitter Name
+    * Request Type (sprint, travel, infrastructure, development time)
+    * Request amount / service
+    * Location
+    * Justification (a few paragraphs to a few pages)
+
+
 .. _`submitting the proposal form`: mailto:info@numfocus.org?subject=Project%20proposal&body=Please%20include%20links%20and%20references%2C%20where%20relevant%3A%0A%0A*%20Project%20Name%0A%0A*%20Submitter%20Name%0A%0A*%20Request%20Type%20(sprint%2C%20travel%2C%20infrastructure%2C%20development%20time)%0A%0A*%20Request%20amount%20%2F%20service%0A%0A*%20Location%0A%0A*%20Justification%20(a%20few%20paragraphs%20to%20a%20few%20pages)
 .. _NumPy: http://numpy.scipy.org/
 .. _SciPy: http://www.scipy.org/
