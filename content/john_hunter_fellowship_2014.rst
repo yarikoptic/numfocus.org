@@ -34,7 +34,7 @@ nationality and can be performed at any university or institute world-wide
 
 Application Deadline
 --------------------
-All applications are due April 22, 2014 by 11:59 p.m. Central Standard Time.
+All applications are due May 15, 2014 by 11:59 p.m. Central Standard Time.
 
 Award Information
 -----------------
@@ -47,8 +47,9 @@ How to Apply
 ------------
 Applicants must complete their application in collaboration with the
 proposed mentor and host institution.
-Submit applications to fellowships@numfocus.org.  The applicant should receive
-e-mail verification within 48 hours stating the application has been received.
+Submit applications to fellowships@numfocus.org, starting the subject line of
+the email with "JH Fellowship".  The applicant should receive e-mail
+verification within 48 hours stating the application has been received.
 For additional information contact Numfocus by e-mail at:
 fellowships@numfocus.org or by phone at: (+1) 512-222-5449.
 
@@ -128,7 +129,7 @@ source projects independently.
 **How many awards are made in 2014?**
 
 Numfocus aims to scale up its Numfocus Technology Fellowship Program to 5-10
-awards per year, funds permitting.  However, the April 2014 application
+awards per year, funds permitting.  However, the May 2014 application
 round is the first time that Numfocus makes an award.  The Program is starting
 by making a single award in this round.
 
