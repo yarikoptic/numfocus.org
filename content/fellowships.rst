@@ -32,12 +32,12 @@ statistics, or a related science.  The program is open to applicants from any
 nationality and can be performed at any university or institute world-wide
 (US export laws permitting).
 
-.. topic:: 2014 John Hunter Technology Fellowship
-
-    Applications are now accepted for the 2014 John Hunter Technology
-    Fellowship.  This is the very first fellowship offered by the Numfocus
-    Technology Fellowship Program.  For more details, see
-    `John Hunter Fellowship 2014`_.
+2014 John Hunter Technology Fellowship
+--------------------------------------
+*Applications are now accepted for the 2014 John Hunter Technology
+Fellowship.  This is the very first fellowship offered by the Numfocus
+Technology Fellowship Program.  For more details, see*  
+`John Hunter Fellowship 2014`_.
 
 .. _John Hunter Fellowship 2014: |filename|/john_hunter_fellowship_2014.rst
 
