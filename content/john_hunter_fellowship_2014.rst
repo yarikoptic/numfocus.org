@@ -147,4 +147,4 @@ John Hunter was the creator of Matplotlib and one of the founders of Numfocus.
 See `here`_ for more details.
 
 
-.. _here: |filename|/john_hunter.rst
+.. _here: johnhunter.html

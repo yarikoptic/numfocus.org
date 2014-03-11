@@ -1,7 +1,7 @@
 =====================================================
 Announcing the NumFOCUS Technology Fellowship Program
 =====================================================
-:date: 2014-02-10
+:date: 2014-03-11
 
 From the beginning of its founding, Numfocus has aimed at setting up a
 Technology Fellowship Program. Therefore we're thrilled that this Program is
@@ -55,4 +55,5 @@ We're looking forward to receiving strong and exciting applications!
 
 
 .. _call for applications: |filename|/john_hunter_fellowship_2014.rst
-.. _before: |filename|/jpmorgan_sponsors_pydata_2013.rst
+
+.. _before: http://numfocus.org/jp-morgan-sponsors-pydata-and-women-in-technology.html
