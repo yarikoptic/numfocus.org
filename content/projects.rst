@@ -125,23 +125,23 @@ for image processing.
     :alt: Scikit-learn logo
     :height: 75px
 
-Module designed for scientific pythons that provides accesible solutions to
+Module designed for scientific Python that provides accesible solutions to
 machine learning problems.
 
 
-`Scikits-Statsmodels`_
---------------------------
+`Statsmodels`_
+--------------
 .. image:: images/scikits.png
     :alt: Scikits-Statsmodels logo
     :height: 75px
 
-Statsmodels is a Python package that provides a complement to scipy for
+Statsmodels is a Python package that provides a complement to Scipy for
 statistical computations including descriptive statistics and estimation of
 statistical models.
 
 
 `Spyder`_
--------------
+---------
 .. image:: images/spyder.png
     :alt: Spyder logo
     :height: 75px
@@ -153,7 +153,7 @@ NumPy, SciPy, and matplotlib.
 
 
 `Theano`_
--------------
+----------
 .. image:: images/theano_logo_allblue_200x46.png
     :alt: Theano logo
     :height: 50px
@@ -164,25 +164,6 @@ mathematical expressions involving multi-dimensional arrays efficiently.
 
 Associated Projects
 ===================
-NumFOCUS is currently looking for representatives to enable us to promote the
-following projects.  For information contact us at: `info@NumFOCUS.org`_.
-
-
-`Sage`_
--------
-.. image:: images/sage.png
-    :alt: Sage logo
-    :height: 75px
-
-Open source mathematics sofware system that combines existing open-source
-packages into a Python-based interface.
-
-
-`NetworkX`_
-------------
-NetworkX is a Python language software package for the creation, manipulation,
-and study of the structure, dynamics, and functions of complex networks.
-
 
 `Python(X,Y)`_
 --------------
