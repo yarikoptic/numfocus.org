@@ -102,10 +102,48 @@ real-world, open-source coding projects.
 
 FAQ
 ---
-**How long is the proposal allowed to be?**
+**Would this fellowship apply to the life sciences as well?**
 
-While there is no hard limit, we recommend that the proposal including cover
-letter should not exceed 10 pages.
+Yes. Any proposal that falls under "open-source scientific computing" is very
+welcome. 
+
+**Is the fellowship restricted to scientific Python?**
+
+No.  While Numfocus is currently mostly focused on Python, proposals for
+projects in Julia, R or other open source scientific computing languages /
+environments are equally welcome.
+
+**Can the proposed mentor come from industry?**
+
+It is possible for both mentor and fellow to be in industry.  Constructions
+with a fellow at an institute or university and a mentor from industry may also
+be possible (and even provide additional value), however in that case support
+within the host institute is also necessary.  Please discuss particular
+situations with Numfocus.
+
+**What makes a strong applicant? How much experience is required? And is it
+more about the scientific value of the software?**
+
+The ideal fellow would be a talented scientist/engineer who is also a great
+developer, is new to contributing to an open source project, learns about and
+enjoys contributing to open source scientific computing projects, has a big
+impact during his fellowship, keeps contributing to OS scientific computing
+projects afterwards, and builds on his fellowship in the next steps of his
+career.
+
+It is important that the fellowship has educational value to the fellow. It
+shouldn't simply be funding to do things that he/she was already doing before.
+
+**What disqualifies someone from applying?**
+
+- Having obtained a PhD more than 4 years before the deadline.
+- Not being able to work full-time (except for exceptional circumstances that
+  have to be discussed with the board).
+- Not being able to agree to the conditions of the award, like making
+  publications freely available.
+
+Too much experience doesn't disqualify as a rule (can't quantify "too"), but
+there needs to be some educational component.
 
 **Is it possible to spread the duration of the Fellowship over two summers, or
 work half time for a year?**
@@ -120,6 +158,13 @@ No.  The award is made to the Fellow, however the application
 should be a joint effort by the Fellow and his/her proposed mentor and host
 institution. 
 
+**Is it expected that the proposed work will be undertaken at the
+mentor's host institution, or is remote working also acceptable?**
+
+Numfocus definitely has a strong preference for working at the host
+institution. Whether remote working is acceptable under some
+circumstances can be discussed with the Numfocus board.
+
 **Is the award renewable?**
 
 No.  The purpose of the Fellowship is largely educational; after 6 months the
@@ -133,6 +178,11 @@ awards per year, funds permitting.  However, the May 2014 application
 round is the first time that Numfocus makes an award.  The Program is starting
 by making a single award in this round.
 
+**How long is the proposal allowed to be?**
+
+While there is no hard limit, we recommend that the proposal including cover
+letter should not exceed 10 pages.
+
 **The condition awards mention Open Access publishing, which is not free.  Can
 you help with the publishing costs?**
 
@@ -140,6 +190,11 @@ Yes.  Numfocus aims to support Open Access publications that follow from work
 done by Fellows.  For publishing in reputable Open Access journals up to $1500
 per Fellow can be contributed; more in exceptional cases.  Please discuss this
 topic with Numfocus directly.
+
+**Who are the members of the review committee?**
+
+The Numfocus board will be reviewing all proposals and make the final decision. 
+Where needed the board may invite domain experts to review proposals.
 
 **Who is John Hunter?**
 
