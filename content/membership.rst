@@ -34,10 +34,10 @@ support and promote its projects.
 **Other advantages of membership include:**
 
 -  20% Discount on PyData conferences
--  Discounts on products - (e.g. 10% off IOPro from Continuum). 
+-  Discounts on products - (e.g. 10% off IOPro from Continuum).
 -  Networking with others in the scientific and engineering Python community
 -  A chance to have greater insight into NumFOCUS and to influence its work
--  A chance to provide real support to open source projects that you use 
+-  A chance to provide real support to open source projects that you use
 -  Opportunity to highlight one’s personal or corporate involvement with
    the foundation
 
@@ -46,37 +46,37 @@ support and promote its projects.
 Full details on membership may be found in the amended bylaws.
 
 - **Community Member**: Anyone may become a community member by sending
-  a message to either:
+  a message to either
   admin@numfocus.org or numfocus@googlegroups.com containing:
-  
+
   - a request for admission to membership
   - an email address
   - a mailing address or country of residence
   - an indication of whether they want contact information listed on the public
     NumFOCUS membership web page.
 
-- **Supporting Member**: Individuals who manifest their support for NumFOCUS 
-    and its aims by  contributing funds each year to the Foundation.   
-    Besides the benefit of knowing they are contributing to the the ecosystem 
+- **Supporting Member**: Individuals who manifest their support for NumFOCUS
+    and its aims by  contributing funds each year to the Foundation.
+    Besides the benefit of knowing they are contributing to the ecosystem
     of projects that NumFOCUS supports, supporting Members also enjoy the right
-    to vote on certain actions brought to the membership as well as a 
+    to vote on certain actions brought to the membership as well as a
     30% Discount on PyData conferences and additional discounts on products
     (e.g. 20% off IOPro and Accelerate from Continuum).  Minimum yearly dues for
-    supporting members are:  
+    supporting members are:
 
     - Professional: $128/yr
     - Early Professional (<5 years after school): $64/yr
     - Student or Retired: $32/yr
 
     - Lifetime Supporting Member: $4000 one time
-    
+
 The following categories of membership are intended to demonstrate special
 recognition by the NumFOCUS community of contributions by such members towards
 the goals of NumFOCUS.
-    
-- **Contributing Member**: Are admitted by majority vote of the board of 
+
+- **Contributing Member**: Are admitted by majority vote of the board of
   directors based on contributions to the communities of interest to NumFOCUS.
-  The receive all the benefits of sponsoring members.
+  They receive all the benefits of sponsoring members.
 
 - **Fellow**: Are nominated by a board member and approved by
   a 2/3 majority vote of the Board of Directors. Fellows must have previously
@@ -85,14 +85,14 @@ the goals of NumFOCUS.
 
 - **Member Emeritus**: Are for members previously in the Supporting,
   Contributing, or Fellow category that are currently inactive. A switch
-  to emeritus status can be initiated by the member themselves or by the 
-  board. If by the board, it must be approved by a 2/3 majority vote. 
-  Emeritus members may reactivate their previous membership status by 
+  to emeritus status can be initiated by the member themselves or by the
+  board. If by the board, it must be approved by a 2/3 majority vote.
+  Emeritus members may reactivate their previous membership status by
   sending such a request by email.
 
 Corporate Sponsorships are also available and encouraged and details can be
-found on the corporate sponsorship page, but all members of NumFOCUS are 
-individuals. 
+found on the corporate sponsorship page, but all members of NumFOCUS are
+individuals.
 
 .. _info@numfocus.org: mailto:info@numfocus.org
 .. _corporate sponsorship page: |filename|/corporate_sponsorship.rst
