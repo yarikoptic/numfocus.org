@@ -1,7 +1,7 @@
 numfocus.org
 ============
 
-NumFOCUS Website Revamp Project
+NumFOCUS Website
 
 This is the source of the pelican-based NumFOCUS.org site.  These pages should
 be generated from these sources and then pushed to the actual site.

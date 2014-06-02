@@ -11,7 +11,12 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-THEME = u'gumish'
+THEME = u'theme'
+
+# Put Articles in News
+ARTICLE_URL = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -34,19 +39,20 @@ GITHUB_URL = 'https://github.com/numfocus'
 TWITTER_URL = 'https://twitter.com/numfocus'
 GOOGLEPLUS_URL = 'https://plus.google.com/communities/100008130850352595608'
 
-MENUITEMS = [('About', 'about.html'),
-             ('Projects', 'projects.html'),
-             ('Board', 'board.html'),
-             ('Membership', 'membership.html'),
-             ('Fellowships', 'fellowships.html'),
-             ('Donations', 'donations.html'),
-             ('Sponsors', 'sponsors.html'),
-             ('Contact', 'contact.html'),
-             ]
+MENUITEMS = []
+# MENUITEMS = [('About', 'about.html'),
+#              ('Projects', 'projects.html'),
+#              ('Board', 'board.html'),
+#              ('Membership', 'membership.html'),
+#              ('Fellowships', 'fellowships.html'),
+#              ('Donations', 'donations.html'),
+#              ('Sponsors', 'sponsors.html'),
+#              ('Contact', 'contact.html'),
+#              ]
 
-DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sponsors')
+#DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sponsors')
 
-EXTRA_TEMPLATE_PATHS = ('templates',)
+#EXTRA_TEMPLATE  _PATHS = ('templates',)
 #PAGINATED_DIRECT_TEMPLATES = []
 DEFAULT_PAGINATION = 12
 
