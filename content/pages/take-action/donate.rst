@@ -51,11 +51,6 @@ providers.
        </form>
 
 
-
-* **WePay** - (2.90% + $0.30 / transaction)
-    `Donate with WePay`_
-
-
 * **Dwolla** - ($0.25 / transaction) -- No credit cards and U.S. banks only
    .. raw:: html
 
@@ -82,7 +77,6 @@ providers.
 
 **Your personal contribution is greatly appreciated!**
 
-.. _Donate with WePay: https://www.wepay.com/donations/78917
 .. _pdf for preview: |filename|/pdfs/GranteeGrantorFSA.pdf
 .. _LaTeX template: https://github.com/numfocus/fiscal-sponsorship 
 .. _corporate sponsorship page: |filename|/pages/take-action/sponsorship.rst
