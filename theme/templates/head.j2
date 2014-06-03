@@ -37,7 +37,6 @@
 		$('.nav li').each(function(){
 			$(this).removeClass('active');
 		})
-		console.log("-->"+location.pathname.split("/")[1]+"<--");
     if(location.pathname.split("/")[1]!='') {
 	    $('.nav a[href^="/' + location.pathname.split("/")[1] + '"]').parents('li').addClass('active');  
     }
