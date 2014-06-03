@@ -181,6 +181,42 @@ datasets in a variety of scientific disciplines. yt aims to provide a simple
 uniform way of handling volumetric data, regardless of where it is generated.
 yt is developed in Python under the open-source model. 
 
+Educational Projects
+====================
+
+Software Carpentry
+------------------
+
+.. image:: |filename|/media/img/projects/software-carpentry-logo-285x58.png
+   :alt: Software Carpentry logo
+
+Our mission is to help scientists be more productive by teaching them basic computing skills. Our approach combines short, intensive workshops with self-paced online instruction. The benefits are more reliable results and higher productivity: a day a week is common, and a ten-fold improvement isn’t rare.  For more information check out our blog at  `http://software-carpentry.org/blog/`_, follow us on twitter as  `@swcarpentry`_, or contact us by email at  `info@software-carpentry.org`_.
+
+inSCIght
+--------
+
+.. image:: |filename|/media/img/projects/InSciGHT.jpg
+   :alt: InSCIght logo
+
+`inSCIght`_ is a podcast that focuses on scientific computing in all of its
+various forms. We have four panelists engage head-to-head on poignant and
+interesting topics. The panelists are drawn from all across the scientific
+computing community.  From embedded systems experts to very high level language
+gurus, from biologists to nuclear engineers, the hosts of inSCIght use
+computers to solve science and engineering problems everyday. This podcast
+throws people, ideas, and opinions into an audio-blender hoping to educate and
+entice each other and the world.  `http://inscight.org`_
+
+.. _`inSCIght`: http://inscight.org/
+.. _`http://inscight.org`: http://inscight.org/
+
+
+.. _`Software Carpentry`: http://software-carpentry.org/
+.. _`http://software-carpentry.org/blog/`: http://software-carpentry.org/blog/
+.. _`@swcarpentry`: https://twitter.com/swcarpentry
+.. _info@software-carpentry.org: mailto:info@software-carpentry.org
+
+
 .. _project-proposal:
 
 .. _NumPy: http://numpy.scipy.org/
