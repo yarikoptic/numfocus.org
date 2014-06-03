@@ -23,6 +23,15 @@ PAGES_DIR = 'pages'
 PAGES_URL = '{slug}.html'
 PAGES_SAVE_AS = '{slug}.html'
 
+CATEGORY_URL = 'news/categories/{slug}.html'
+CATEGORY_SAVE_AS = 'news/categories/{slug}.html'
+
+TAG_URL = 'news/tags/{slug}.html'
+TAG_SAVE_AS = 'news/tags/{slug}.html'
+
+AUTHOR_URL = 'news/author/{slug}.html'
+AUTHOR_SAVE_AS = 'news/author/{slug}.html'
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
