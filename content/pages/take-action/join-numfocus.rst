@@ -3,9 +3,6 @@ Joining NumFOCUS
 :url: take-action/join.html
 :save_as: take-action/join.html
 
-Join NumFOCUS
------------------------------
-
 The NumFOCUS Foundation was formed in 2012 to "promote the use of accessible and reproducible computing in science and technology." Much of this effort centers around the use of Python and its tools.
 
 NumFOCUS is excited to announce membership is now open. The involvement of the community is vital in helping to help raise the visibility of Python and its advantages within the scientific and engineering community, as well as to support and promote its projects.
@@ -30,11 +27,9 @@ NumFOCUS is excited to announce membership is now open. The involvement of the c
 
 **Membership Types**
 
-Full details on membership may be found in the amended `bylaws <|filename|/media/docs/bylaws.pdf>`.
+Full details on membership may be found in the amended `bylaws <|filename|/media/docs/bylaws.pdf>`_.
 
-- **Community Member**: Anyone may become a community member by sending
-  a message to either
-  info@numfocus.org containing:
+- **Community Member**: Anyone may become a community member by sending a message to info@numfocus.org containing:
 
   - a request for admission to membership
   - an email address
@@ -78,4 +73,4 @@ the goals of NumFOCUS.
   sending such a request by email.
 
 Corporate Sponsorships are also available and encouraged and details can be
-found on the `sponsorship page <|filename|sponsorship.rst>`, but all members of NumFOCUS are individuals.
+found on the `sponsorship page <|filename|sponsorship.rst>`_, but all members of NumFOCUS are individuals.
