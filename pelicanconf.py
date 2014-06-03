@@ -14,8 +14,14 @@ DEFAULT_LANG = u'en'
 THEME = u'theme'
 
 # Put Articles in News
+ARTICLE_DIR = 'articles'
 ARTICLE_URL = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+
+# Put Pages at top-level
+PAGES_DIR = 'pages'
+PAGES_URL = '{slug}.html'
+PAGES_SAVE_AS = '{slug}.html'
 
 
 # Feed generation is usually not desired when developing
@@ -50,10 +56,10 @@ MENUITEMS = []
 #              ('Contact', 'contact.html'),
 #              ]
 
-#DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sponsors')
+DIRECT_TEMPLATES = ('news/tags', 'news/categories', 'news/archives', 'news/index')
 
 #EXTRA_TEMPLATE  _PATHS = ('templates',)
-#PAGINATED_DIRECT_TEMPLATES = []
+PAGINATED_DIRECT_TEMPLATES = ['news/index']
 DEFAULT_PAGINATION = 12
 
 # the intended way to add articles to the news feed is to add them to a
