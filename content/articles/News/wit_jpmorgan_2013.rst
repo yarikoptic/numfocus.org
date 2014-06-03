@@ -17,11 +17,11 @@ at PyData NYC. We are in the process of working with our bootcamp partner,
 Watch for information coming soon on our first John Hunter Technical
 Fellowship. 
 
-.. figure:: |filename|/images/wit2013_1.jpeg
+.. figure:: |filename|/media/img/articles/wit2013_1.jpeg
     :alt: violin at WiT
 
 
-.. figure:: |filename|/images/wit2013_2.jpeg
+.. figure:: |filename|/media/img/articles/wit2013_2.jpeg
     :alt: WiT audience
 
     WiT Workshop panel discusion on how Python, and programming in general,

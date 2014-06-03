@@ -4,7 +4,7 @@ John Hunter Memorial Fund
 :author: Travis
 :slug: johnhunter
 
-.. image:: images/John-hunter-crop-2.jpg
+.. image:: |filename|/media/img/articles/John-hunter-crop-2.jpg
     :alt: John Hunter
     :height: 200px
     :align: right

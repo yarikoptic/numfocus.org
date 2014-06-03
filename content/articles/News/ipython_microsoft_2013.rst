@@ -3,7 +3,7 @@
 ========================================
 :date: 2013-09-27
 
-.. image:: |filename|/images/microsoft-logo.jpg
+.. image:: |filename|/media/img/sponsors/microsoft-logo.jpg
    :height: 70px
    :alt: Microsoft logo
 

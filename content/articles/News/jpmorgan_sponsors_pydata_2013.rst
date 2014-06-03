@@ -3,7 +3,7 @@
 ====================================================
 :date: 2013-11-08
 
-.. image:: |filename|/images/Logo2008_JPM_D_Black.png
+.. image:: |filename|/media/img/sponsors/Logo2008_JPM_D_Black.png
    :height: 100px
    :alt: JPMorgan logo
 

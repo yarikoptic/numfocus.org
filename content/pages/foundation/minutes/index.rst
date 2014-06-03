@@ -1,7 +1,7 @@
 Board Meeting Minutes
 ######################
-:url:foundation/minutes/
-:save_as:foundation/minutes/index.html
+:url: foundation/minutes/
+:save_as: foundation/minutes/index.html
 
 Below you will find a listing of our board minutes. We are currently trying to move the minutes to a better system and will post the current minutes as soon as possible.
 

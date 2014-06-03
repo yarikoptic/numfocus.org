@@ -4,7 +4,7 @@ Tokyo SciPy
 :author: Leah
 :slug: tokyo-scipy2012
 
-.. image:: |filename|/images/Tokyo-SciPy.jpg
+.. image:: |filename|/media/img/articles/Tokyo-SciPy.jpg
    :alt: Audience at Tokyo SciPy
 
 Chairman of NumFOCUS' Board of Director's, Travis Oliphant, spoke at the

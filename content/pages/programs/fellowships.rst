@@ -36,5 +36,5 @@ Fellowship.  This is the very first fellowship offered by the Numfocus
 Technology Fellowship Program.  For more details, see*  
 `John Hunter Fellowship 2014`_.
 
-.. _John Hunter Fellowship 2014: |filename|/pages/john-hunter.md
+.. _John Hunter Fellowship 2014: |filename|john_hunter_fellowship_2014.rst
 
