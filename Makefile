@@ -64,7 +64,7 @@ theme:
 
 $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	#cp -r redirects/* $(OUTPUTDIR)
+	cp -r redirects/* $(OUTPUTDIR)
 
 clean:
 	$(MAKE) -C theme clean
@@ -72,7 +72,7 @@ clean:
 
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	#cp -r redirects/* $(OUTPUTDIR)
+	cp -r redirects/* $(OUTPUTDIR)
 
 serve:
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
