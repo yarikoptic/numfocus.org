@@ -1,7 +1,7 @@
 JP Morgan's Diamond Sponsorship brings over $125,000 to NumFOCUS's Educational Programs 
 ########################################################################################
 :date: 2013-12-06
-:author: Leah
+:author: Leah Silen
 :slug: wip-2013
 
 We would like to thank JP Morgan for their generosity and continued support of

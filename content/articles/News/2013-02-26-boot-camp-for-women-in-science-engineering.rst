@@ -1,7 +1,7 @@
 Women in Technology Initiatives
 ###############################
 :date: 2013-02-26 17:58
-:author: Leah
+:author: Leah Silen
 :slug: boot-camp-for-women-in-science-engineering
 
 Women in Science & Engineering Boot Camps

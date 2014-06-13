@@ -2,6 +2,7 @@
  Microsoft Corporation sponsors IPython
 ========================================
 :date: 2013-09-27
+:author: Leah Silen
 
 .. image:: |filename|/media/img/sponsors/microsoft-logo.jpg
    :height: 70px

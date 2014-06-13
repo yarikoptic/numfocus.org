@@ -1,6 +1,7 @@
 Women in Science and Engineering Boot Camp
 ##########################################
 :date: 2012-02-25 16:31
+:author: Leah Silen
 
 Due in part to a generous donation made by J.P. Morgan to NumFOCUS, we are
 pleased to announce that `NumFOCUS`_ will be collaborating with `Software Carpentry`_

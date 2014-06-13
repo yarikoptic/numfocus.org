@@ -1,7 +1,7 @@
 John Hunter Memorial Fund
 #########################
 :date: 2012-08-28 23:29
-:author: Travis
+:author: Travis Oliphant
 :slug: johnhunter
 
 .. image:: |filename|/media/img/articles/John-hunter-crop-2.jpg

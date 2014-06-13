@@ -1,6 +1,7 @@
 Scientific Computing with Python
 ################################
 :date: 2012-02-25 16:31
+:author: Leah Silen
 
 .. image:: http://gallery.mailchimp.com/e91b4574d5d1709a9dc4f7ab7/images/scipy_logo_shiny_blue_no_reflec.png
    :alt: SciPy logo

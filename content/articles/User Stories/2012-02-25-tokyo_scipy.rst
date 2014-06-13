@@ -1,7 +1,7 @@
 Tokyo SciPy
 -----------
 :date: 2012-02-25 15:47
-:author: Leah
+:author: Leah Silen
 :slug: tokyo-scipy2012
 
 .. image:: |filename|/media/img/articles/Tokyo-SciPy.jpg

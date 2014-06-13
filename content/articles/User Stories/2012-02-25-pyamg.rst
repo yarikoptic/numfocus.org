@@ -1,7 +1,7 @@
 Circuitscape Protects Endangered Species Using PyAMG
 ####################################################
 :date: 2012-02-25
-:author: Leah
+:author: Leah Silen
 :slug: python-pyamg
 
 .. image:: |filename|/media/img/articles/zimmer_gene_circuit_500px.jpg

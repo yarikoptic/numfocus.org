@@ -1,6 +1,7 @@
 Call for Speakers
 #################
 :date: 07-04-2013
+:author: Leah Silen
 
 The call for speakers for PyData Boston (July 27-28th) is now open. If you are
 interested in presenting a talk on how you use Python for data management,

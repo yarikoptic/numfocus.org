@@ -2,6 +2,7 @@
  J.P. Morgan sponsors PyData and Women in Technology
 ====================================================
 :date: 2013-11-08
+:author: Leah Silen
 
 .. image:: |filename|/media/img/sponsors/Logo2008_JPM_D_Black.png
    :height: 100px

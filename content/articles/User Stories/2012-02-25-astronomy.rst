@@ -1,7 +1,7 @@
 Python in Astronomy
 -------------------
 :date: 2012-02-25
-:author: Leah
+:author: Leah Silen
 :slug: python-in-astronomy
 
 .. image:: |filename|/media/img/articles/sn-blackholes.jpg

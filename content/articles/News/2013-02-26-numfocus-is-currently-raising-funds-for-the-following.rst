@@ -1,7 +1,7 @@
 Current Fundraising Efforts:
 ############################
 :date: 2013-02-26 16:36
-:author: Leah
+:author: Leah Silen
 :slug: numfocus-is-currently-raising-funds-for-the-following
 
 Boot Camp for Women in Science & Engineering

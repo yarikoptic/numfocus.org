@@ -1,6 +1,7 @@
 Share your stories of how you use NumFOCUS supported tools
 ##########################################################
 :date: 2013-07-12
+:author: Leah Silen
 
 Read how others are you the tools NumFOCUS supports in  `User Stories`_.
 
