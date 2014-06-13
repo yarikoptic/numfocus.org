@@ -1,3 +1,5 @@
 output/
+theme/static/css/style.css
+theme/static/css/mixins.css
 *.pyc
 .DS_Store
