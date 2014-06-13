@@ -57,4 +57,4 @@ We're looking forward to receiving strong and exciting applications!
 
 .. _call for applications: |filename|/pages/programs/john_hunter_fellowship_2014.rst
 
-.. _before: |filename|/articles/News/jpmorgan_sponsors_pydata_2013.rst
+.. _before: |filename|/articles/News/2013-11-08-jpmorgan_sponsors_pydata_2013.rst
