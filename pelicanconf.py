@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 
-#AUTHOR = u'NumFOCUS Foundation'
+AUTHOR = u'NumFOCUS Foundation'
 SITENAME = u'NumFOCUS Foundation'
 SITEURL = ''
 
@@ -29,8 +29,8 @@ CATEGORY_SAVE_AS = 'news/categories/{slug}.html'
 TAG_URL = 'news/tags/{slug}.html'
 TAG_SAVE_AS = 'news/tags/{slug}.html'
 
-AUTHOR_URL = 'news/author/{slug}.html'
-AUTHOR_SAVE_AS = 'news/author/{slug}.html'
+#AUTHOR_URL = 'news/author/{slug}.html'
+#AUTHOR_SAVE_AS = 'news/author/{slug}.html'
 
 
 # Feed generation is usually not desired when developing
