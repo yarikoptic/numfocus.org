@@ -63,16 +63,16 @@ theme:
 	cd theme && $(MAKE) 
 
 $(OUTPUTDIR)/%.html:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	cp -r redirects/* $(OUTPUTDIR)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
 	$(MAKE) -C theme clean
 	[ ! -d $(OUTPUTDIR) ] || find $(OUTPUTDIR) -mindepth 1 -delete
 
 regenerate: clean
-	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	cp -r redirects/* $(OUTPUTDIR)
+	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
@@ -87,8 +87,8 @@ stopserver:
 	$(RM) -rf pelican.pid srv.pid
 
 publish:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	cp -r redirects/* $(OUTPUTDIR)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
