@@ -1,6 +1,6 @@
 NumFOCUS Elections 2014
 #######################
-:date: 12-05-2014
+:date: 2014-05-12
 :author: Andy R. Terrel
 
 As NumFOCUS continues its third year of life, it is time for us to consider the future.  These past two years we have successfully found funding for numerous events, several projects, and continue to grow in membership.  The current board has worked hard to start something from scratch and part of that process is defining how to rotate the board. NumFOCUS will be hosting its first elections this year.
