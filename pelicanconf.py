@@ -7,7 +7,7 @@ AUTHOR = u'NumFOCUS Foundation'
 SITENAME = u'NumFOCUS Foundation'
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = u'en'
 
